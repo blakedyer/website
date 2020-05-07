@@ -59,6 +59,17 @@ html, body {
   overflow: hidden;
 }
 
+.img-container-gmsl {
+  min-height: 33%;
+  background-image: url('gmsl.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 33% 33%;
+  width: 100%;
+  display: table;
+  overflow: hidden;
+}
+
 .img-container-c {
   height: 1%;
   background-color: #222222;
