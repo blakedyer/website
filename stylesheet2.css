@@ -32,7 +32,7 @@ html, body {
   -webkit-transform: translateX(-50%) translateY(-88%);
   transform: translate(-50%, -80%);
   height: 100%;
-  width: 246vh;
+  width: 242.5vh;
   min-width: 100%;
   min-height: 6vw;
 }
