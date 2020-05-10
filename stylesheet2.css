@@ -6,13 +6,35 @@ html, body {
 
 .img-container {
   min-height: 66%;
-  background-image: url('front.jpg');
+  /* background-image: url('front.jpg'); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 33% 33%;
   width: 100%;
   display: table;
   overflow: hidden;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
+}
+
+.video-container video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* min-width: 100%;
+  min-height: 100%;
+  width: 100%;
+  height: auto; */
+  z-index: -1;
+  -ms-transform: translateX(-50%) translateY(-88%);
+  -moz-transform: translateX(-50%) translateY(-88%);
+  -webkit-transform: translateX(-50%) translateY(-88%);
+  transform: translate(-50%, -80%);
+  height: 100%;
+  width: 246vh;
+  min-width: 100%;
+  min-height: 6vw;
 }
 
 .img-container-r {
@@ -24,6 +46,9 @@ html, body {
   width: 100%;
   display: table;
   overflow: hidden;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
 }
 
 .img-container-p {
@@ -35,6 +60,9 @@ html, body {
   width: 100%;
   display: table;
   overflow: hidden;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
 }
 
 .img-container-f {
@@ -46,6 +74,9 @@ html, body {
   width: 100%;
   display: table;
   overflow: hidden;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
 }
 
 .img-container-d {
@@ -57,6 +88,9 @@ html, body {
   width: 100%;
   display: table;
   overflow: hidden;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
 }
 
 .img-container-gmsl {
@@ -68,6 +102,9 @@ html, body {
   width: 100%;
   display: table;
   overflow: hidden;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
 }
 
 .img-container-c {
@@ -76,6 +113,9 @@ html, body {
   width: 100%;
   display: table;
   overflow: hidden;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
 }
 
 body {
@@ -117,10 +157,11 @@ a:hover {
   position: relative;
   display: table-row;
   vertical-align: middle;
+  text-shadow: -1px 0 #222222, 0 1px #222222, 1px 0 #222222, 0 -1px #222222;
 }
 
 .description i {
-  font-size: .5em;
+  font-size: .35em;
   font-weight: 100;
 }
 
@@ -131,6 +172,7 @@ a:hover {
   margin-right: 20%;
   text-align: left;
   line-height: 2em;
+  overflow: hidden;
 }
 
 .info header {
