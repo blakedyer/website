@@ -13,9 +13,6 @@ html, body {
   width: 100%;
   display: table;
   overflow: hidden;
-  border-bottom: 1px;
-  border-bottom-style: solid;
-  border-bottom-color: #222222;
 }
 
 .video-container video {
