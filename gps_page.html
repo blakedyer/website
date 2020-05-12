@@ -7,7 +7,6 @@
   <link href="site.css" media="all" rel="stylesheet" type="text/css" />
   <meta name="description" content="Geology" />
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
 
 
   <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
@@ -40,26 +39,22 @@
   <script type="text/javascript">
     Bokeh.set_log_level("info");
   </script>
-
-  <script>
-    $(function() {
-      $("#nav-placeholder").load("nav.html");
-    });
-  </script>
-  <script>
-    $(function() {
-      $("#foot-placeholder").load("footer.html");
-    });
-  </script>
-
 </head>
 
 <body>
 
   <div class="img-container-d">
 
-    <div id="nav-placeholder">
-    </div>
+    <h1 id='logo'>
+      <a href="index.html"><img src="NAME.png" width="368" alt="" /></a>
+    </h1>
+    <nav>
+      <a href="index.html">About</a>
+      <a href="research.html">Research</a>
+      <a href="fieldwork.html">Field Work</a>
+      <a href="publications.html">Publications</a>
+      <a onclick="ga('send', 'event', 'Downloads', 'Click', 'CV', '0');" href="cv.pdf">CV</a>
+    </nav>
 
     <div class="description">
       <b style="letter-spacing:.2em">GPS DATA</b><br>
@@ -2186,7 +2181,18 @@
     </div>
   </center>
 
-  <div id="foot-placeholder">
+  <div class='footer'>
+    <p style="font-size:1.5em">
+      <a href="https://scholar.google.com/citations?user=zW0HJFsAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>&nbsp&nbsp&nbsp&nbsp
+      <a href="https://orcid.org/0000-0002-0277-366X"><i class="ai ai-orcid-square ai-2x"></i></a>&nbsp&nbsp&nbsp&nbsp
+      <a href="https://www.researchgate.net/profile/Blake_Dyer?ev=hdr_xprf"><i class="ai ai-researchgate-square ai-2x"></i></a>&nbsp&nbsp&nbsp&nbsp
+    </p>
+  </div>
+  <div class='base'>
+    <p>
+      School of Earth and Ocean Sciences&nbsp&nbsp&nbsp&nbsp
+      University of Victoria&nbsp&nbsp&nbsp&nbsp
+      blakedyer at uvic.ca</p>
   </div>
 </body>
 
