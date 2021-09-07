@@ -62,6 +62,20 @@ html, body {
   border-bottom-color: #222222;
 }
 
+.img-container-t {
+  min-height: 33%;
+  background-image: url('gps.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 33% 33%;
+  width: 100%;
+  display: table;
+  overflow: hidden;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
+}
+
 .img-container-f {
   min-height: 66%;
   background-image: url('fieldwork.jpg');
@@ -157,6 +171,13 @@ a:hover {
   text-shadow: -1px 0 #222222, 0 1px #222222, 1px 0 #222222, 0 -1px #222222;
 }
 
+.navdescription {
+  font-size: 1em;
+  color: #FFFFFF;
+  vertical-align: middle;
+  text-shadow: -1px 0 #222222, 0 1px #222222, 1px 0 #222222, 0 -1px #222222;
+}
+
 .description i {
   font-size: .35em;
   font-weight: 100;
@@ -225,6 +246,26 @@ a:hover {
   margin-left: 2%;
   margin-bottom: 2%;
   margin-right: 0%;
+  "
+
+}
+
+#profile2 {
+  float: right;
+  max-width: 25%;
+  margin-left: 2%;
+  margin-bottom: 2%;
+  margin-right: 0%;
+  "
+
+}
+
+#profile3 {
+  float: left;
+  max-width: 25%;
+  margin-left: 0%;
+  margin-bottom: 2%;
+  margin-right: 2%;
   "
 
 }
