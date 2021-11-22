@@ -1,0 +1,18 @@
+*******************
+Statistical model
+*******************
+
+.. currentmodule:: lig_sea_level.model
+
+.. autosummary::
+  :nosignatures:
+
+  get_model
+  get_GIA_holocene
+  get_GIA_lig
+  get_IR
+  get_updown_rate
+  get_ages
+
+.. automodule:: lig_sea_level.model
+   :members:

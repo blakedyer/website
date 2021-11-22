@@ -1,0 +1,17 @@
+********
+Plotting
+********
+
+.. currentmodule:: lig_sea_level.plotting
+
+.. autosummary::
+  :nosignatures:
+
+  summary
+  observations
+  sample
+  regional_sea_level
+
+
+.. automodule:: lig_sea_level.plotting
+   :members:

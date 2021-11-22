@@ -1,0 +1,17 @@
+API Reference
+===================
+
+.. toctree::
+   :maxdepth: 2
+
+   inference
+   model
+   plotting
+
+
+Indices and tables
+-------------------
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

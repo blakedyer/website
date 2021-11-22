@@ -1,0 +1,93 @@
+.. title:: lig sea level
+
+Determining paleo-sea level
+================================
+
+
+This package provides adaptable and general tools to solve for GIA-corrected paleo-sea level during the last interglacial.
+
+Basic workflow
+----------------
+
+1. Fill out a ``data`` table according to the :ref:`data formatting <data>` specifications
+2. Pre-process your data for model construction with :py:meth:`load_data() <lig_sea_level.inference.load_data>`
+
+    .. code-block:: python
+
+      from lig_sea_level.inference import load_data
+      data = load_data('path_to_data_table.csv')
+
+3. Build a :class:`pymc.model.Model` model with :py:meth:`get_model(data) <lig_sea_level.model.get_model>`
+
+    .. code-block:: python
+
+      from lig_sea_level.model import get_model
+      model, gaussian_processes = get_model(data)
+
+4. Sample the model posterior using cutting edge JAX assisted gradient-based MCMC algorithms.
+
+    .. code-block:: python
+
+      import pymc as pm
+      from pymc import sampling_jax
+      import arviz as az
+
+      with model:
+        prior = pm.sample_prior_predictive()
+        full_trace = sampling_jax.sample_numpyro_nuts()
+        posterior_predictive = pm.sample_posterior_predictive(full_trace)
+
+      # combine traces
+      full_trace.extend(prior)
+      full_trace.extend(posterior_predictive)
+
+
+5. Plot and analyze the results with the :py:mod:`lig_sea_level.plotting` library.
+
+    .. code-block:: python
+
+      from lig_sea_level import plotting
+      plotting.sample(data,full_trace,'sample_name')
+
+    .. plot::
+
+          from lig_sea_level.config import PROJECT_ROOT
+          from lig_sea_level.inference import load_data
+          from lig_sea_level.plotting import sample
+
+          import arviz as az
+          full_trace = az.from_netcdf(PROJECT_ROOT/'examples/example.nc')
+          data = load_data(PROJECT_ROOT/'data/example.csv')
+
+          sample(data,full_trace,'B1112-D')
+          plt.show()
+
+
+
+Table of contents
+-------------------
+
+.. toctree::
+  :maxdepth: 1
+
+  User Guide<docs/user>
+  API reference<docs/api>
+  Benchmarks<docs/benchmarks>
+
+
+Installation
+----------------
+
+PIP (*planned*)
+^^^^^^^^^^^^^^^^^^^
+
+.. code-block:: bash
+
+  pip install lig_sea_level
+
+Latest (*unstable*)
+^^^^^^^^^^^^^^^^^^^
+
+.. code-block:: bash
+
+  pip install git+https://github.com/blakedyer/lig_sea_level

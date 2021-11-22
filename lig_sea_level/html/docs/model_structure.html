@@ -1,0 +1,469 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Inference model &#8212; lig_sea_level v Manual</title>
+    
+  <link href="../_static/css/theme.css" rel="stylesheet">
+  <link href="../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/blank.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/plot_directive.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/style.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.be7d3bbb2ef33a8344ce.js">
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Data table format" href="data.html" />
+    <link rel="prev" title="User guide" href="user.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+    <nav class="navbar navbar-light navbar-expand-lg bg-light fixed-top bd-navbar" id="navbar-main"><div class="container-xl">
+
+  <div id="navbar-start">
+    
+    
+
+<a class="navbar-brand" href="../index.html">
+  <img src="../_static/lig_sea_level.svg" class="logo" alt="logo">
+</a>
+
+
+    
+  </div>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapsible" aria-controls="navbar-collapsible" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  
+  <div id="navbar-collapsible" class="col-lg-9 collapse navbar-collapse">
+    <div id="navbar-center" class="mr-auto">
+      
+      <div class="navbar-center-item">
+        <ul id="navbar-main-elements" class="navbar-nav">
+    <li class="toctree-l1 current active nav-item">
+ <a class="reference internal nav-link" href="user.html">
+  User Guide
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="api.html">
+  API reference
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="benchmarks.html">
+  Benchmarks
+ </a>
+</li>
+
+    
+</ul>
+      </div>
+      
+    </div>
+
+    <div id="navbar-end">
+      
+      <div class="navbar-end-item">
+        <form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search..." aria-label="Search..." autocomplete="off" >
+</form>
+      </div>
+      
+      <div class="navbar-end-item">
+        <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
+        <li class="nav-item">
+          <a class="nav-link" href="https://github.com/blakedyer/lig_sea_level" rel="noopener" target="_blank" title="GitHub">
+            <span><i class="fab fa-github-square"></i></span>
+            <label class="sr-only">GitHub</label>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://twitter.com/bcdyer8" rel="noopener" target="_blank" title="Twitter">
+            <span><i class="fab fa-twitter-square"></i></span>
+            <label class="sr-only">Twitter</label>
+          </a>
+        </li>
+      </ul>
+      </div>
+      
+    </div>
+  </div>
+</div>
+    </nav>
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+
+
+            
+            <!-- Only show if we have sidebars configured, else just a small margin  -->
+            <div class="col-12 col-md-3 bd-sidebar"><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  <div class="bd-toc-item active">
+    <ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Inference model
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="data.html">
+   Data table format
+  </a>
+ </li>
+</ul>
+
+  </div>
+</nav>
+            </div>
+            
+          
+
+
+
+          
+
+
+          <div class="d-none d-xl-block col-xl-2 bd-toc">
+            
+              
+              <div class="toc-item">
+                
+<div class="tocsection onthispage pt-5 pb-3">
+    <i class="fas fa-list"></i> On this page
+</div>
+
+<nav id="bd-toc-nav">
+    <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#regions">
+   Regions
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#predicting-observations">
+   Predicting observations
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#code-description">
+   Code description
+  </a>
+ </li>
+</ul>
+
+</nav>
+              </div>
+              
+              <div class="toc-item">
+                
+              </div>
+              
+            
+          </div>
+          
+
+
+
+          
+
+
+          
+            
+          
+          <main class="col-12 col-md-9 col-xl-7 py-md-5 pl-md-5 pr-md-4 bd-content" role="main">
+              
+              <div>
+                
+  <div class="toctree-wrapper compound">
+</div>
+<section id="inference-model">
+<h1>Inference model<a class="headerlink" href="#inference-model" title="Permalink to this headline">¶</a></h1>
+<p>This document lays out the organization of the statistical model in <a class="reference external" href="https://github.com/blakedyer/lig_sea_level">lig_sea_level</a>. Generally, the model describes a probabalistic graph that is used to predict the elevation of <code class="docutils literal notranslate"><span class="pre">paleo-sea</span> <span class="pre">level</span></code> observations, and then compares those predictions to the observed values. The data can be a combination of <code class="docutils literal notranslate"><span class="pre">last</span> <span class="pre">interglacial</span></code> and <code class="docutils literal notranslate"><span class="pre">holocene</span></code> data, and these data should be organized into <strong>regions</strong>.</p>
+<section id="regions">
+<h2>Regions<a class="headerlink" href="#regions" title="Permalink to this headline">¶</a></h2>
+<p><strong>Regions</strong> are defined as geographical span over which the user believes a 1D <code class="docutils literal notranslate"><span class="pre">glacial</span> <span class="pre">isostatic</span> <span class="pre">adjustment</span> <span class="pre">(GIA)</span></code> model is sufficiently accurate.
+To solve for GIA corrected sea level in each <strong>region</strong>, we need:</p>
+<ul class="simple">
+<li><p>Last interglacial paleo-sea level dataset</p></li>
+<li><p>(Optional) Holocene paleo-sea level dataset</p></li>
+<li><p>A function approximating GIA across the region throughout the LIG for a range GIA model parameters</p></li>
+<li><p>(Optional) A function approximating GIA accross the region throughout the Holocene for a range of GIA model parameters</p></li>
+</ul>
+<p>GIA calculations are in part functions of three parameters that capture the effective viscoelastic properties of the solid Earth. As the real Earth is laterally heterogeneous, these properties may vary between <strong>regions</strong>. Additionally, these properties and <em>could</em> vary over time within a single <strong>region</strong>. However, it <em>may</em> be a reasonable assumption that these parameters do not change significantly from the LIG to present (this <code class="docutils literal notranslate"><span class="pre">assumption</span></code> is built-in to this statical model; solid earth parameters for a single <strong>region</strong> are shared for the holocene and last interglacial). The solid earth parameters are referred to as:</p>
+<ul class="simple">
+<li><p>Lithosphere thickness</p></li>
+<li><p>Upper mantle viscosity</p></li>
+<li><p>Lower mantle viscosity</p></li>
+</ul>
+<p>There are two additional parameters used in calculating GIA that reflect the distribution of ice during the penultimate glacial maximum and the rate of melting leading into the last interglacial. These parameters are <em>global</em> in that all <strong>regions</strong> use the same values:</p>
+<ul class="simple">
+<li><p>Scandinavian ice sheet size (meters of sea level equivalent)</p></li>
+<li><p>Termination II deglacial rate</p></li>
+</ul>
+</section>
+<section id="predicting-observations">
+<h2>Predicting observations<a class="headerlink" href="#predicting-observations" title="Permalink to this headline">¶</a></h2>
+<p>The predicted elevation of each sample depends on:</p>
+<ul class="simple">
+<li><p>The <code class="docutils literal notranslate"><span class="pre">age</span></code> of the sample.</p></li>
+<li><p>The <code class="docutils literal notranslate"><span class="pre">GIA</span> <span class="pre">correction</span></code> for the sample <em>at the age of formation.</em></p></li>
+<li><p>The <code class="docutils literal notranslate"><span class="pre">indicative</span> <span class="pre">meaning</span></code> of each sample (in other words, the relationship of the sample to paleo-sea level).</p></li>
+<li><p>The <code class="docutils literal notranslate"><span class="pre">uplift</span></code> or <code class="docutils literal notranslate"><span class="pre">subsidence</span></code> of the sample since formation.</p></li>
+<li><p>During the last interglacial, additional regional <code class="docutils literal notranslate"><span class="pre">sea</span> <span class="pre">level</span></code> due to ice melt in excess of present day. <em>For the holocene this value is assumed to be zero.</em></p></li>
+</ul>
+<p><code class="docutils literal notranslate"><span class="pre">age</span></code> and <code class="docutils literal notranslate"><span class="pre">indicative</span> <span class="pre">meaning</span></code> for each sample are modeled directly as probability distributions. The specific distribution and parameterization can be designated by the user in the data table. The following graph shows how each modeled distribution is related to the final comparison between predicted and observed sample elevations:</p>
+<figure class="align-default">
+<a class="reference internal image-reference" href="../_images/simple_holocene.svg"><img alt="../_images/simple_holocene.svg" src="../_images/simple_holocene.svg" width="100%" /></a>
+</figure>
+<p>A graphical representation of the inference model using only <code class="docutils literal notranslate"><span class="pre">holocene</span></code> data.</p>
+<p>For the last interglacial, two additional parameters are added to the GIA calculation. We must consider excess regional sea level (GIA corrected sea level). This extra sea level is modeled as a gaussian process, or a multivariate normal distribution. The gaussian process is defined by a mean and covariance function with unknown variance and lengthscales, hyperparameters that are learned from the data.</p>
+<figure class="align-default">
+<a class="reference internal image-reference" href="../_images/simple_lig.svg"><img alt="../_images/simple_lig.svg" src="../_images/simple_lig.svg" width="100%" /></a>
+</figure>
+<p>A graphical representation of the inference model using only <code class="docutils literal notranslate"><span class="pre">last</span> <span class="pre">interglacial</span></code> data.</p>
+<p>The holocene and last interglacial graphs each have one <strong>likelihood</strong> node (in purple). The inference scheme evaluates the range of values that each parameter can have to to ensure that the predicted sample elevations match the observations, within uncertainty. The holocene and last interglacial from a single <strong>region</strong> can both be included in the model, with the solid earth and uplift or subsidence parameters shared across both interglacials. In this scenario, the posterior distribution will converge to fit both <strong>likelihoods</strong>, within uncertainty.</p>
+<figure class="align-default">
+<a class="reference internal image-reference" href="../_images/hol_and_lig.svg"><img alt="../_images/hol_and_lig.svg" src="../_images/hol_and_lig.svg" width="100%" /></a>
+</figure>
+<p>A graphical representation of the inference model using <code class="docutils literal notranslate"><span class="pre">holocene</span></code> and <code class="docutils literal notranslate"><span class="pre">last</span> <span class="pre">interglacial</span></code> data.</p>
+<p>Additionally, more <strong>regions</strong> can be included where only the <strong>global</strong> parameters (MIS 6 ice history and T-II deglacial rate) are shared between model graphs.</p>
+<figure class="align-default">
+<a class="reference internal image-reference" href="../_images/hol_and_lig_extra.svg"><img alt="../_images/hol_and_lig_extra.svg" src="../_images/hol_and_lig_extra.svg" width="100%" /></a>
+</figure>
+<p>A graphical representation of the inference model using <code class="docutils literal notranslate"><span class="pre">holocene</span></code> and <code class="docutils literal notranslate"><span class="pre">last</span> <span class="pre">interglacial</span></code> data from two <strong>regions</strong>.</p>
+<p>This framework is expandable to any number of <strong>regions</strong>, although you will need some serious hardware and time!</p>
+<figure class="align-default">
+<a class="reference internal image-reference" href="../_images/hol_and_lig_extra_extra.svg"><img alt="../_images/hol_and_lig_extra_extra.svg" src="../_images/hol_and_lig_extra_extra.svg" width="100%" /></a>
+</figure>
+<p>A graphical representation of the inference model using <code class="docutils literal notranslate"><span class="pre">holocene</span></code> and <code class="docutils literal notranslate"><span class="pre">last</span> <span class="pre">interglacial</span></code> data from four <strong>regions</strong>.</p>
+</section>
+<section id="code-description">
+<h2>Code description<a class="headerlink" href="#code-description" title="Permalink to this headline">¶</a></h2>
+<p>(<em>To do: break code into blocks and comment/describe</em>)</p>
+<div class="literal-block-wrapper docutils container" id="id1">
+<div class="code-block-caption"><span class="caption-text">inference model code</span><a class="headerlink" href="#id1" title="Permalink to this code">¶</a></div>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span>  <span class="n">regions</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">data</span><span class="o">.</span><span class="n">keys</span><span class="p">())</span>
+  <span class="n">gps</span> <span class="o">=</span> <span class="p">{}</span>
+  <span class="k">with</span> <span class="n">pm</span><span class="o">.</span><span class="n">Model</span><span class="p">()</span> <span class="k">as</span> <span class="n">model</span><span class="p">:</span>
+      <span class="c1"># Global parameters</span>
+      <span class="n">SIS_SIZE</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Uniform</span><span class="p">(</span><span class="s2">&quot;SIS_SIZE&quot;</span><span class="p">,</span> <span class="n">lower</span><span class="o">=</span><span class="mi">24</span> <span class="o">-</span> <span class="mi">2</span><span class="p">,</span>
+                            <span class="n">upper</span><span class="o">=</span><span class="mi">70</span> <span class="o">+</span> <span class="mi">2</span><span class="p">,</span> <span class="n">initval</span><span class="o">=</span><span class="mi">50</span><span class="p">)</span>
+      <span class="n">T2_RATE</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Uniform</span><span class="p">(</span><span class="s2">&quot;T2_RATE&quot;</span><span class="p">,</span> <span class="n">lower</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">upper</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">initval</span><span class="o">=</span><span class="mf">.5</span><span class="p">)</span>
+
+      <span class="c1"># Loop through each region</span>
+      <span class="k">for</span> <span class="n">region</span> <span class="ow">in</span> <span class="n">regions</span><span class="p">:</span>
+          <span class="n">region_data</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="n">region</span><span class="p">]</span>
+      <span class="c1"># Regional parameters</span>
+          <span class="n">LITHOSPHERE_THICKNESS</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Uniform</span><span class="p">(</span>
+              <span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_LITHOSPHERE_THICKNESS&quot;</span><span class="p">,</span> <span class="n">lower</span><span class="o">=</span><span class="mi">71</span> <span class="o">-</span> <span class="mi">6</span><span class="p">,</span> <span class="n">upper</span><span class="o">=</span><span class="mi">96</span> <span class="o">+</span> <span class="mi">6</span><span class="p">,</span> <span class="n">initval</span><span class="o">=</span><span class="mi">80</span><span class="p">)</span>
+          <span class="n">UPPER_MANTLE_VISCOSITY</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Uniform</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span>
+              <span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_UPPER_MANTLE_VISCOSITY&quot;</span><span class="p">,</span> <span class="n">lower</span><span class="o">=</span><span class="mi">3</span> <span class="o">-</span> <span class="mf">0.25</span><span class="p">,</span> <span class="n">upper</span><span class="o">=</span><span class="mi">5</span> <span class="o">+</span> <span class="mf">0.25</span><span class="p">,</span> <span class="n">initval</span><span class="o">=</span><span class="mi">4</span><span class="p">)</span>
+          <span class="n">LOWER_MANTLE_VISCOSITY</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Uniform</span><span class="p">(</span>
+              <span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_LOWER_MANTLE_VISCOSITY&quot;</span><span class="p">,</span> <span class="n">lower</span><span class="o">=</span><span class="mi">3</span> <span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">upper</span><span class="o">=</span><span class="mi">40</span> <span class="o">+</span> <span class="mi">5</span><span class="p">,</span> <span class="n">initval</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+          <span class="n">UPDOWN_master</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Normal</span><span class="p">(</span>
+              <span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_UPDOWN_master&quot;</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="n">initval</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+
+          <span class="c1"># - Add holocene (optional)</span>
+          <span class="k">if</span> <span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;includes_holocene&#39;</span><span class="p">]:</span>
+              <span class="n">hol_index</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">where</span><span class="p">(</span><span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;age&#39;</span><span class="p">]</span> <span class="o">&lt;</span> <span class="mi">15</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
+              <span class="c1"># Load emulator weights</span>
+              <span class="n">fname</span> <span class="o">=</span> <span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;emulator_name&#39;</span><span class="p">][</span><span class="n">hol_index</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
+              <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">PROJECT_ROOT</span> <span class="o">/</span> <span class="sa">f</span><span class="s1">&#39;emulator_weights/</span><span class="si">{</span><span class="n">fname</span><span class="si">}</span><span class="s1">.pkl&#39;</span><span class="p">,</span> <span class="s1">&#39;rb&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+                  <span class="n">emulator_weights</span> <span class="o">=</span> <span class="n">pickle</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="n">f</span><span class="p">)</span>
+
+              <span class="n">REGIONAL_HOL_WEIGHTS</span> <span class="o">=</span> <span class="p">[</span>
+                  <span class="n">shared</span><span class="p">(</span><span class="n">w</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">float64</span><span class="p">))</span> <span class="k">for</span> <span class="n">w</span> <span class="ow">in</span> <span class="n">emulator_weights</span><span class="p">]</span>
+
+              <span class="c1"># AGE distribution using observed mean and standard deviations</span>
+              <span class="n">hol_ages</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Deterministic</span><span class="p">(</span>
+                  <span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_hol_ages&quot;</span><span class="p">,</span> <span class="n">get_ages</span><span class="p">(</span><span class="n">region_data</span><span class="p">,</span> <span class="n">hol_index</span><span class="p">,</span> <span class="n">region</span><span class="p">,</span> <span class="s1">&#39;hol&#39;</span><span class="p">))</span>
+              <span class="c1"># hol_ages = pm.Normal(str(region) + &#39;_hol_ages&#39;,</span>
+              <span class="c1"># mu=shared(region_data[&#39;age&#39;][hol_index]),</span>
+              <span class="c1"># sigma=shared(</span>
+              <span class="c1">#     region_data[&#39;age_1sigma&#39;][hol_index]),</span>
+              <span class="c1"># initval=shared(region_data[&#39;age&#39;][hol_index]))</span>
+
+              <span class="n">hol_ir</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Deterministic</span><span class="p">(</span>
+                  <span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_hol_ir&quot;</span><span class="p">,</span> <span class="n">get_IR</span><span class="p">(</span><span class="n">region_data</span><span class="p">,</span> <span class="n">hol_index</span><span class="p">,</span> <span class="n">region</span><span class="p">,</span> <span class="s1">&#39;hol&#39;</span><span class="p">))</span>
+
+              <span class="n">hol_lats</span> <span class="o">=</span> <span class="n">shared</span><span class="p">(</span><span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;lat&#39;</span><span class="p">][</span><span class="n">hol_index</span><span class="p">])</span>
+              <span class="n">hol_lons</span> <span class="o">=</span> <span class="n">shared</span><span class="p">(</span><span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;lon&#39;</span><span class="p">][</span><span class="n">hol_index</span><span class="p">])</span>
+
+              <span class="n">holocene_gia</span> <span class="o">=</span> <span class="n">get_GIA_holocene</span><span class="p">(</span><span class="n">REGIONAL_HOL_WEIGHTS</span><span class="p">,</span> <span class="n">LITHOSPHERE_THICKNESS</span><span class="p">,</span>
+                                              <span class="n">UPPER_MANTLE_VISCOSITY</span><span class="p">,</span> <span class="n">LOWER_MANTLE_VISCOSITY</span><span class="p">,</span> <span class="n">hol_ages</span><span class="p">,</span> <span class="n">hol_lats</span><span class="p">,</span> <span class="n">hol_lons</span><span class="p">)</span>
+              <span class="n">holocene_gia</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Deterministic</span><span class="p">(</span>
+                  <span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_hol_GIA&quot;</span><span class="p">,</span> <span class="n">holocene_gia</span><span class="p">)</span>
+
+              <span class="c1"># UPLIFT/SUBSIDENCE</span>
+              <span class="n">hol_updown</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Deterministic</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_hol_updown&quot;</span><span class="p">,</span> <span class="n">get_updown_rate</span><span class="p">(</span>
+                  <span class="n">region_data</span><span class="p">,</span> <span class="n">hol_index</span><span class="p">,</span> <span class="n">region</span><span class="p">,</span> <span class="s1">&#39;hol&#39;</span><span class="p">,</span> <span class="n">UPDOWN_master</span><span class="p">)</span> <span class="o">*</span> <span class="n">hol_ages</span><span class="p">)</span>
+
+              <span class="c1"># likelihood</span>
+              <span class="n">hol_elevation_prediction</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Deterministic</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;_hol_elevation_prediction&#39;</span><span class="p">,</span>
+                                                          <span class="n">holocene_gia</span> <span class="o">-</span> <span class="n">hol_ir</span> <span class="o">-</span> <span class="n">hol_updown</span><span class="p">)</span>
+              <span class="n">hol_elevation_obs</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Data</span><span class="p">(</span>
+                  <span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;_hol_observed&#39;</span><span class="p">,</span> <span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;elevation&#39;</span><span class="p">][</span><span class="n">hol_index</span><span class="p">])</span>
+
+              <span class="c1"># to account for variance not explained by GIA</span>
+              <span class="n">hol_noise</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">HalfCauchy</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;_hol_noise&#39;</span><span class="p">,</span> <span class="n">beta</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+              <span class="n">hol_elevation_likelihood</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Normal</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;_hol_likelihood&#39;</span><span class="p">,</span>
+                                                   <span class="n">mu</span><span class="o">=</span><span class="n">hol_elevation_prediction</span><span class="p">,</span>
+                                                   <span class="n">sigma</span><span class="o">=</span><span class="n">shared</span><span class="p">(</span>
+                                                       <span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;elevation_1sigma&#39;</span><span class="p">][</span><span class="n">hol_index</span><span class="p">])</span> <span class="o">+</span> <span class="n">hol_noise</span><span class="p">,</span>
+                                                   <span class="n">observed</span><span class="o">=</span><span class="n">hol_elevation_obs</span><span class="p">)</span>
+
+          <span class="c1">#  - Add LIG</span>
+          <span class="k">if</span> <span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;includes_lig&#39;</span><span class="p">]:</span>
+              <span class="n">lig_index</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">where</span><span class="p">(</span><span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;age&#39;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="mi">15</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
+
+              <span class="c1"># Load emulator weights</span>
+              <span class="n">fname</span> <span class="o">=</span> <span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;emulator_name&#39;</span><span class="p">][</span><span class="n">lig_index</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
+              <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">PROJECT_ROOT</span> <span class="o">/</span> <span class="sa">f</span><span class="s1">&#39;emulator_weights/</span><span class="si">{</span><span class="n">fname</span><span class="si">}</span><span class="s1">.pkl&#39;</span><span class="p">,</span> <span class="s1">&#39;rb&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
+                  <span class="n">emulator_weights</span> <span class="o">=</span> <span class="n">pickle</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="n">f</span><span class="p">)</span>
+              <span class="n">REGIONAL_LIG_WEIGHTS</span> <span class="o">=</span> <span class="p">[</span>
+                  <span class="n">shared</span><span class="p">(</span><span class="n">w</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">float64</span><span class="p">))</span> <span class="k">for</span> <span class="n">w</span> <span class="ow">in</span> <span class="n">emulator_weights</span><span class="p">]</span>
+
+              <span class="c1"># GP</span>
+              <span class="n">gp_ls</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Wald</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_gp_ls&quot;</span><span class="p">,</span> <span class="n">mu</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span> <span class="n">lam</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">shape</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+              <span class="n">gp_var</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Normal</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_gp_var&quot;</span><span class="p">,</span>
+                                 <span class="n">mu</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">sigma</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">shape</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+              <span class="n">gp_mean</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Normal</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_gp_mean&quot;</span><span class="p">,</span> <span class="n">mu</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">sigma</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+              <span class="n">gp_noise</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">HalfCauchy</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_gp_noise&quot;</span><span class="p">,</span> <span class="n">beta</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+
+              <span class="c1"># mean and covariance functions</span>
+              <span class="n">mean_fun</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">gp</span><span class="o">.</span><span class="n">mean</span><span class="o">.</span><span class="n">Constant</span><span class="p">(</span><span class="n">gp_mean</span><span class="p">)</span>
+              <span class="n">cov1</span> <span class="o">=</span> <span class="n">gp_var</span><span class="o">**</span><span class="mi">2</span> <span class="o">*</span> <span class="n">pm</span><span class="o">.</span><span class="n">gp</span><span class="o">.</span><span class="n">cov</span><span class="o">.</span><span class="n">ExpQuad</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">gp_ls</span><span class="p">)</span>
+              <span class="n">cov2</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">gp</span><span class="o">.</span><span class="n">cov</span><span class="o">.</span><span class="n">WhiteNoise</span><span class="p">(</span><span class="n">gp_noise</span><span class="p">)</span>
+
+              <span class="c1"># GP prior</span>
+              <span class="n">gp</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">gp</span><span class="o">.</span><span class="n">Latent</span><span class="p">(</span><span class="n">mean_func</span><span class="o">=</span><span class="n">mean_fun</span><span class="p">,</span>
+                                <span class="n">cov_func</span><span class="o">=</span><span class="n">cov1</span> <span class="o">+</span> <span class="n">cov2</span><span class="p">)</span>  <span class="c1"># gp</span>
+
+              <span class="c1"># IR</span>
+              <span class="n">lig_ir</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Deterministic</span><span class="p">(</span>
+                  <span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_lig_ir&quot;</span><span class="p">,</span> <span class="n">get_IR</span><span class="p">(</span><span class="n">region_data</span><span class="p">,</span> <span class="n">lig_index</span><span class="p">,</span> <span class="n">region</span><span class="p">,</span> <span class="s1">&#39;lig&#39;</span><span class="p">))</span>
+
+              <span class="c1"># AGE</span>
+              <span class="n">lig_ages</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Deterministic</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_lig_ages&quot;</span><span class="p">,</span>
+                                          <span class="n">get_ages</span><span class="p">(</span><span class="n">region_data</span><span class="p">,</span> <span class="n">lig_index</span><span class="p">,</span> <span class="n">region</span><span class="p">,</span> <span class="s1">&#39;lig&#39;</span><span class="p">))</span>
+
+              <span class="c1"># UPLIFT/SUBSIDENCE</span>
+              <span class="n">lig_updown</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Deterministic</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_lig_updown&quot;</span><span class="p">,</span> <span class="n">get_updown_rate</span><span class="p">(</span>
+                  <span class="n">region_data</span><span class="p">,</span> <span class="n">lig_index</span><span class="p">,</span> <span class="n">region</span><span class="p">,</span> <span class="s1">&#39;lig&#39;</span><span class="p">,</span> <span class="n">UPDOWN_master</span><span class="p">)</span> <span class="o">*</span> <span class="n">lig_ages</span><span class="p">)</span>
+
+              <span class="c1"># not yet implemented</span>
+
+              <span class="c1"># GIA</span>
+              <span class="n">lig_lats</span> <span class="o">=</span> <span class="n">shared</span><span class="p">(</span><span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;lat&#39;</span><span class="p">][</span><span class="n">lig_index</span><span class="p">])</span>
+              <span class="n">lig_lons</span> <span class="o">=</span> <span class="n">shared</span><span class="p">(</span><span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;lon&#39;</span><span class="p">][</span><span class="n">lig_index</span><span class="p">])</span>
+
+              <span class="n">lig_gia</span> <span class="o">=</span> <span class="n">get_GIA_lig</span><span class="p">(</span><span class="n">REGIONAL_LIG_WEIGHTS</span><span class="p">,</span>
+                                    <span class="n">LITHOSPHERE_THICKNESS</span><span class="p">,</span>
+                                    <span class="n">UPPER_MANTLE_VISCOSITY</span><span class="p">,</span>
+                                    <span class="n">LOWER_MANTLE_VISCOSITY</span><span class="p">,</span>
+                                    <span class="n">SIS_SIZE</span><span class="p">,</span>
+                                    <span class="n">T2_RATE</span><span class="p">,</span>
+                                    <span class="n">lig_ages</span><span class="p">,</span>
+                                    <span class="n">lig_lats</span><span class="p">,</span>
+                                    <span class="n">lig_lons</span><span class="p">)</span>
+              <span class="n">lig_gia</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Deterministic</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;_lig_GIA&quot;</span><span class="p">,</span> <span class="n">lig_gia</span><span class="p">)</span>
+
+              <span class="c1"># Prediction/likelihood</span>
+              <span class="n">lig_gp_prior</span> <span class="o">=</span> <span class="n">gp</span><span class="o">.</span><span class="n">prior</span><span class="p">(</span>
+                  <span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;_lig_gia_corrected_sl&#39;</span><span class="p">,</span> <span class="n">X</span><span class="o">=</span><span class="n">lig_ages</span><span class="p">[:,</span> <span class="kc">None</span><span class="p">],</span>
+                  <span class="n">size</span><span class="o">=</span><span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;age&#39;</span><span class="p">][</span><span class="n">lig_index</span><span class="p">]</span><span class="o">.</span><span class="n">size</span><span class="p">,</span> <span class="n">reparameterize</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+
+              <span class="n">lig_elevation_prediction</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Deterministic</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;_lig_elevation_prediction&#39;</span><span class="p">,</span>
+                                                          <span class="n">lig_gp_prior</span><span class="o">.</span><span class="n">flatten</span><span class="p">()</span> <span class="o">+</span> <span class="n">lig_gia</span><span class="o">.</span><span class="n">flatten</span><span class="p">()</span> <span class="o">-</span>
+                                                          <span class="n">lig_ir</span> <span class="o">+</span> <span class="n">lig_updown</span><span class="o">.</span><span class="n">flatten</span><span class="p">())</span>
+              <span class="n">lig_elevation_obs</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Data</span><span class="p">(</span>
+                  <span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;_lig_observed&#39;</span><span class="p">,</span> <span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;elevation&#39;</span><span class="p">][</span><span class="n">lig_index</span><span class="p">])</span>
+              <span class="n">lig_elevation_likelihood</span> <span class="o">=</span> <span class="n">pm</span><span class="o">.</span><span class="n">Normal</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">region</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39;_lig_likelihood&#39;</span><span class="p">,</span>
+                                                   <span class="n">mu</span><span class="o">=</span><span class="n">lig_elevation_prediction</span><span class="p">,</span>
+                                                   <span class="c1"># extra noise in gp cov</span>
+                                                   <span class="n">sigma</span><span class="o">=</span><span class="n">shared</span><span class="p">(</span>
+                                                       <span class="n">region_data</span><span class="p">[</span><span class="s1">&#39;elevation_1sigma&#39;</span><span class="p">][</span><span class="n">lig_index</span><span class="p">]),</span>
+                                                   <span class="n">observed</span><span class="o">=</span><span class="n">lig_elevation_obs</span><span class="p">)</span>
+              <span class="n">gps</span><span class="p">[</span><span class="n">region</span><span class="p">]</span> <span class="o">=</span> <span class="n">gp</span>
+</pre></div>
+</div>
+</div>
+</section>
+</section>
+
+
+              </div>
+              
+              
+          </main>
+          
+
+
+
+      </div>
+    </div>
+  
+  <script src="../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+<footer class="footer mt-5 mt-md-0">
+  <div class="container">
+    
+    <div class="footer-item">
+      <p class="copyright">
+    &copy; Copyright 2021, Blake Dyer.<br>
+</p>
+    </div>
+    
+    <div class="footer-item">
+      <p class="sphinx-version">
+Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.3.0.<br>
+</p>
+    </div>
+    
+  </div>
+</footer>
+  </body>
+</html>

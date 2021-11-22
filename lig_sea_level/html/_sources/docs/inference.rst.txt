@@ -1,0 +1,13 @@
+***********
+Inference
+***********
+
+.. currentmodule:: lig_sea_level.inference
+
+.. autosummary::
+  :nosignatures:
+
+  load_data
+
+.. automodule:: lig_sea_level.inference
+   :members:

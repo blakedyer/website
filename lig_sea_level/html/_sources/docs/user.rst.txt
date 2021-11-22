@@ -1,0 +1,49 @@
+User guide
+=========================
+
+This page includes in-depth guides and explanations for the critical components of `lig_sea_level <https://github.com/blakedyer/lig_sea_level>`__.
+
+.. toctree::
+  :maxdepth: 2
+
+  Inference model<model_structure>
+  Data table format<data>
+
+Quick start guide
+-------------------
+
+
+1. Fill out a ``data`` table according to the :ref:`data formatting <data>` specifications
+2. Pre-process your data for model construction with :py:meth:`load_data() <lig_sea_level.inference.load_data>`
+
+    .. code-block:: python
+
+      from lig_sea_level.inference import load_data
+      data = load_data('path_to_data_table.csv')
+
+3. Build a :class:`pymc.model.Model` model with :py:meth:`get_model(data) <lig_sea_level.model.get_model>`
+
+    .. code-block:: python
+
+      from lig_sea_level.model import get_model
+      model, gaussian_processes = get_model(data)
+
+4. Sample the model posterior using cutting edge JAX assisted gradient-based MCMC algorithms.
+
+    .. code-block:: python
+
+      import pymc as pm
+      from pymc import sampling_jax
+      import arviz as az
+
+      with model:
+        prior = pm.sample_prior_predictive()
+        full_trace = sampling_jax.sample_numpyro_nuts()
+        posterior_predictive = pm.sample_posterior_predictive(full_trace)
+
+      # combine traces
+      full_trace.extend(prior)
+      full_trace.extend(posterior_predictive)
+
+
+5. Plot and analyze the results with the :py:mod:`lig_sea_level.plotting` library.

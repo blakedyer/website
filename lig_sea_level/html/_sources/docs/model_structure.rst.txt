@@ -1,0 +1,240 @@
+.. toctree::
+  :hidden:
+  :maxdepth: 2
+
+
+Inference model
+=============================
+
+This document lays out the organization of the statistical model in `lig_sea_level <https://github.com/blakedyer/lig_sea_level>`__. Generally, the model describes a probabalistic graph that is used to predict the elevation of ``paleo-sea level`` observations, and then compares those predictions to the observed values. The data can be a combination of ``last interglacial`` and ``holocene`` data, and these data should be organized into **regions**.
+
+Regions
+-----------
+
+**Regions** are defined as geographical span over which the user believes a 1D ``glacial isostatic adjustment (GIA)`` model is sufficiently accurate.
+To solve for GIA corrected sea level in each **region**, we need:
+
+* Last interglacial paleo-sea level dataset
+* (Optional) Holocene paleo-sea level dataset
+* A function approximating GIA across the region throughout the LIG for a range GIA model parameters
+* (Optional) A function approximating GIA accross the region throughout the Holocene for a range of GIA model parameters
+
+GIA calculations are in part functions of three parameters that capture the effective viscoelastic properties of the solid Earth. As the real Earth is laterally heterogeneous, these properties may vary between **regions**. Additionally, these properties and *could* vary over time within a single **region**. However, it *may* be a reasonable assumption that these parameters do not change significantly from the LIG to present (this ``assumption`` is built-in to this statical model; solid earth parameters for a single **region** are shared for the holocene and last interglacial). The solid earth parameters are referred to as:
+
+* Lithosphere thickness
+* Upper mantle viscosity
+* Lower mantle viscosity
+
+There are two additional parameters used in calculating GIA that reflect the distribution of ice during the penultimate glacial maximum and the rate of melting leading into the last interglacial. These parameters are *global* in that all **regions** use the same values:
+
+* Scandinavian ice sheet size (meters of sea level equivalent)
+* Termination II deglacial rate
+
+
+Predicting observations
+-------------------------
+
+
+The predicted elevation of each sample depends on:
+
+* The ``age`` of the sample.
+* The ``GIA correction`` for the sample *at the age of formation.*
+* The ``indicative meaning`` of each sample (in other words, the relationship of the sample to paleo-sea level).
+* The ``uplift`` or ``subsidence`` of the sample since formation.
+* During the last interglacial, additional regional ``sea level`` due to ice melt in excess of present day. *For the holocene this value is assumed to be zero.*
+
+``age`` and ``indicative meaning`` for each sample are modeled directly as probability distributions. The specific distribution and parameterization can be designated by the user in the data table. The following graph shows how each modeled distribution is related to the final comparison between predicted and observed sample elevations:
+
+.. figure:: images/simple_holocene.svg
+    :width: 100%
+
+A graphical representation of the inference model using only ``holocene`` data.
+
+For the last interglacial, two additional parameters are added to the GIA calculation. We must consider excess regional sea level (GIA corrected sea level). This extra sea level is modeled as a gaussian process, or a multivariate normal distribution. The gaussian process is defined by a mean and covariance function with unknown variance and lengthscales, hyperparameters that are learned from the data.
+
+.. figure:: images/simple_lig.svg
+    :width: 100%
+
+A graphical representation of the inference model using only ``last interglacial`` data.
+
+The holocene and last interglacial graphs each have one **likelihood** node (in purple). The inference scheme evaluates the range of values that each parameter can have to to ensure that the predicted sample elevations match the observations, within uncertainty. The holocene and last interglacial from a single **region** can both be included in the model, with the solid earth and uplift or subsidence parameters shared across both interglacials. In this scenario, the posterior distribution will converge to fit both **likelihoods**, within uncertainty.
+
+.. figure:: images/hol_and_lig.svg
+    :width: 100%
+
+A graphical representation of the inference model using ``holocene`` and ``last interglacial`` data.
+
+Additionally, more **regions** can be included where only the **global** parameters (MIS 6 ice history and T-II deglacial rate) are shared between model graphs.
+
+.. figure:: images/hol_and_lig_extra.svg
+    :width: 100%
+
+A graphical representation of the inference model using ``holocene`` and ``last interglacial`` data from two **regions**.
+
+This framework is expandable to any number of **regions**, although you will need some serious hardware and time!
+
+.. figure:: images/hol_and_lig_extra_extra.svg
+    :width: 100%
+
+A graphical representation of the inference model using ``holocene`` and ``last interglacial`` data from four **regions**.
+
+
+
+Code description
+------------------
+
+(*To do: break code into blocks and comment/describe*)
+
+..
+  .. code-block:: python
+     :caption: Set global parameters
+
+      SIS_SIZE = some distribution
+      T2_RATE = some distribution
+
+.. code-block:: python
+    :caption: inference model code
+
+      regions = list(data.keys())
+      gps = {}
+      with pm.Model() as model:
+          # Global parameters
+          SIS_SIZE = pm.Uniform("SIS_SIZE", lower=24 - 2,
+                                upper=70 + 2, initval=50)
+          T2_RATE = pm.Uniform("T2_RATE", lower=0, upper=1, initval=.5)
+
+          # Loop through each region
+          for region in regions:
+              region_data = data[region]
+          # Regional parameters
+              LITHOSPHERE_THICKNESS = pm.Uniform(
+                  str(region) + "_LITHOSPHERE_THICKNESS", lower=71 - 6, upper=96 + 6, initval=80)
+              UPPER_MANTLE_VISCOSITY = pm.Uniform(str(
+                  region) + "_UPPER_MANTLE_VISCOSITY", lower=3 - 0.25, upper=5 + 0.25, initval=4)
+              LOWER_MANTLE_VISCOSITY = pm.Uniform(
+                  str(region) + "_LOWER_MANTLE_VISCOSITY", lower=3 - 1, upper=40 + 5, initval=10)
+              UPDOWN_master = pm.Normal(
+                  str(region) + "_UPDOWN_master", 0, 1, initval=0)
+
+              # - Add holocene (optional)
+              if region_data['includes_holocene']:
+                  hol_index = np.where(region_data['age'] < 15)[0]
+                  # Load emulator weights
+                  fname = region_data['emulator_name'][hol_index][0]
+                  with open(PROJECT_ROOT / f'emulator_weights/{fname}.pkl', 'rb') as f:
+                      emulator_weights = pickle.load(f)
+
+                  REGIONAL_HOL_WEIGHTS = [
+                      shared(w.astype(np.float64)) for w in emulator_weights]
+
+                  # AGE distribution using observed mean and standard deviations
+                  hol_ages = pm.Deterministic(
+                      str(region) + "_hol_ages", get_ages(region_data, hol_index, region, 'hol'))
+                  # hol_ages = pm.Normal(str(region) + '_hol_ages',
+                  # mu=shared(region_data['age'][hol_index]),
+                  # sigma=shared(
+                  #     region_data['age_1sigma'][hol_index]),
+                  # initval=shared(region_data['age'][hol_index]))
+
+                  hol_ir = pm.Deterministic(
+                      str(region) + "_hol_ir", get_IR(region_data, hol_index, region, 'hol'))
+
+                  hol_lats = shared(region_data['lat'][hol_index])
+                  hol_lons = shared(region_data['lon'][hol_index])
+
+                  holocene_gia = get_GIA_holocene(REGIONAL_HOL_WEIGHTS, LITHOSPHERE_THICKNESS,
+                                                  UPPER_MANTLE_VISCOSITY, LOWER_MANTLE_VISCOSITY, hol_ages, hol_lats, hol_lons)
+                  holocene_gia = pm.Deterministic(
+                      str(region) + "_hol_GIA", holocene_gia)
+
+                  # UPLIFT/SUBSIDENCE
+                  hol_updown = pm.Deterministic(str(region) + "_hol_updown", get_updown_rate(
+                      region_data, hol_index, region, 'hol', UPDOWN_master) * hol_ages)
+
+                  # likelihood
+                  hol_elevation_prediction = pm.Deterministic(str(region) + '_hol_elevation_prediction',
+                                                              holocene_gia - hol_ir - hol_updown)
+                  hol_elevation_obs = pm.Data(
+                      str(region) + '_hol_observed', region_data['elevation'][hol_index])
+
+                  # to account for variance not explained by GIA
+                  hol_noise = pm.HalfCauchy(str(region) + '_hol_noise', beta=5)
+                  hol_elevation_likelihood = pm.Normal(str(region) + '_hol_likelihood',
+                                                       mu=hol_elevation_prediction,
+                                                       sigma=shared(
+                                                           region_data['elevation_1sigma'][hol_index]) + hol_noise,
+                                                       observed=hol_elevation_obs)
+
+              #  - Add LIG
+              if region_data['includes_lig']:
+                  lig_index = np.where(region_data['age'] > 15)[0]
+
+                  # Load emulator weights
+                  fname = region_data['emulator_name'][lig_index][0]
+                  with open(PROJECT_ROOT / f'emulator_weights/{fname}.pkl', 'rb') as f:
+                      emulator_weights = pickle.load(f)
+                  REGIONAL_LIG_WEIGHTS = [
+                      shared(w.astype(np.float64)) for w in emulator_weights]
+
+                  # GP
+                  gp_ls = pm.Wald(str(region) + "_gp_ls", mu=2, lam=5, shape=1)
+                  gp_var = pm.Normal(str(region) + "_gp_var",
+                                     mu=0, sigma=5, shape=1)
+                  gp_mean = pm.Normal(str(region) + "_gp_mean", mu=0, sigma=10)
+                  gp_noise = pm.HalfCauchy(str(region) + "_gp_noise", beta=5)
+
+                  # mean and covariance functions
+                  mean_fun = pm.gp.mean.Constant(gp_mean)
+                  cov1 = gp_var**2 * pm.gp.cov.ExpQuad(1, gp_ls)
+                  cov2 = pm.gp.cov.WhiteNoise(gp_noise)
+
+                  # GP prior
+                  gp = pm.gp.Latent(mean_func=mean_fun,
+                                    cov_func=cov1 + cov2)  # gp
+
+                  # IR
+                  lig_ir = pm.Deterministic(
+                      str(region) + "_lig_ir", get_IR(region_data, lig_index, region, 'lig'))
+
+                  # AGE
+                  lig_ages = pm.Deterministic(str(region) + "_lig_ages",
+                                              get_ages(region_data, lig_index, region, 'lig'))
+
+                  # UPLIFT/SUBSIDENCE
+                  lig_updown = pm.Deterministic(str(region) + "_lig_updown", get_updown_rate(
+                      region_data, lig_index, region, 'lig', UPDOWN_master) * lig_ages)
+
+                  # not yet implemented
+
+                  # GIA
+                  lig_lats = shared(region_data['lat'][lig_index])
+                  lig_lons = shared(region_data['lon'][lig_index])
+
+                  lig_gia = get_GIA_lig(REGIONAL_LIG_WEIGHTS,
+                                        LITHOSPHERE_THICKNESS,
+                                        UPPER_MANTLE_VISCOSITY,
+                                        LOWER_MANTLE_VISCOSITY,
+                                        SIS_SIZE,
+                                        T2_RATE,
+                                        lig_ages,
+                                        lig_lats,
+                                        lig_lons)
+                  lig_gia = pm.Deterministic(str(region) + "_lig_GIA", lig_gia)
+
+                  # Prediction/likelihood
+                  lig_gp_prior = gp.prior(
+                      str(region) + '_lig_gia_corrected_sl', X=lig_ages[:, None],
+                      size=region_data['age'][lig_index].size, reparameterize=True)
+
+                  lig_elevation_prediction = pm.Deterministic(str(region) + '_lig_elevation_prediction',
+                                                              lig_gp_prior.flatten() + lig_gia.flatten() -
+                                                              lig_ir + lig_updown.flatten())
+                  lig_elevation_obs = pm.Data(
+                      str(region) + '_lig_observed', region_data['elevation'][lig_index])
+                  lig_elevation_likelihood = pm.Normal(str(region) + '_lig_likelihood',
+                                                       mu=lig_elevation_prediction,
+                                                       # extra noise in gp cov
+                                                       sigma=shared(
+                                                           region_data['elevation_1sigma'][lig_index]),
+                                                       observed=lig_elevation_obs)
+                  gps[region] = gp

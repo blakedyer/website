@@ -1,0 +1,14 @@
+.. toctree::
+  :hidden:
+  :maxdepth: 2
+
+
+Data table format
+==================
+
+The table below describes the values expected in a data table.
+
+.. csv-table:: Inference data table description
+   :file: datatable.csv
+   :header: "Parameter", "Description"
+   :widths: 20, 80
