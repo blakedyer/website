@@ -179,12 +179,26 @@ a:hover {
   text-shadow: -1px 0 #222222, 0 1px #222222, 1px 0 #222222, 0 -1px #222222;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 .description i {
   font-size: .35em;
   font-weight: 100;
 }
 
+.left-nav {position: sticky;
+top: 2rem;
+align-self: start;  margin-top: 2%;
+margin-bottom: 2%;
+margin-left: 20%;
+margin-right: 20%;
+text-align: left;
+line-height: 2em;}
+
 .info {
+  grid-column-start: 2;
   margin-top: 2%;
   margin-bottom: 2%;
   margin-left: 20%;

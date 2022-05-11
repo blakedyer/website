@@ -52,6 +52,20 @@
   border-bottom-color: #222222;
 }
 
+.img-container-canadian_rockies {
+  min-height: 66%;
+  background-image: url('Gallery/large_sa/20081208-10-24-44-2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 33% 33%;
+  width: 100%;
+  display: table;
+  overflow: hidden;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
+}
+
 :root {
   --min-card-width: 200px;
 }
