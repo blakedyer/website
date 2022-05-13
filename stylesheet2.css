@@ -199,7 +199,7 @@ font-size:100%;
 line-height: 1.5em;}
 
 .left-nav li.active > a { margin-left:3%;
-	font-weight: 900;}
+	font-weight: bold;}
 
 .left-nav a {
       transition: all 100ms ease-in-out;
