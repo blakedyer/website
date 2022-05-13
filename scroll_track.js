@@ -10,7 +10,6 @@ window.addEventListener('DOMContentLoaded', () => {
         document.querySelector(`div li a[href="#${id}"]`).parentElement.classList.remove('active');
       }
     });
-    threshold: [.5]
   });
 
   // Track all sections that have an `id` applied

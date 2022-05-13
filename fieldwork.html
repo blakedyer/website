@@ -6,6 +6,7 @@
 	<link href="site.css" media="all" rel="stylesheet" type="text/css" />
 	<meta name="description" content="Geology" />
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<script src="scroll_track.js" type="text/javascript"></script>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
 
 	<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
@@ -81,97 +82,103 @@
 
 	</div>
 
-	<div class="info">
-		<!-- 
-		<header style='padding-left:.25em'><a href='canadian_rockies_2021.html'>CANADIAN ROCKIES</a> <i>(1 month)</i></header> --> -->
+	<div style='display:grid;
+	grid-template-columns: 1fr 5fr;'>
 
-		<!-- <header style='padding-left:.25em'>WESTERN UNITED STATES <i>(9 months)</i></header> -->
-		<!--
-		blah blah blah
-
-		<div class="photostrip">
-			<center>
-				<img id="strip" src="http://www.blakedyer.com/b1.jpg">
-				<img id="strip" src="http://www.blakedyer.com/b2.jpg">
-				<img id="strip" src="http://www.blakedyer.com/b3.jpg">
-				<img id="strip" src="http://www.blakedyer.com/b4.jpg">
-			</center>
-		</div> -->
-
-
-
-		<div class="dropdown">
-			<button onclick="myFunction()" class="dropbtn">THE BAHAMAS</button>
-			<div id="myDropdown" class="dropdown-content">
-				<a href="bahamas.html">2019</a>
-			</div>
+		<div class='left-nav'>
+			<span style='font-weight:800;color:#CCCCCC;letter-spacing: 0em'>FIELD WORK</span>
+			<ul style='list-style-type: none;padding: 0;margin-left: 2%'>
+				<li><a href='#crock'>CANADIAN ROCKIES</a></li>
+				<li><a href='#baha'>THE BAHAMAS</a></li>
+				<li><a href='#wus'>WESTERN US</a></li>
+				<li><a href='#barb'>BARBADOS</a></li>
+				<li><a href='#sa'>SOUTH AUSTRALIA</a></li>
+			</ul>
 		</div>
-		<i style='font-weight:300;
+
+
+		<div class="info">
+			<section id='crock'>
+				<header style='padding-left:.25em'><a href='canadian_rockies_2021.html'>CANADIAN ROCKIES</a> <i>(1 month)</i></header>
+
+				<div class="photostrip">
+					<img id="strip" src="Gallery/thumb_canadian_rockies_2021/2021-08-12_13_01_03.jpg">
+					<img id="strip" src="Gallery/thumb_canadian_rockies_2021/2021-08-15_15_50_54.jpg">
+					<img id="strip" src="Gallery/thumb_canadian_rockies_2021/2021-08-26_15_49_07.jpg">
+					<img id="strip" src="Gallery/thumb_canadian_rockies_2021/2021-08-11_21_24_46.jpg">
+
+				</div>
+			</section>
+
+			<section id='baha'>
+				<div class="dropdown">
+					<button onclick="myFunction()" class="dropbtn">THE BAHAMAS</button>
+					<div id="myDropdown" class="dropdown-content">
+						<a href="bahamas.html">2019</a>
+					</div>
+				</div>
+				<i style='font-weight:300;
 font-size:1em;
 letter-spacing:0em;font-size:1.5em;'>(5 months)</i>
-		<br>
-		Since 2015, I have been working in the Bahamas to constrain the effect of glacial isostatic adjustment and global mean sea level on the stratigraphic record of the last interglacial.
+				<br>
+				<!-- Since 2015, I have been working in the Bahamas to constrain the effect of glacial isostatic adjustment and global mean sea level on the stratigraphic record of the last interglacial. -->
 
-		<div class="photostrip">
-			<center>
-				<img id="strip" src="http://www.blakedyer.com/b1.jpg">
-				<img id="strip" src="http://www.blakedyer.com/b2.jpg">
-				<img id="strip" src="http://www.blakedyer.com/b3.jpg">
-				<img id="strip" src="http://www.blakedyer.com/b4.jpg">
-			</center>
-		</div>
+				<div class="photostrip">
+					<img id="strip" src="http://www.blakedyer.com/b1.jpg">
+					<img id="strip" src="http://www.blakedyer.com/b2.jpg">
+					<img id="strip" src="http://www.blakedyer.com/b3.jpg">
+					<img id="strip" src="http://www.blakedyer.com/b4.jpg">
+				</div>
+			</section>
 
-		<header style='padding-left:.25em'><a href='wusa.html'>WESTERN UNITED STATES</a> <i>(9 months)</i></header>
+			<section id='wus'>
+				<header style='padding-left:.25em'><a href='wusa.html'>WESTERN UNITED STATES</a> <i>(9 months)</i></header>
 
-		<!-- <header style='padding-left:.25em'>WESTERN UNITED STATES <i>(9 months)</i></header> -->
+				<!-- <header style='padding-left:.25em'>WESTERN UNITED STATES <i>(9 months)</i></header> -->
 
-		In 2011, I started working on late Paleozoic carbonates in the Western United States. This field data has helped us construct numerical models to improve our understand of the stratigraphic expression of meteoric diagenesis in carbonate
-		platforms. Moreover, the mapping the extent and magnitude of diagenesis in these western US carbonates seems to be critical for interpreting global carbon isotopic data and cataloging the ice sheet dynamics during the Late Paleozoic Ice Age.
+				<!-- In 2011, I started working on late Paleozoic carbonates in the Western United States. This field data has helped us construct numerical models to improve our understand of the stratigraphic expression of meteoric diagenesis in carbonate
+		platforms. Moreover, the mapping the extent and magnitude of diagenesis in these western US carbonates seems to be critical for interpreting global carbon isotopic data and cataloging the ice sheet dynamics during the Late Paleozoic Ice Age. -->
 
-		<div class="photostrip">
-			<center>
-				<img id="strip" src="http://www.blakedyer.com/wus1.jpg">
-				<img id="strip" src="http://www.blakedyer.com/wus2.jpg">
-				<img id="strip" src="http://www.blakedyer.com/wus3.jpg">
-				<img id="strip" src="http://www.blakedyer.com/wus4.jpg">
-			</center>
-		</div>
+				<div class="photostrip">
+					<img id="strip" src="http://www.blakedyer.com/wus1.jpg">
+					<img id="strip" src="http://www.blakedyer.com/wus2.jpg">
+					<img id="strip" src="http://www.blakedyer.com/wus3.jpg">
+					<img id="strip" src="http://www.blakedyer.com/wus4.jpg">
+				</div>
+			</section>
 
+			<section id='barb'>
+				<header style='padding-left:.25em'><a href='barbados.html'>BARBADOS</a> <i>(2 weeks)</i></header>
+				<!-- In 2018, <a href='https://blogs.ei.columbia.edu/2018/05/14/ancient-sea-levels-barbados/'>a group of us traveled to Barbados </a>to examine ancient coral terraces and tidal notches. We surveyed these classic sites at high resolution, and hope to
+		use that data, in combination with new geophysical models, to improve estimates of past sea level. -->
 
-		<header style='padding-left:.25em'><a href='barbados.html'>BARBADOS</a> <i>(2 weeks)</i></header>
-		In 2018, <a href='https://blogs.ei.columbia.edu/2018/05/14/ancient-sea-levels-barbados/'>a group of us traveled to Barbados </a>to examine ancient coral terraces and tidal notches. We surveyed these classic sites at high resolution, and hope to
-		use that data, in combination with new geophysical models, to improve estimates of past sea level.
-
-		<div class="photostrip">
-			<center>
-				<img id="strip" src="http://www.blakedyer.com/bar1.jpg">
-				<img id="strip" src="http://www.blakedyer.com/bar2.jpg">
-				<img id="strip" src="http://www.blakedyer.com/bar3.jpg">
-				<img id="strip" src="http://www.blakedyer.com/bar4.jpg">
-			</center>
-		</div>
+				<div class="photostrip">
+					<img id="strip" src="http://www.blakedyer.com/bar1.jpg">
+					<img id="strip" src="http://www.blakedyer.com/bar2.jpg">
+					<img id="strip" src="http://www.blakedyer.com/bar3.jpg">
+					<img id="strip" src="http://www.blakedyer.com/bar4.jpg">
+				</div>
+			</section>
 
 
-
-
-		<header style='padding-left:.25em'><a href='south_australia.html'>SOUTH AUSTRALIA</a> <i>(3 months)</i></header>
-		In the summer of 2010, I joined
+			<section id='sa'>
+				<header style='padding-left:.25em'><a href='south_australia.html'>SOUTH AUSTRALIA</a> <i>(3 months)</i></header>
+				<!-- In the summer of 2010, I joined
 		<a href="http://www.jonhusson.com/">Jon Husson</a>
 		and
 		<a href="https://earthsci.st-andrews.ac.uk/person/cvr/">Catherine Rose</a>
-		in the Flinders Ranges of South Australia to assist them in their work studying the the Marinoan glaciation and the Wonoka anomaly.
+		in the Flinders Ranges of South Australia to assist them in their work studying the the Marinoan glaciation and the Wonoka anomaly. -->
 
-		<div class="photostrip">
-			<center>
-				<img id="strip" src="http://www.blakedyer.com/sa1.jpg">
-				<img id="strip" src="http://www.blakedyer.com/sa2.jpg">
-				<img id="strip" src="http://www.blakedyer.com/sa3.jpg">
-				<img id="strip" src="http://www.blakedyer.com/sa4.jpg">
-			</center>
+				<div class="photostrip">
+					<img id="strip" src="http://www.blakedyer.com/sa1.jpg">
+					<img id="strip" src="http://www.blakedyer.com/sa2.jpg">
+					<img id="strip" src="http://www.blakedyer.com/sa3.jpg">
+					<img id="strip" src="http://www.blakedyer.com/sa4.jpg">
+				</div>
+
 		</div>
-
+		</section>
 	</div>
-
 
 	<div id="foot-placeholder">
 	</div>
