@@ -24,6 +24,20 @@
   border-bottom-color: #222222;
 }
 
+.img-container-Indonesia {
+  min-height: 66%;
+  background-image: url('Gallery/Indonesia/large/2012_08_25_16_25_19.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 33% 55%;
+  width: 100%;
+  display: table;
+  overflow: hidden;
+  border-bottom: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #222222;
+}
+
 .img-container-barbados {
   min-height: 66%;
   background-image: url('Gallery/large_barbados/DSC_0979.jpg');
