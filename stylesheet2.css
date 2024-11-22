@@ -4,9 +4,9 @@ html, body {
   padding: 0;
 }
 
-.img-container {
+.img-container-i {
   min-height: 66%;
-  /* background-image: url('front.jpg'); */
+  background-image: url('front.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 33% 33%;
@@ -282,7 +282,6 @@ line-height: 1.5em;}
 }
 
 .info img {
-  align: center;
   margin-top: 1%;
   margin-bottom: 2%;
   margin-left: 17%;
@@ -297,7 +296,6 @@ line-height: 1.5em;}
   margin-left: 2%;
   margin-bottom: 2%;
   margin-right: 0%;
-  "
 
 }
 
@@ -307,7 +305,6 @@ line-height: 1.5em;}
   margin-left: 2%;
   margin-bottom: 2%;
   margin-right: 0%;
-  "
 
 }
 
@@ -317,7 +314,6 @@ line-height: 1.5em;}
   margin-left: 0%;
   margin-bottom: 2%;
   margin-right: 2%;
-  "
 
 }
 
