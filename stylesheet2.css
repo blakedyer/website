@@ -340,7 +340,8 @@ nav a {
   margin-left: 24px;
   margin-top: 10px;
   color: #FFFFFF;
-  text-decoration: none;
+  text-shadow: 1px 1px 3px black;
+  font-weight: 600;
 }
 
 .footer {
