@@ -214,7 +214,7 @@ line-height: 1.5em;}
   margin-left: 20%;
   margin-right: 20%;
   text-align: left;
-  line-height: 2em;
+  line-height: 1.5em;
   overflow: hidden;
 }
 
@@ -225,14 +225,14 @@ line-height: 1.5em;}
   margin-left: 10%;
   margin-right: 10%;
   text-align: left;
-  line-height: 2em;
+  line-height: 1.5em;
   overflow: hidden;
 }
 
 .info-sub header {
   text-align: left;
   font-weight: 700;
-  letter-spacing: .2em;
+  letter-spacing: .04em;
   font-size: 1.5em;
   margin-bottom: 2%;
   margin-top: 2%;
@@ -247,7 +247,7 @@ line-height: 1.5em;}
 .info header {
   text-align: left;
   font-weight: 700;
-  letter-spacing: .2em;
+  letter-spacing: .04em;
   font-size: 1.5em;
   margin-bottom: 2%;
   margin-top: 2%;
@@ -271,7 +271,7 @@ line-height: 1.5em;}
 .papers header {
   text-align: left;
   font-weight: 700;
-  letter-spacing: .2em;
+  letter-spacing: .04em;
   font-size: 1.5em;
   margin-bottom: 2%;
   margin-top: 2%;
