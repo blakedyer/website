@@ -323,6 +323,7 @@ p, section ul {
 
 p {
   margin-bottom: .5em;
+  line-height:1.25em;
 }
 
 nav {
