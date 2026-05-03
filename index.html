@@ -18,6 +18,7 @@
   <script defer src="theme.js"></script>
 </head>
 <body data-page="home">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <header class="site-header">
     <div class="nav-shell">
       <a class="site-mark" href="index.html">Earth History @ UVic</a>
@@ -46,225 +47,127 @@
     </div>
   </header>
 
-  <main class="page-shell">
-    <section class="hero hero--home">
-      <div class="hero__content">
-        <p class="hero__eyebrow">Sedimentary geology | sea level | climate</p>
+  <main class="page-shell" id="main-content">
+    <section class="hero hero--home atlas-hero">
+      <div class="hero__content atlas-hero__content">
+        <p class="hero__eyebrow">Sedimentary geology | sea level | climate history</p>
         <h1 class="hero__title">
-          Earth history told by rocks, chemistry, and field data.
+          Earth History @ UVic
         </h1>
         <p class="hero__lede">
-          Earth History @ UVic combines field geology, geochemistry, statistics, and modeling
-          to understand how ancient sediments record climate change, sea-level history, and
-          the coevolution of Earth surface systems.
+          We read rocks, coastlines, chemistry, and quantitative models as records of climate
+          change, sea-level history, and the evolution of Earth surface systems.
         </p>
+        <p class="atlas-hero__people-note">Graduate students and post-docs are the heart of our group.</p>
         <div class="hero__actions">
-          <a class="button" href="publications.html">Explore Publications</a>
-          <a class="button button--ghost" href="fieldwork.html">Browse Field Albums</a>
-        </div>
-        <div class="fieldwork-hero-panel fieldwork-hero-panel--home">
-          <div class="fieldwork-hero-panel__copy">
-            <p class="fieldwork-hero-panel__eyebrow">Fieldwork In Motion</p>
-            <h2>Coastlines, carbonate platforms, and the team at work.</h2>
-            <p>
-              Drone surveys, shoreline traverses, and sample-scale observations connect landscapes
-              to the stratigraphic and geochemical questions that drive the group&apos;s research.
-            </p>
-          </div>
-          <div class="fieldwork-hero-panel__media">
-            <video
-              controls
-              playsinline
-              preload="none"
-              poster="assets/images/video-posters/fieldwork-hero-loop.jpg"
-            >
-              <source src="assets/videos/fieldwork-hero-loop.mp4" type="video/mp4">
-            </video>
-          </div>
+          <a class="button" href="#what-we-do">What we do</a>
+          <a class="button button--ghost" href="#people-heart">Join the group</a>
         </div>
       </div>
     </section>
 
-    <section class="section section--tight">
-      <div class="contact-panel contact-panel--priority">
-        <div>
-          <p class="section-kicker">Join The Group</p>
-          <h2>Graduate students and post-docs are the heart of our group.</h2>
-          <p>
-            Are you interested in studying the geologic history of climate and life? Our research group is dedicated to creating a positive, inclusive work environment for all. We embrace and encourage diversity in all forms and reject any form of discrimination. Fostering the diversity of thoughts, perspectives, and experiences that makes each of us unique strengthens the quality, social relevance, and impact of our research endeavors. Please reach out to <a href="mailto:blakedyer@uvic.ca">blakedyer[at]uvic.ca</a> to discuss Masters, PhD, and post-doc opportunities at UVic.
-          </p>
-        </div>
-        <div class="contact-panel__actions">
+    <section class="landing-atlas" aria-label="Earth History site overview">
+      <a class="landing-atlas__panel landing-atlas__panel--research" href="#what-we-do">
+        <span class="landing-atlas__label">Research</span>
+        <span class="landing-atlas__title">Field evidence, chemistry, computation</span>
+      </a>
+      <a class="landing-atlas__panel landing-atlas__panel--field" href="fieldwork.html">
+        <span class="landing-atlas__label">Field Photos</span>
+        <span class="landing-atlas__title">Coastlines, platforms, measured sections</span>
+      </a>
+      <a class="landing-atlas__panel landing-atlas__panel--papers" href="publications.html">
+        <span class="landing-atlas__label">Publications</span>
+        <span class="landing-atlas__title">Peer-reviewed research</span>
+      </a>
+      <a class="landing-atlas__panel landing-atlas__panel--team" href="team.html">
+        <span class="landing-atlas__label">Team</span>
+        <span class="landing-atlas__title">Students and postdocs at the center</span>
+      </a>
+    </section>
+
+    <section class="section people-heart" id="people-heart" aria-labelledby="people-heart-title">
+      <div class="people-heart__portraits" aria-hidden="true">
+        <img src="group/reid-miranda.jpg" alt="">
+        <img src="group/lang.jpg" alt="">
+        <img src="group/fragoso-argelia.jpg" alt="">
+        <img src="group/kai.jpg" alt="">
+        <img src="group/vanwieren.jpg" alt="">
+      </div>
+      <div class="people-heart__statement">
+        <p class="section-kicker">Join The Group</p>
+        <h2 id="people-heart-title">Graduate students and post-docs are the heart of our group.</h2>
+        <p>
+          Are you interested in studying the geologic history of climate and life? Our research group is dedicated to creating a positive, inclusive work environment for all. We embrace and encourage diversity in all forms and reject any form of discrimination. Fostering the diversity of thoughts, perspectives, and experiences that makes each of us unique strengthens the quality, social relevance, and impact of our research endeavors. Please reach out to <a href="mailto:blakedyer@uvic.ca">blakedyer[at]uvic.ca</a> to discuss Masters, PhD, and post-doc opportunities at UVic.
+        </p>
+        <div class="people-heart__actions">
           <a class="button" href="mailto:blakedyer@uvic.ca">Email Blake</a>
           <a class="button button--surface" href="team.html">Meet the team</a>
         </div>
       </div>
     </section>
 
-    <section class="section" id="research">
-      <div class="section-heading">
-        <p class="section-kicker">Research Themes</p>
-        <h2>Three questions motivate the group&apos;s work.</h2>
+    <section class="section section--tight atlas-overview" id="what-we-do" aria-labelledby="what-we-do-title">
+      <div class="atlas-overview__copy">
+        <p class="section-kicker">What We Do</p>
+        <h2 id="what-we-do-title">Field observations become tests of ancient climate and sea level.</h2>
         <p>
-          From interglacial coastlines to Paleozoic and Precambrian strata, the group&apos;s
-          research links field observations to quantitative questions about sea level,
-          stratigraphic correlation, and geochemical change.
+          We move between field sites, samples, geochemistry, statistics, and models to test how
+          Earth system change is recorded in sedimentary archives.
         </p>
       </div>
-      <div class="theme-grid">
-        <article class="theme-card">
-          <p class="theme-card__eyebrow">Sea level and ice sheets</p>
-          <h3>How do past shorelines constrain ice-sheet change?</h3>
-          <p>
-            Work in the Bahamas, Barbados, northwest Europe, and beyond uses stratigraphy,
-            geochronology, and geophysics to reconstruct interglacial sea level and test
-            ice-sheet behavior.
-          </p>
-        </article>
-        <article class="theme-card">
-          <p class="theme-card__eyebrow">Stratigraphy and sedimentary signals</p>
-          <h3>When is a recorded signal global, and when is it local?</h3>
-          <p>
-            The group studies how transport, facies architecture, sequence stratigraphy, and
-            age uncertainty shape the proxy records preserved in sedimentary rocks.
-          </p>
-        </article>
-        <article class="theme-card">
-          <p class="theme-card__eyebrow">Ancient carbon cycle and diagenesis</p>
-          <h3>What do carbonate geochemical records really mean?</h3>
-          <p>
-            Carbonate geochemistry can illuminate major environmental transitions, but only
-            when local overprints and diagenetic effects are treated as part of the science,
-            not noise to ignore.
-          </p>
-        </article>
+      <div class="atlas-route-list">
+        <a class="atlas-route" href="publications.html#sea-level">
+          <span class="atlas-route__number">01</span>
+          <span>
+            <strong>Reconstruct past shorelines.</strong>
+            Fossil reefs and coastal markers constrain ice-sheet behavior.
+          </span>
+        </a>
+        <a class="atlas-route" href="publications.html#stratigraphy">
+          <span class="atlas-route__number">02</span>
+          <span>
+            <strong>Read sedimentary archives.</strong>
+            Facies, transport, and age uncertainty shape preserved signals.
+          </span>
+        </a>
+        <a class="atlas-route" href="publications.html#carbon-cycle">
+          <span class="atlas-route__number">03</span>
+          <span>
+            <strong>Test geochemical records.</strong>
+            Carbonate chemistry is interpreted with local context in view.
+          </span>
+        </a>
+        <a class="atlas-route" href="publications.html#methods">
+          <span class="atlas-route__number">04</span>
+          <span>
+            <strong>Build quantitative methods.</strong>
+            Bayesian inference and models connect evidence to hypotheses.
+          </span>
+        </a>
       </div>
     </section>
 
-    <section class="section">
-      <div class="split-callout">
-        <div class="split-callout__copy">
-          <p class="section-kicker">How We Work</p>
-          <h2>Modern quantitative tools, anchored by field geology.</h2>
-          <p>
-            Detailed measured sections, drone imagery, GPS, and sedimentologic context are
-            paired with Bayesian inference, geochemical analysis, machine learning, and
-            numerical modeling. Field campaigns generate the observations and samples that
-            anchor later interpretation and modeling.
-          </p>
-          <a class="text-link" href="fieldwork.html">See the field albums</a>
-        </div>
-        <div class="photo-panel">
-          <img src="research.jpg" alt="Field notebook and coastal outcrop textures">
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="section-heading">
-        <p class="section-kicker">Fieldwork In Motion</p>
-        <h2>Short clips of our work.</h2>
-        <p>
-          These videos show both ancient environments and their modern analogs.
-        </p>
-      </div>
-      <div class="fieldwork-grid">
-        <article class="fieldwork-card">
-          <div class="fieldwork-card__media">
-            <video controls preload="metadata" playsinline poster="assets/images/video-posters/fieldwork-seagrass.jpg">
-              <source src="assets/videos/fieldwork-seagrass.mp4" type="video/mp4">
-            </video>
-          </div>
-          <div class="fieldwork-card__body">
-            <p class="fieldwork-card__eyebrow">Modern Carbonate Environments</p>
-            <h3>Seagrass meadow</h3>
-            <p>
-              Many sedimentary rocks we study formed in shallow settings that were full of life,
-              and seagrass meadows help show how ecology and sedimentation are coupled.
-            </p>
-          </div>
-        </article>
-
-        <article class="fieldwork-card">
-          <div class="fieldwork-card__media">
-            <video controls preload="metadata" playsinline poster="assets/images/video-posters/fieldwork-groovesand.jpg">
-              <source src="assets/videos/fieldwork-groovesand.mp4" type="video/mp4">
-            </video>
-          </div>
-          <div class="fieldwork-card__body">
-            <p class="fieldwork-card__eyebrow">Transport And Bedforms</p>
-            <h3>Sand under waves and currents</h3>
-            <p>
-              Grain transport creates bedforms with distinctive geometries that can later be read
-              from preserved stratification in the rock record.
-            </p>
-          </div>
-        </article>
-
-        <article class="fieldwork-card">
-          <div class="fieldwork-card__media">
-            <video controls preload="metadata" playsinline poster="assets/images/video-posters/fieldwork-beachrock.jpg">
-              <source src="assets/videos/fieldwork-beachrock.mp4" type="video/mp4">
-            </video>
-          </div>
-          <div class="fieldwork-card__body">
-            <p class="fieldwork-card__eyebrow">Coastal Transects</p>
-            <h3>Walking the modern coastline</h3>
-            <p>
-              Shore-parallel traverses help the team map past shoreline position on the present-day coast.
-            </p>
-          </div>
-        </article>
-
-        <article class="fieldwork-card">
-          <div class="fieldwork-card__media">
-            <video controls preload="metadata" playsinline poster="assets/images/video-posters/fieldwork-middle-caicos.jpg">
-              <source src="assets/videos/fieldwork-middle-caicos.mp4" type="video/mp4">
-            </video>
-          </div>
-          <div class="fieldwork-card__body">
-            <p class="fieldwork-card__eyebrow">Middle Caicos</p>
-            <h3>Mapping elevated coastlines</h3>
-            <p>
-              Dunes, fossil corals, and fossil beaches preserve evidence of higher past sea level,
-              and the team maps contacts and samples material for ages.
-            </p>
-          </div>
-        </article>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="section-heading">
+    <section class="section timeline-preview-section">
+      <div class="section-heading section-heading--wide">
         <p class="section-kicker">Recent Papers</p>
-        <h2>Our latest peer-reviewed work.</h2>
-        <p>
-          Below are PDF links to each article, along with brief summaries of the main question and key result of each publication.
-        </p>
+        <h2>Latest work in the publication timeline.</h2>
       </div>
-      <div class="publication-grid publication-grid--compact" id="recent-publications"></div>
-      <br>
+      <div class="publication-timeline publication-timeline--preview" id="recent-publications"></div>
       <div class="section-actions">
         <a class="button" href="publications.html">View all papers</a>
       </div>
     </section>
 
-    <section class="section">
-      <div class="section-heading">
+    <section class="section archive-preview-section">
+      <div class="section-heading section-heading--wide">
         <p class="section-kicker">Field Albums</p>
-        <h2>The places we work.</h2>
-        <p>
-          These albums document the field observations and landscapes behind the group's 
-                research, spanning relatively recent interglacial shorelines to Paleozoic and Neoproterozoic basins.
-        </p>
+        <h2>The places behind the questions.</h2>
       </div>
-      <div class="album-grid album-grid--compact" id="featured-albums"></div>
-      <br>
+      <div class="album-grid album-grid--compact expedition-grid" id="featured-albums"></div>
       <div class="section-actions">
         <a class="button" href="fieldwork.html">Open the full gallery hub</a>
       </div>
     </section>
-
   </main>
 
   <footer class="site-footer">

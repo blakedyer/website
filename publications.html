@@ -17,6 +17,7 @@
   <script defer src="theme.js"></script>
 </head>
 <body data-page="publications">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <header class="site-header">
     <div class="nav-shell">
       <a class="site-mark" href="index.html">Earth History @ UVic</a>
@@ -45,36 +46,39 @@
     </div>
   </header>
 
-  <main class="page-shell">
+  <main class="page-shell" id="main-content">
     <section class="hero hero--publications hero--short">
       <div class="hero__content">
         <p class="hero__eyebrow">Publications</p>
-        <h1 class="hero__title">Sedimentary geology, climate history, and quantitative field science.</h1>
-        <!-- <p class="hero__lede">
-          Browse the publications by theme or date of publication to see how field observations, geochemistry, and
-          quantitative inference connect across projects.
-        </p> -->
+        <h1 class="hero__title">Publication timeline.</h1>
+        <p class="hero__lede">
+          Filter peer-reviewed work by the main research threads.
+        </p>
       </div>
     </section>
 
-    <section class="section">
-      <div class="section-heading">
-        <p class="section-kicker">Research products</p>
-        <h2>Peer-reviewed publications.</h2>
-        <p>
-          Newest papers at the top, and filters for specific topics. Use the buttons to focus on sea level, carbon cycle, stratigraphy, methods, or
-          ice-sheet questions.
-        </p>
+    <section class="section publication-surface">
+      <div class="section-heading section-heading--wide">
+        <p class="section-kicker">Research Timeline</p>
+        <h2>Grouped by year, filtered by theme.</h2>
       </div>
-      <div class="filter-bar" aria-label="Publication filters">
-        <button class="filter-chip is-active" type="button" data-filter="all" aria-pressed="true">All</button>
-        <button class="filter-chip" type="button" data-filter="sea-level" aria-pressed="false">Sea level</button>
-        <button class="filter-chip" type="button" data-filter="carbon-cycle" aria-pressed="false">Carbon cycle</button>
-        <button class="filter-chip" type="button" data-filter="stratigraphy" aria-pressed="false">Stratigraphy</button>
-        <button class="filter-chip" type="button" data-filter="methods" aria-pressed="false">Methods</button>
-        <button class="filter-chip" type="button" data-filter="ice-sheets" aria-pressed="false">Ice sheets</button>
+
+      <div class="publication-controls">
+        <div class="filter-bar" aria-label="Publication filters">
+          <button class="filter-chip is-active" type="button" data-filter="all" aria-pressed="true">All</button>
+          <button class="filter-chip" type="button" data-filter="sea-level" aria-pressed="false">Sea level</button>
+          <button class="filter-chip" type="button" data-filter="carbon-cycle" aria-pressed="false">Carbon cycle</button>
+          <button class="filter-chip" type="button" data-filter="stratigraphy" aria-pressed="false">Stratigraphy</button>
+          <button class="filter-chip" type="button" data-filter="methods" aria-pressed="false">Methods</button>
+          <button class="filter-chip" type="button" data-filter="ice-sheets" aria-pressed="false">Ice sheets</button>
+        </div>
+        <p class="filter-count" data-filter-count aria-live="polite"></p>
       </div>
-      <div class="publication-grid" id="publication-grid"></div>
+
+      <p class="empty-state" data-publication-empty hidden>
+        No publications match that theme yet. Try another research thread.
+      </p>
+      <div class="publication-timeline" id="publication-grid"></div>
     </section>
   </main>
 

@@ -17,6 +17,7 @@
   <script defer src="theme.js"></script>
 </head>
 <body data-page="team">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <header class="site-header">
     <div class="nav-shell">
       <a class="site-mark" href="index.html">Earth History @ UVic</a>
@@ -45,34 +46,38 @@
     </div>
   </header>
 
-  <main class="page-shell">
+  <main class="page-shell" id="main-content">
     <section class="hero hero--team hero--short">
       <div class="hero__content">
         <p class="hero__eyebrow">Team</p>
         <h1 class="hero__title">Meet the team reading Earth's history.</h1>
         <p class="hero__lede">
-          The group brings together sedimentology, geochemistry, stratigraphy, computation,
-          and field experience across projects on sea level, carbonate systems, stratigraphy, and past climate. Each person manages their own research projects with mentorship and support from the PI, and we work together to share ideas, data, and skills.
+         The group brings together sedimentology, geochemistry, stratigraphy, computation, and field experience across projects on sea level, carbonate systems, stratigraphy, and past climate. Each person manages their own research projects with mentorship and support from the PI, and we work together to share ideas, data, and skills.
         </p>
       </div>
     </section>
 
     <section class="section">
-      <div class="section-heading">
+      <div class="section-heading section-heading--wide">
         <p class="section-kicker">Current Members</p>
-        <!-- <h2>Research across sea level, stratigraphy, and carbonate geochemistry.</h2> -->
+        <!-- <h2>Current projects connect people to research themes.</h2> -->
       </div>
-      <div class="people-grid">
+      <div class="people-grid team-roster">
         <article class="person-card person-card--blake">
           <img src="me.jpg" alt="Portrait of Blake Dyer" loading="lazy">
           <div class="person-card__body">
             <p class="person-role">Principal Investigator</p>
             <h3>Blake Dyer</h3>
             <p>
-              Blake is an Associate Professor in the School of Earth and Ocean Sciences at UVic.
-              His research combines sedimentology, geochemistry, geospatial data, and quantitative
-              modeling to reconstruct how Earth systems respond to changing boundary conditions.
+              Blake combines field geology, geochemistry, geospatial data, and modeling to reconstruct
+              Earth-system change.
             </p>
+            <ul class="theme-tags" aria-label="Research themes">
+              <li>Sea level</li>
+              <li>Stratigraphy</li>
+              <li>Geochemistry</li>
+              <li>Modeling</li>
+            </ul>
             <p class="person-links">
               <a href="mailto:blakedyer@uvic.ca">Email</a>
               <a href="cv.pdf">CV</a>
@@ -88,10 +93,14 @@
             <p class="person-role">PhD Candidate</p>
             <h3>Stacey Edmonsond</h3>
             <p>
-              Stacey studies how changes in Earth&apos;s climate and environment are translated to the
-              stratigraphic record, with a focus on Paleozoic shallow carbonates, sedimentology,
-              and stable isotope geochemistry in the Canadian Rockies.
+              Stacey studies how climate and environmental change are translated into Paleozoic
+              carbonate stratigraphy.
             </p>
+            <ul class="theme-tags" aria-label="Research themes">
+              <li>Stratigraphy</li>
+              <li>Carbon cycle</li>
+              <li>Methods</li>
+            </ul>
             <p class="person-links">
               <a href="mailto:sedmonsond@uvic.ca">Email</a>
               <a href="https://github.com/sedmonsond">GitHub</a>
@@ -106,9 +115,13 @@
             <p class="person-role">MSc Candidate</p>
             <h3>Miranda Reid</h3>
             <p>
-              Miranda is using machine learning and rich observations of coastal change in Canada
-              to improve predictions of coastal dynamics and future risk.
+              Miranda uses machine learning and coastal observations to improve predictions of future risk.
             </p>
+            <ul class="theme-tags" aria-label="Research themes">
+              <li>Coastal change</li>
+              <li>Machine learning</li>
+              <li>Sea-level risk</li>
+            </ul>
             <p class="person-links">
               <a href="mailto:mirandareid021@gmail.com">Email</a>
             </p>
@@ -120,8 +133,14 @@
           <div class="person-card__body">
             <p class="person-role">Postdoctoral Researcher</p>
             <h3>Argelia Silva Fragoso</h3>
-            <p>Argelia develops numerical models to simulate the seafloor lava accretion processes. By studying environments like the Juan de Fuca Ridge, she aims to pinpoint the most effective locations for carbon capture and sequestration.
-              </p>
+            <p>
+              Argelia models seafloor lava accretion and carbon storage opportunities near ridge systems.
+            </p>
+            <ul class="theme-tags" aria-label="Research themes">
+              <li>Numerical modeling</li>
+              <li>Seafloor processes</li>
+              <li>Carbon storage</li>
+            </ul>
             <p class="person-links">
               <a href="mailto:argeliasf@uvic.ca">Email</a>
               <a href="https://www.researchgate.net/profile/Argelia-Silva-2?ev=hdr_xprf">ResearchGate</a>
@@ -132,19 +151,24 @@
     </section>
 
     <section class="section">
-      <div class="section-heading">
+      <div class="section-heading section-heading--wide">
         <p class="section-kicker">Alumni And Past Members</p>
-        <!-- <h2>The archive reflects the group&apos;s recent research directions and mentoring history.</h2> -->
+        <h2>Past members and themes.</h2>
       </div>
-      <div class="people-grid">
+      <div class="people-grid team-roster team-roster--compact">
         <article class="person-card person-card--compact">
           <img src="group/vanwieren.jpg" alt="Portrait of Connor van Wieren" loading="lazy">
           <div class="person-card__body">
             <p class="person-role">PhD Candidate, 2020 to 2025</p>
             <h3>Connor van Wieren</h3>
             <p>
-              Connor worked on Neoproterozoic carbonate chemostratigraphy and is currently a postdoc at Yale University.
+              Connor worked on Neoproterozoic carbonate chemostratigraphy.
             </p>
+            <ul class="theme-tags" aria-label="Research themes">
+              <li>Carbon cycle</li>
+              <li>Stratigraphy</li>
+              <li>Neoproterozoic</li>
+            </ul>
             <p class="person-links">
               <a href="mailto:cvanwier@uvic.ca">Email</a>
               <a href="https://github.com/VanWieren">GitHub</a>
@@ -158,8 +182,13 @@
             <p class="person-role">MSc Candidate, 2022 to 2025</p>
             <h3>Kai Tawil-Morsink</h3>
             <p>
-              Kai investigated carbon isotopic records in Late Cenomanian and early Turonian carbonates and is now an Education Fellow at the Boston Museum of Science.
+              Kai investigated carbon isotope records in Late Cenomanian and early Turonian carbonates.
             </p>
+            <ul class="theme-tags" aria-label="Research themes">
+              <li>Carbon isotopes</li>
+              <li>Stratigraphy</li>
+              <li>Education</li>
+            </ul>
             <p class="person-links">
               <a href="mailto:tawilmorsink@uvic.ca">Email</a>
               <a href="https://github.com/kai-mo">GitHub</a>
@@ -174,8 +203,13 @@
             <p class="person-role">NSERC USRA, 2021 to 2022</p>
             <h3>Kristyn Lang</h3>
             <p>
-              Kristyn worked on software and models for carbonate facies and sea-level inference and is now a graduate student in SEOS at UVic.
+              Kristyn worked on software and models for carbonate facies and sea-level inference.
             </p>
+            <ul class="theme-tags" aria-label="Research themes">
+              <li>Carbonate facies</li>
+              <li>Sea level</li>
+              <li>Modeling</li>
+            </ul>
             <p class="person-links">
               <a href="mailto:kristynlang@uvic.ca">Email</a>
             </p>

@@ -1,8 +1,62 @@
 (() => {
   const site = window.EARTH_HISTORY || { publications: [], albums: [] };
   const galleryStore = window.EARTH_HISTORY_GALLERIES || { albums: [], galleries: {} };
-  const albums = galleryStore.albums && galleryStore.albums.length ? galleryStore.albums : site.albums || [];
+  const rawAlbums = galleryStore.albums && galleryStore.albums.length ? galleryStore.albums : site.albums || [];
   const galleries = galleryStore.galleries || {};
+  const albumContext = {
+    hawaii: {
+      location: "Ka'ena Point and Oahu shorelines",
+      context: "Fossil reef terraces, modern reef analogs, and last interglacial sea-level markers"
+    },
+    "turks-and-caicos": {
+      location: "Middle Caicos and nearby carbonate coastlines",
+      context: "Reef, dune, beachrock, and elevated shoreline observations"
+    },
+    "western-us-devonian": {
+      location: "Great Basin and western U.S. carbonate sections",
+      context: "Devonian platform strata, measured sections, and facies architecture"
+    },
+    "western-us-pennsylvanian": {
+      location: "Western U.S. Pennsylvanian basins",
+      context: "Cyclothems, carbonate platforms, and sea-level-sensitive stratigraphy"
+    },
+    "western-us-cambrian": {
+      location: "Western U.S. Cambrian field sites",
+      context: "Shallow marine strata and early Paleozoic carbonate archives"
+    },
+    "canadian-rockies": {
+      location: "Southern Canadian Cordillera",
+      context: "Paleozoic measured sections, mountain field camps, and isotope records"
+    },
+    barbados: {
+      location: "Cave Hill and Barbadian reef terraces",
+      context: "Coral-reef terraces used to reconstruct interglacial sea level"
+    },
+    bahamas: {
+      location: "Bahamian carbonate platforms",
+      context: "Coastal stratigraphy, fossil corals, and last interglacial sea-level gradients"
+    },
+    "south-australia": {
+      location: "Flinders Ranges, South Australia",
+      context: "Snowball Earth, cap carbonates, and Ediacaran stratigraphy"
+    },
+    indonesia: {
+      location: "Indonesia",
+      context: "Travel field photos and landscape observations"
+    }
+  };
+
+  const slugify = (value = "") =>
+    value
+      .toLowerCase()
+      .replace(/&/g, "and")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, "");
+
+  const albums = rawAlbums.map((album) => {
+    const key = album.slug || slugify(album.title);
+    return { ...albumContext[key], ...album, slug: key };
+  });
 
   const titleCase = (value) =>
     value
@@ -17,6 +71,17 @@
       .replace(/>/g, "&gt;")
       .replace(/"/g, "&quot;")
       .replace(/'/g, "&#39;");
+
+  const themeLabel = (tag) => {
+    const labels = {
+      "sea-level": "Sea level",
+      "carbon-cycle": "Carbon cycle",
+      stratigraphy: "Stratigraphy",
+      methods: "Methods",
+      "ice-sheets": "Ice sheets"
+    };
+    return labels[tag] || titleCase(tag);
+  };
 
   function setupNav() {
     const toggle = document.querySelector("[data-nav-toggle]");
@@ -42,11 +107,19 @@
 
   function publicationMarkup(publication, compact = false) {
     const tags = publication.tags
-      .map((tag) => `<li class="tag">${escapeHtml(titleCase(tag))}</li>`)
+      .map((tag) => `<li class="tag">${escapeHtml(themeLabel(tag))}</li>`)
       .join("");
+    const detailMarkup = compact
+      ? `<p class="paper-journal">${escapeHtml(publication.journal)}</p>`
+      : `
+        <ul class="tag-list">${tags}</ul>
+        <p class="paper-summary">${escapeHtml(publication.summary)}</p>
+        <p class="paper-authors">${escapeHtml(publication.authors)}</p>
+        <p class="paper-journal">${escapeHtml(publication.journal)}</p>
+      `;
 
     return `
-      <article class="paper-card${compact ? " paper-card--compact" : ""}" data-tags="${escapeHtml(publication.tags.join(" "))}">
+      <article class="paper-card publication-entry${compact ? " paper-card--compact publication-entry--compact" : ""}" data-tags="${escapeHtml(publication.tags.join(" "))}">
         <div class="paper-card__top">
           <p class="paper-year">${escapeHtml(publication.year)}</p>
           <a class="paper-link" href="${escapeHtml(publication.link)}" target="_blank" rel="noopener">PDF</a>
@@ -54,26 +127,60 @@
         <h3 class="paper-title">
           <a href="${escapeHtml(publication.link)}" target="_blank" rel="noopener">${escapeHtml(publication.title)}</a>
         </h3>
-        <p class="paper-authors">${escapeHtml(publication.authors)}</p>
-        <p class="paper-journal">${escapeHtml(publication.journal)}</p>
-        <p class="paper-summary">${escapeHtml(publication.summary)}</p>
-        <ul class="tag-list">${tags}</ul>
+        ${detailMarkup}
       </article>
     `;
   }
 
+  function publicationTimelineMarkup(publications, compact = false) {
+    const groups = publications.reduce((items, publication) => {
+      const year = String(publication.year);
+      if (!items[year]) {
+        items[year] = [];
+      }
+      items[year].push(publication);
+      return items;
+    }, {});
+
+    return Object.keys(groups)
+      .sort((a, b) => Number(b) - Number(a))
+      .map(
+        (year) => `
+          <section class="publication-year-group" data-year="${escapeHtml(year)}">
+            <div class="publication-year-marker">
+              <span>${escapeHtml(year)}</span>
+            </div>
+            <div class="publication-year-items">
+              ${groups[year].map((publication) => publicationMarkup(publication, compact)).join("")}
+            </div>
+          </section>
+        `
+      )
+      .join("");
+  }
+
   function albumMarkup(album) {
     const meta = album.meta || `${album.count} photos`;
+    const contextItems = [album.location, album.dateRange, album.context].filter(Boolean);
+    const summaryMarkup =
+      album.summary && !contextItems.length ? `<p>${escapeHtml(album.summary)}</p>` : "";
 
     return `
-      <article class="album-card">
+      <article class="album-card expedition-card">
         <a class="album-card__image" href="${escapeHtml(album.link)}">
           <img src="${escapeHtml(album.image)}" alt="${escapeHtml(album.title)} album preview" loading="lazy">
         </a>
         <div class="album-card__body">
           <p class="album-card__meta">${escapeHtml(meta)}</p>
           <h3><a href="${escapeHtml(album.link)}">${escapeHtml(album.title)}</a></h3>
-          <p>${escapeHtml(album.summary)}</p>
+          ${
+            contextItems.length
+              ? `<ul class="album-card__context">${contextItems
+                  .map((item) => `<li>${escapeHtml(item)}</li>`)
+                  .join("")}</ul>`
+              : ""
+          }
+          ${summaryMarkup}
           <a class="text-link" href="${escapeHtml(album.link)}">Open album</a>
         </div>
       </article>
@@ -85,16 +192,13 @@
     const featuredAlbumsContainer = document.querySelector("#featured-albums");
 
     if (recentContainer) {
-      recentContainer.innerHTML = site.publications
-        .slice(0, 4)
-        .map((publication) => publicationMarkup(publication, true))
-        .join("");
+      recentContainer.innerHTML = publicationTimelineMarkup(site.publications.slice(0, 3), true);
     }
 
     if (featuredAlbumsContainer) {
       featuredAlbumsContainer.innerHTML = albums
         .filter((album) => album.featured)
-        .slice(0, 4)
+        .slice(0, 3)
         .map((album) => albumMarkup(album))
         .join("");
     }
@@ -106,34 +210,62 @@
       return;
     }
 
-    container.innerHTML = site.publications.map((publication) => publicationMarkup(publication)).join("");
+    container.innerHTML = publicationTimelineMarkup(site.publications);
   }
 
   function setupPublicationFilters() {
     const buttons = Array.from(document.querySelectorAll("[data-filter]"));
     const cards = Array.from(document.querySelectorAll(".paper-card"));
+    const groups = Array.from(document.querySelectorAll(".publication-year-group"));
+    const count = document.querySelector("[data-filter-count]");
+    const empty = document.querySelector("[data-publication-empty]");
 
     if (!buttons.length || !cards.length) {
       return;
     }
 
+    const applyFilter = (filter) => {
+      let visibleCount = 0;
+
+      buttons.forEach((item) => {
+        const active = item.dataset.filter === filter;
+        item.classList.toggle("is-active", active);
+        item.setAttribute("aria-pressed", String(active));
+      });
+
+      cards.forEach((card) => {
+        const tags = card.dataset.tags.split(" ");
+        const show = filter === "all" || tags.includes(filter);
+        card.hidden = !show;
+        if (show) {
+          visibleCount += 1;
+        }
+      });
+
+      groups.forEach((group) => {
+        const groupCards = Array.from(group.querySelectorAll(".paper-card"));
+        group.hidden = groupCards.every((card) => card.hidden);
+      });
+
+      if (count) {
+        const label = filter === "all" ? "papers" : `${themeLabel(filter)} papers`;
+        count.textContent = `${visibleCount} ${label}`;
+      }
+
+      if (empty) {
+        empty.hidden = visibleCount !== 0;
+      }
+    };
+
     buttons.forEach((button) => {
       button.addEventListener("click", () => {
-        const filter = button.dataset.filter;
-
-        buttons.forEach((item) => {
-          const active = item === button;
-          item.classList.toggle("is-active", active);
-          item.setAttribute("aria-pressed", String(active));
-        });
-
-        cards.forEach((card) => {
-          const tags = card.dataset.tags.split(" ");
-          const show = filter === "all" || tags.includes(filter);
-          card.hidden = !show;
-        });
+        applyFilter(button.dataset.filter);
       });
     });
+
+    const initialFilter = window.location.hash ? window.location.hash.replace("#", "") : "all";
+    const validFilter = buttons.some((button) => button.dataset.filter === initialFilter) ? initialFilter : "all";
+    applyFilter(validFilter);
   }
 
   function renderAlbums() {
@@ -153,26 +285,6 @@
     document.querySelectorAll("[data-album-count]").forEach((item) => {
       item.textContent = String(albums.length);
     });
-  }
-
-  function createIntroMarkup(gallery) {
-    const paragraphs = [gallery.summary].concat(gallery.intro || []);
-    const paragraphMarkup = paragraphs
-      .filter(Boolean)
-      .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
-      .join("");
-
-    return `
-      <div class="gallery-intro-card__copy">
-        <p class="section-kicker">Gallery Notes</p>
-        <h2>${escapeHtml(gallery.title)}</h2>
-        ${paragraphMarkup}
-      </div>
-      <div class="gallery-intro-card__stats">
-        <p class="gallery-intro-card__count">${escapeHtml(gallery.photos.length)}</p>
-        <p class="gallery-intro-card__label">photos in this album</p>
-      </div>
-    `;
   }
 
   function buildGalleryCard(photo, index) {
@@ -230,7 +342,14 @@
     const nextButton = lightbox.querySelector("[data-lightbox-next]");
     const openButton = document.querySelector("[data-open-gallery]");
     const triggers = Array.from(document.querySelectorAll(".gallery-card__button"));
+    const focusableSelector = [
+      "button:not([disabled])",
+      "a[href]",
+      "img[tabindex]",
+      "[tabindex]:not([tabindex='-1'])"
+    ].join(",");
     let currentIndex = 0;
+    let previousFocus = null;
 
     const updatePhoto = (index) => {
       const total = gallery.photos.length;
@@ -245,14 +364,21 @@
     };
 
     const openLightbox = (index) => {
+      previousFocus = document.activeElement;
       updatePhoto(index);
       lightbox.hidden = false;
       document.body.classList.add("lightbox-open");
+      if (closeButton) {
+        closeButton.focus();
+      }
     };
 
     const closeLightbox = () => {
       lightbox.hidden = true;
       document.body.classList.remove("lightbox-open");
+      if (previousFocus && typeof previousFocus.focus === "function") {
+        previousFocus.focus();
+      }
     };
 
     triggers.forEach((trigger) => {
@@ -294,6 +420,20 @@
         updatePhoto(currentIndex - 1);
       } else if (event.key === "ArrowRight") {
         updatePhoto(currentIndex + 1);
+      } else if (event.key === "Tab" && frame) {
+        const focusable = Array.from(frame.querySelectorAll(focusableSelector));
+        if (!focusable.length) {
+          return;
+        }
+        const first = focusable[0];
+        const last = focusable[focusable.length - 1];
+        if (event.shiftKey && document.activeElement === first) {
+          event.preventDefault();
+          last.focus();
+        } else if (!event.shiftKey && document.activeElement === last) {
+          event.preventDefault();
+          first.focus();
+        }
       }
     });
   }
@@ -312,9 +452,7 @@
     const hero = document.querySelector("#gallery-hero");
     const title = document.querySelector("#gallery-title");
     const summary = document.querySelector("#gallery-summary");
-    const intro = document.querySelector("#gallery-intro");
     const count = document.querySelector("#gallery-count");
-    const metaCopy = document.querySelector("#gallery-meta-copy");
     const grid = document.querySelector("#gallery-grid");
 
     if (hero && gallery.heroImage) {
@@ -329,17 +467,8 @@
       summary.textContent = gallery.summary;
     }
 
-    if (intro) {
-      intro.innerHTML = createIntroMarkup(gallery);
-    }
-
     if (count) {
       count.textContent = `${gallery.photos.length} photos`;
-    }
-
-    if (metaCopy) {
-      metaCopy.textContent =
-        "Full gallery with caption metadata carried through wherever it exists in the source archive.";
     }
 
     if (grid) {
