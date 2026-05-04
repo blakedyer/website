@@ -360,6 +360,32 @@ select {
   font-weight: 700;
 }
 
+.paper-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2rem;
+  padding: 0.18rem 0.55rem;
+  border: 1px solid oklch(42% 0.055 176 / 0.28);
+  border-radius: 999px;
+  background: oklch(99% 0.007 84 / 0.62);
+  color: var(--accent-dark);
+  font-size: 0.76rem;
+  letter-spacing: 0.08em;
+  line-height: 1;
+  text-transform: uppercase;
+  transition:
+    background-color 180ms cubic-bezier(0.25, 1, 0.5, 1),
+    border-color 180ms cubic-bezier(0.25, 1, 0.5, 1),
+    color 180ms cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.paper-link:hover {
+  border-color: oklch(42% 0.055 176 / 0.5);
+  background: oklch(95% 0.018 84);
+  color: var(--accent-dark);
+}
+
 .paper-authors,
 .paper-journal {
   margin: 0.35rem 0 0;
@@ -399,12 +425,28 @@ select {
 }
 
 .filter-chip {
+  min-height: 2.45rem;
   padding: 0.6rem 0.95rem;
   border: 1px solid var(--line);
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.66);
   color: var(--muted);
   cursor: pointer;
+  touch-action: manipulation;
+  transition:
+    background-color 180ms cubic-bezier(0.25, 1, 0.5, 1),
+    border-color 180ms cubic-bezier(0.25, 1, 0.5, 1),
+    color 180ms cubic-bezier(0.25, 1, 0.5, 1),
+    transform 180ms cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.filter-chip:hover {
+  border-color: oklch(42% 0.055 176 / 0.32);
+  color: var(--accent-dark);
+}
+
+.filter-chip:active {
+  transform: translateY(1px);
 }
 
 .filter-chip.is-active {
@@ -789,6 +831,8 @@ select {
 
   .publication-overview__detail,
   .publication-overview__dot,
+  .publication-overview__label,
+  .publication-overview__stem,
   .publication-entry {
     transition: none;
   }
@@ -871,8 +915,7 @@ button:focus-visible,
 .site-nav a:hover,
 .footer-links a:hover,
 .person-links a:hover,
-.text-link:hover,
-.paper-link:hover {
+.text-link:hover {
   text-decoration: underline;
 }
 
@@ -1194,7 +1237,11 @@ button:focus-visible,
 }
 
 .publication-overview__track {
+  --timeline-axis-y: 50%;
   --pin-hit-width: clamp(5.75rem, 9vw, 7.6rem);
+  --pin-anchor-offset: 1.35rem;
+  --pin-dot-size: 0.78rem;
+  --pin-dot-offset: calc(var(--pin-anchor-offset) - (var(--pin-dot-size) / 2));
   --pin-base: clamp(1.95rem, 3.2vw, 2.5rem);
   --pin-step: clamp(1.85rem, 2.8vw, 2.45rem);
   position: relative;
@@ -1209,7 +1256,7 @@ button:focus-visible,
   content: "";
   position: absolute;
   z-index: 0;
-  top: 50%;
+  top: var(--timeline-axis-y);
   right: 0.85rem;
   left: 0.85rem;
   height: 2px;
@@ -1228,7 +1275,7 @@ button:focus-visible,
   content: "";
   position: absolute;
   z-index: 0;
-  top: 50%;
+  top: var(--timeline-axis-y);
   right: 0;
   width: 0.78rem;
   height: 0.78rem;
@@ -1240,32 +1287,37 @@ button:focus-visible,
 .publication-overview__event {
   --pin-length: calc(var(--pin-base) + (var(--timeline-lane) * var(--pin-step)));
   position: absolute;
-  top: 50%;
+  top: var(--timeline-axis-y);
   left: clamp(3.65rem, var(--timeline-position), calc(100% - 3.65rem));
   width: 0;
   height: 0;
 }
 
 .publication-overview__pin {
+  appearance: none;
   position: absolute;
   left: calc(var(--pin-hit-width) / -2);
   width: var(--pin-hit-width);
   min-width: 44px;
   min-height: 44px;
+  padding: 0;
   border: 0;
   background: transparent;
   color: var(--accent-dark);
   cursor: pointer;
+  text-decoration: none;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .publication-overview__event--above .publication-overview__pin {
-  bottom: -1.35rem;
-  height: calc(var(--pin-length) + 2.85rem);
+  bottom: calc(var(--pin-anchor-offset) * -1);
+  height: calc(var(--pin-length) + (var(--pin-anchor-offset) * 2) + 0.15rem);
 }
 
 .publication-overview__event--below .publication-overview__pin {
-  top: -1.35rem;
-  height: calc(var(--pin-length) + 2.85rem);
+  top: calc(var(--pin-anchor-offset) * -1);
+  height: calc(var(--pin-length) + (var(--pin-anchor-offset) * 2) + 0.15rem);
 }
 
 .publication-overview__stem,
@@ -1288,30 +1340,30 @@ button:focus-visible,
     );
   transform: translateX(-50%);
   transition:
-    background-color 180ms cubic-bezier(0.25, 1, 0.5, 1),
+    background 180ms cubic-bezier(0.25, 1, 0.5, 1),
     opacity 180ms cubic-bezier(0.25, 1, 0.5, 1);
 }
 
 .publication-overview__event--above .publication-overview__stem {
-  bottom: 1.35rem;
+  bottom: var(--pin-anchor-offset);
 }
 
 .publication-overview__event--below .publication-overview__stem {
-  top: 1.35rem;
+  top: var(--pin-anchor-offset);
 }
 
 .publication-overview__dot {
   left: 50%;
   z-index: 3;
-  width: 0.78rem;
-  height: 0.78rem;
+  width: var(--pin-dot-size);
+  height: var(--pin-dot-size);
   border: 2px solid var(--surface-strong);
   border-radius: 999px;
   background: var(--accent);
   box-shadow:
     0 0 0 1px oklch(42% 0.055 176 / 0.48),
     0 0 0 0.38rem oklch(42% 0.055 176 / 0.1);
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%);
   transition:
     background-color 160ms cubic-bezier(0.25, 1, 0.5, 1),
     box-shadow 180ms cubic-bezier(0.25, 1, 0.5, 1),
@@ -1319,11 +1371,11 @@ button:focus-visible,
 }
 
 .publication-overview__event--above .publication-overview__dot {
-  bottom: 0.96rem;
+  bottom: var(--pin-dot-offset);
 }
 
 .publication-overview__event--below .publication-overview__dot {
-  top: 0.96rem;
+  top: var(--pin-dot-offset);
 }
 
 .publication-overview__label {
@@ -1453,7 +1505,7 @@ button:focus-visible,
   box-shadow:
     0 0 0 3px var(--focus-ring),
     0 0 0 0.58rem oklch(42% 0.055 176 / 0.13);
-  transform: translate(-50%, -50%) scale(1.08);
+  transform: translateX(-50%) scale(1.08);
 }
 
 .publication-overview__event:hover .publication-overview__label,
