@@ -93,6 +93,72 @@
   const shortPublicationLabel = (publication) =>
     `${firstAuthorLabel(publication.authors)} et al ${publication.year}`;
 
+  const CARD_IMAGE_SIZES = [
+    "(max-width: 640px) calc(100vw - 2rem)",
+    "(max-width: 820px) calc((100vw - 3.15rem) / 2)",
+    "(max-width: 1100px) calc((100vw - 4.3rem) / 3)",
+    "(max-width: 1240px) calc((100vw - 5.45rem) / 4)",
+    "300px"
+  ].join(", ");
+  const ALBUM_IMAGE_SIZES = [
+    "(max-width: 640px) calc(100vw - 2rem)",
+    "(max-width: 860px) calc((100vw - 3.15rem) / 2)",
+    "(max-width: 1180px) calc((100vw - 4.3rem) / 3)",
+    "290px"
+  ].join(", ");
+
+  const uniqueImageCandidates = (...sources) =>
+    sources.filter(Boolean).filter((source, index, list) => list.indexOf(source) === index);
+
+  const thumbnailPathFor = (source = "") => {
+    const replacements = [
+      [/\/display\//, "/thumb/"],
+      [/\/med\//, "/thumb/"],
+      [/\/med_([^/]+)\//, "/thumb_$1/"]
+    ];
+
+    for (const [pattern, replacement] of replacements) {
+      const candidate = source.replace(pattern, replacement);
+      if (candidate !== source) {
+        return candidate;
+      }
+    }
+
+    return "";
+  };
+
+  const estimatedImageWidth = (source, index) => {
+    if (/^albums\/.+\/thumb\//.test(source)) {
+      return 576;
+    }
+
+    if (source.includes("/thumb/") || source.includes("thumb_")) {
+      return 220;
+    }
+
+    if (source.includes("/med/") || source.includes("med_")) {
+      return 1200;
+    }
+
+    if (/^albums\/.+\/display\//.test(source)) {
+      return 1600;
+    }
+
+    if (source.includes("/display/") || source.includes("/large/") || source.includes("large_")) {
+      return 1200;
+    }
+
+    return [320, 960, 1600][Math.min(index, 2)];
+  };
+
+  const responsiveSourceSet = (sources, escaper = (value) => value) =>
+    sources
+      .map((source, index) => {
+        const width = estimatedImageWidth(source, index);
+        return `${escaper(source)} ${width}w`;
+      })
+      .join(", ");
+
   const publicationMonth = (publication, indexInYear, publicationsInYear) => {
     const month = Number(publication.month);
     if (month >= 1 && month <= 12) {
@@ -321,11 +387,17 @@
     const contextItems = [album.location, album.dateRange, album.context].filter(Boolean);
     const summaryMarkup =
       album.summary && !contextItems.length ? `<p>${escapeHtml(album.summary)}</p>` : "";
+    const imageCandidates = uniqueImageCandidates(thumbnailPathFor(album.image), album.image);
+    const sourceSet =
+      imageCandidates.length > 1
+        ? ` srcset="${responsiveSourceSet(imageCandidates, escapeHtml)}" sizes="${ALBUM_IMAGE_SIZES}"`
+        : "";
+    const imageSource = imageCandidates[0] || album.image;
 
     return `
       <article class="album-card expedition-card">
         <a class="album-card__image" href="${escapeHtml(album.link)}">
-          <img src="${escapeHtml(album.image)}" alt="${escapeHtml(album.title)} album preview" loading="lazy">
+          <img src="${escapeHtml(imageSource)}"${sourceSet} alt="${escapeHtml(album.title)} album preview" loading="lazy" decoding="async">
         </a>
         <div class="album-card__body">
           <p class="album-card__meta">${escapeHtml(meta)}</p>
@@ -522,9 +594,11 @@
 
     const image = document.createElement("img");
     image.className = "gallery-card__image";
-    image.src = photo.display || photo.thumb || photo.src;
-    if (photo.src && photo.display && photo.src !== photo.display) {
-      image.srcset = `${photo.display} 1x, ${photo.src} 2x`;
+    const imageCandidates = uniqueImageCandidates(photo.thumb, photo.display || photo.src);
+    image.src = imageCandidates[0] || photo.display || photo.src;
+    if (imageCandidates.length > 1) {
+      image.srcset = responsiveSourceSet(imageCandidates);
+      image.sizes = CARD_IMAGE_SIZES;
     }
     image.alt = photo.alt || photo.caption || `Field photograph ${index + 1}`;
     image.loading = "lazy";

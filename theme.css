@@ -41,6 +41,9 @@ body {
 img {
   display: block;
   max-width: 100%;
+  image-rendering: auto;
+  image-rendering: smooth;
+  -ms-interpolation-mode: bicubic;
 }
 
 a {
@@ -145,6 +148,8 @@ select {
   background-position: center;
   background-color: #1d2521;
   color: #f8f5ef;
+  image-rendering: auto;
+  image-rendering: smooth;
 }
 
 .hero::before {
@@ -577,6 +582,8 @@ select {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  backface-visibility: hidden;
+  transform: translateZ(0);
 }
 
 .gallery-card__body {
@@ -1000,6 +1007,8 @@ button:focus-visible,
   background-position: center;
   background-size: cover;
   isolation: isolate;
+  image-rendering: auto;
+  image-rendering: smooth;
 }
 
 .landing-atlas__panel::before {

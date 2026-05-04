@@ -4,6 +4,14 @@ html, body {
   padding: 0;
 }
 
+img,
+[class^="img-container-"],
+.photostrip {
+  image-rendering: auto;
+  image-rendering: smooth;
+  -ms-interpolation-mode: bicubic;
+}
+
 .img-container-i {
   min-height: 66%;
   background-image: url('front.jpg');

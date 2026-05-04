@@ -1,7 +1,17 @@
+img,
+[class^="img-container-"],
+.demo-gallery {
+  image-rendering: auto;
+  image-rendering: smooth;
+  -ms-interpolation-mode: bicubic;
+}
+
 #thumb {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  backface-visibility: hidden;
+  transform: translateZ(0);
 }
 
 .row {
