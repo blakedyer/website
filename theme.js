@@ -83,6 +83,68 @@
     return labels[tag] || titleCase(tag);
   };
 
+  const publicationId = (publication) => `publication-${publication.year}-${slugify(publication.title)}`;
+
+  const firstAuthorLabel = (authors = "") => {
+    const firstAuthor = String(authors).split(",")[0].trim();
+    return firstAuthor || "Author";
+  };
+
+  const shortPublicationLabel = (publication) =>
+    `${firstAuthorLabel(publication.authors)} et al ${publication.year}`;
+
+  const publicationMonth = (publication, indexInYear, publicationsInYear) => {
+    const month = Number(publication.month);
+    if (month >= 1 && month <= 12) {
+      return month;
+    }
+
+    if (publicationsInYear <= 1) {
+      return 7;
+    }
+
+    return Math.round(1 + ((publicationsInYear - 1 - indexInYear) * 11) / (publicationsInYear - 1));
+  };
+
+  let publicationHighlightTimer;
+
+  const prefersReducedMotion = () =>
+    window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  const focusWithoutScroll = (target) => {
+    try {
+      target.focus({ preventScroll: true });
+    } catch (error) {
+      target.focus();
+    }
+  };
+
+  const scrollToPublicationTarget = (targetId) => {
+    const target = document.getElementById(targetId);
+    if (!target || target.hidden) {
+      return false;
+    }
+
+    document
+      .querySelectorAll(".publication-entry.is-targeted")
+      .forEach((entry) => entry.classList.remove("is-targeted"));
+
+    target.classList.remove("is-targeted");
+    target.offsetWidth;
+    target.classList.add("is-targeted");
+    window.clearTimeout(publicationHighlightTimer);
+    publicationHighlightTimer = window.setTimeout(() => {
+      target.classList.remove("is-targeted");
+    }, 2600);
+
+    focusWithoutScroll(target);
+    target.scrollIntoView({
+      behavior: prefersReducedMotion() ? "auto" : "smooth",
+      block: "center"
+    });
+    return true;
+  };
+
   function setupNav() {
     const toggle = document.querySelector("[data-nav-toggle]");
     const menu = document.querySelector("[data-nav-menu]");
@@ -106,6 +168,7 @@
   }
 
   function publicationMarkup(publication, compact = false) {
+    const id = publicationId(publication);
     const tags = publication.tags
       .map((tag) => `<li class="tag">${escapeHtml(themeLabel(tag))}</li>`)
       .join("");
@@ -119,12 +182,12 @@
       `;
 
     return `
-      <article class="paper-card publication-entry${compact ? " paper-card--compact publication-entry--compact" : ""}" data-tags="${escapeHtml(publication.tags.join(" "))}">
+      <article id="${escapeHtml(id)}" class="paper-card publication-entry${compact ? " paper-card--compact publication-entry--compact" : ""}" data-tags="${escapeHtml(publication.tags.join(" "))}" data-publication-id="${escapeHtml(id)}" tabindex="-1" aria-labelledby="${escapeHtml(id)}-title">
         <div class="paper-card__top">
           <p class="paper-year">${escapeHtml(publication.year)}</p>
           <a class="paper-link" href="${escapeHtml(publication.link)}" target="_blank" rel="noopener">PDF</a>
         </div>
-        <h3 class="paper-title">
+        <h3 class="paper-title" id="${escapeHtml(id)}-title">
           <a href="${escapeHtml(publication.link)}" target="_blank" rel="noopener">${escapeHtml(publication.title)}</a>
         </h3>
         ${detailMarkup}
@@ -157,6 +220,100 @@
         `
       )
       .join("");
+  }
+
+  function publicationOverviewMarkup(publications, options = {}) {
+    const linkBase = options.linkBase || "";
+    const byYear = publications.reduce((groups, publication) => {
+      const year = String(publication.year);
+      groups[year] = groups[year] || [];
+      groups[year].push(publication);
+      return groups;
+    }, {});
+
+    const sortedPublications = Object.keys(byYear)
+      .sort((a, b) => Number(a) - Number(b))
+      .flatMap((year) =>
+        byYear[year].map((publication, index) => ({
+          publication,
+          month: publicationMonth(publication, index, byYear[year].length),
+          yearIndex: index,
+          yearCount: byYear[year].length
+        }))
+      )
+      .sort(
+        (a, b) =>
+          Number(a.publication.year) - Number(b.publication.year) ||
+          a.month - b.month ||
+          a.yearIndex - b.yearIndex
+      );
+
+    if (!sortedPublications.length) {
+      return "";
+    }
+
+    const minPosition = Math.min(
+      ...sortedPublications.map(
+        ({ publication, month }) => Number(publication.year) + (month - 1) / 12
+      )
+    );
+    const maxPosition = Math.max(
+      ...sortedPublications.map(
+        ({ publication, month }) => Number(publication.year) + (month - 1) / 12
+      )
+    );
+    const positionRange = Math.max(maxPosition - minPosition, 1);
+
+    return `
+      <div class="publication-overview__frame">
+        <ol class="publication-overview__track" style="--publication-count: ${sortedPublications.length}">
+          ${sortedPublications
+            .map(({ publication, month }, index) => {
+              const id = publicationId(publication);
+              const detailId = `${id}-pin-detail`;
+              const position =
+                ((Number(publication.year) + (month - 1) / 12 - minPosition) / positionRange) * 100;
+              const lane = index % 8;
+              const positionClass =
+                lane < 4
+                  ? "publication-overview__event--above"
+                  : "publication-overview__event--below";
+              const edgeClass =
+                position < 34
+                  ? " publication-overview__event--edge-start"
+                  : position > 66
+                    ? " publication-overview__event--edge-end"
+                    : "";
+              const label = shortPublicationLabel(publication);
+              const pinAttributes = linkBase
+                ? `href="${escapeHtml(`${linkBase}${id}`)}"`
+                : `type="button"`;
+
+              return `
+                <li class="publication-overview__event ${positionClass}${edgeClass}" style="--timeline-position: ${position.toFixed(4)}%; --timeline-lane: ${lane % 4};" data-tags="${escapeHtml(publication.tags.join(" "))}" data-publication-id="${escapeHtml(id)}">
+                  <${linkBase ? "a" : "button"}
+                    class="publication-overview__pin"
+                    ${pinAttributes}
+                    data-publication-target="${escapeHtml(id)}"
+                    aria-describedby="${escapeHtml(detailId)}"
+                    aria-label="Jump to ${escapeHtml(label)}: ${escapeHtml(publication.title)}"
+                  >
+                    <span class="publication-overview__stem" aria-hidden="true"></span>
+                    <span class="publication-overview__dot" aria-hidden="true"></span>
+                    <span class="publication-overview__label" aria-hidden="true">${escapeHtml(label)}</span>
+                    <span class="publication-overview__detail" id="${escapeHtml(detailId)}" role="tooltip">
+                      <span class="publication-overview__detail-year">${escapeHtml(publication.year)}</span>
+                      <span class="publication-overview__detail-title">${escapeHtml(publication.title)}</span>
+                      <span class="publication-overview__detail-authors">${escapeHtml(publication.authors)}</span>
+                    </span>
+                  </${linkBase ? "a" : "button"}>
+                </li>
+              `;
+            })
+            .join("")}
+        </ol>
+      </div>
+    `;
   }
 
   function albumMarkup(album) {
@@ -192,7 +349,9 @@
     const featuredAlbumsContainer = document.querySelector("#featured-albums");
 
     if (recentContainer) {
-      recentContainer.innerHTML = publicationTimelineMarkup(site.publications.slice(0, 3), true);
+      recentContainer.innerHTML = publicationOverviewMarkup(site.publications, {
+        linkBase: "publications.html#"
+      });
     }
 
     if (featuredAlbumsContainer) {
@@ -206,17 +365,53 @@
 
   function renderPublications() {
     const container = document.querySelector("#publication-grid");
+    const overview = document.querySelector("[data-publication-overview]");
     if (!container) {
       return;
     }
 
     container.innerHTML = publicationTimelineMarkup(site.publications);
+
+    if (overview) {
+      overview.innerHTML = publicationOverviewMarkup(site.publications);
+    }
+  }
+
+  function setupPublicationOverview() {
+    const overview = document.querySelector("[data-publication-overview]");
+    const buttons = Array.from(document.querySelectorAll("[data-publication-target]"));
+
+    if (!overview || !buttons.length) {
+      return;
+    }
+
+    const clearActivePins = () => {
+      overview
+        .querySelectorAll(".publication-overview__event.is-active")
+        .forEach((event) => event.classList.remove("is-active"));
+    };
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        clearActivePins();
+        button.closest(".publication-overview__event")?.classList.add("is-active");
+        scrollToPublicationTarget(button.dataset.publicationTarget);
+      });
+    });
+
+    document.addEventListener("click", (event) => {
+      if (!overview.contains(event.target)) {
+        clearActivePins();
+      }
+    });
   }
 
   function setupPublicationFilters() {
     const buttons = Array.from(document.querySelectorAll("[data-filter]"));
     const cards = Array.from(document.querySelectorAll(".paper-card"));
     const groups = Array.from(document.querySelectorAll(".publication-year-group"));
+    const overview = document.querySelector("[data-publication-overview]");
+    const overviewEvents = Array.from(document.querySelectorAll(".publication-overview__event"));
     const count = document.querySelector("[data-filter-count]");
     const empty = document.querySelector("[data-publication-empty]");
 
@@ -242,10 +437,26 @@
         }
       });
 
+      overviewEvents.forEach((event) => {
+        const tags = event.dataset.tags.split(" ");
+        const show = filter === "all" || tags.includes(filter);
+        event.hidden = !show;
+        if (!show) {
+          event.classList.remove("is-active");
+        }
+      });
+
       groups.forEach((group) => {
         const groupCards = Array.from(group.querySelectorAll(".paper-card"));
         group.hidden = groupCards.every((card) => card.hidden);
       });
+
+      if (overview) {
+        overview.hidden = visibleCount === 0;
+        overview
+          .querySelector(".publication-overview__track")
+          ?.style.setProperty("--visible-publication-count", visibleCount);
+      }
 
       if (count) {
         const label = filter === "all" ? "papers" : `${themeLabel(filter)} papers`;
@@ -266,6 +477,19 @@
     const initialFilter = window.location.hash ? window.location.hash.replace("#", "") : "all";
     const validFilter = buttons.some((button) => button.dataset.filter === initialFilter) ? initialFilter : "all";
     applyFilter(validFilter);
+
+    if (initialFilter.startsWith("publication-")) {
+      window.setTimeout(() => {
+        scrollToPublicationTarget(initialFilter);
+      }, 80);
+    }
+
+    window.addEventListener("hashchange", () => {
+      const targetId = window.location.hash.replace("#", "");
+      if (targetId.startsWith("publication-")) {
+        scrollToPublicationTarget(targetId);
+      }
+    });
   }
 
   function renderAlbums() {
@@ -486,6 +710,7 @@
     renderCounts();
     renderHome();
     renderPublications();
+    setupPublicationOverview();
     setupPublicationFilters();
     renderAlbums();
     renderGalleryPage();
