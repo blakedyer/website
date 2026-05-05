@@ -256,6 +256,10 @@ select {
   margin-top: 1.75rem;
 }
 
+.archive-preview-section .section-actions {
+  margin-top: clamp(1.75rem, 3vw, 2.45rem);
+}
+
 .button {
   display: inline-flex;
   align-items: center;
@@ -1352,6 +1356,12 @@ button:focus-visible,
   border-bottom: 1px solid var(--line);
 }
 
+.publication-overview:hover,
+.publication-overview:focus-within,
+.publication-overview:has(.publication-overview__event.is-active) {
+  z-index: 60;
+}
+
 .publication-overview--home {
   margin-bottom: 1.2rem;
 }
@@ -1412,7 +1422,7 @@ button:focus-visible,
 .publication-overview__event {
   --pin-length: calc(var(--pin-base) + (var(--timeline-lane) * var(--pin-step)));
   position: absolute;
-  z-index: 1;
+  z-index: auto;
   top: var(--timeline-axis-y);
   left: clamp(3.65rem, var(--timeline-position), calc(100% - 3.65rem));
   width: 0;
@@ -1422,7 +1432,7 @@ button:focus-visible,
 .publication-overview__event:hover,
 .publication-overview__event:focus-within,
 .publication-overview__event.is-active {
-  z-index: 30;
+  z-index: auto;
 }
 
 .publication-overview__pin {
@@ -1486,7 +1496,7 @@ button:focus-visible,
 
 .publication-overview__dot {
   left: 50%;
-  z-index: 3;
+  z-index: 4;
   width: var(--pin-dot-size);
   height: var(--pin-dot-size);
   border: 2px solid var(--surface-strong);
@@ -1512,7 +1522,7 @@ button:focus-visible,
 
 .publication-overview__label {
   left: 50%;
-  z-index: 4;
+  z-index: 8;
   max-width: min(8rem, 100%);
   padding: 0.25rem 0.42rem;
   border: 1px solid oklch(42% 0.055 176 / 0.2);
@@ -1544,7 +1554,7 @@ button:focus-visible,
 
 .publication-overview__detail {
   left: 50%;
-  z-index: 20;
+  z-index: 100;
   width: min(20rem, calc(100vw - 2.2rem));
   padding: 0.9rem 0.95rem 0.96rem;
   border: 1px solid oklch(23% 0.018 160 / 0.16);
@@ -1659,6 +1669,7 @@ button:focus-visible,
 
 .publication-timeline {
   position: relative;
+  z-index: 0;
   display: grid;
   gap: clamp(1.35rem, 2.7vw, 2.35rem);
 }
@@ -1666,6 +1677,7 @@ button:focus-visible,
 .publication-timeline::before {
   content: "";
   position: absolute;
+  z-index: 0;
   top: 0.35rem;
   bottom: 0.35rem;
   left: min(8rem, 18vw);
@@ -1675,6 +1687,7 @@ button:focus-visible,
 
 .publication-year-group {
   position: relative;
+  z-index: 1;
   display: grid;
   grid-template-columns: minmax(5rem, 8rem) minmax(0, 1fr);
   gap: clamp(1rem, 3vw, 2.35rem);
