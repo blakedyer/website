@@ -1356,7 +1356,7 @@ button:focus-visible,
   border-bottom: 1px solid var(--line);
 }
 
-.publication-overview:hover,
+.publication-overview:has(.publication-overview__label:hover),
 .publication-overview:focus-within,
 .publication-overview:has(.publication-overview__event.is-active) {
   z-index: 60;
@@ -1447,6 +1447,7 @@ button:focus-visible,
   background: transparent;
   color: var(--accent-dark);
   cursor: pointer;
+  pointer-events: none;
   text-decoration: none;
   touch-action: manipulation;
   -webkit-tap-highlight-color: transparent;
@@ -1529,11 +1530,13 @@ button:focus-visible,
   border-radius: 999px;
   background: oklch(99% 0.007 84 / 0.88);
   color: var(--accent-dark);
+  cursor: pointer;
   font-size: 0.74rem;
   font-variant-numeric: tabular-nums;
   font-weight: 800;
   line-height: 1.1;
   overflow: hidden;
+  pointer-events: auto;
   text-overflow: ellipsis;
   white-space: nowrap;
   transform: translateX(-50%);
