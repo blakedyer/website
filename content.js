@@ -227,7 +227,7 @@ window.EARTH_HISTORY = {
       count: 136,
       meta: "136 photos",
       link: "hawaii.html",
-      image: "albums/hawaii/14450608.jpg",
+      image: "albums/hawaii/thumb/14450608.jpg",
       summary:
         "Fossil reefs, beaches, and modern analogs that help understand last interglacial sea level.",
       featured: true
@@ -237,7 +237,7 @@ window.EARTH_HISTORY = {
       count: 71,
       meta: "71 photos",
       link: "turks_and_caicos_2022.html",
-      image: "Gallery/turks_and_caicos_2022/med/202206111420.jpg",
+      image: "Gallery/turks_and_caicos_2022/thumb/202206111420.jpg",
       summary:
         "Field imagery from reef, dune, and coastal outcrop settings.",
       featured: true
@@ -247,7 +247,7 @@ window.EARTH_HISTORY = {
       count: 79,
       meta: "79 photos",
       link: "western_us_devonian.html",
-      image: "albums/western-us-devonian/10224404.jpg",
+      image: "albums/western-us-devonian/thumb/10224404.jpg",
       summary:
         "Sections and landscapes that reveal the stratigraphic insides of shallow water carbonate systems.",
       featured: true
@@ -257,7 +257,7 @@ window.EARTH_HISTORY = {
       count: 56,
       meta: "56 photos",
       link: "western_us_pennsylvanian.html",
-      image: "albums/western-us-pennsylvanian/09325219.jpg",
+      image: "albums/western-us-pennsylvanian/thumb/09325219.jpg",
       summary:
         "Sections and landscapes that reveal the stratigraphic insides of shallow water carbonate systems."
     },
@@ -266,7 +266,7 @@ window.EARTH_HISTORY = {
       count: 20,
       meta: "20 photos",
       link: "western_us_cambrian.html",
-      image: "albums/western-us-cambrian/11485410.jpg",
+      image: "albums/western-us-cambrian/thumb/11485410.jpg",
       summary:
         "Sections and landscapes that reveal the stratigraphic insides of shallow water carbonate systems."
     },
@@ -275,7 +275,7 @@ window.EARTH_HISTORY = {
       count: 29,
       meta: "29 photos",
       link: "canadian_rockies_2021.html",
-      image: "Gallery/med_canadian_rockies_2021/2021-08-26_15_49_07.jpg",
+      image: "Gallery/thumb_canadian_rockies_2021/2021-08-26_15_49_07.jpg",
       summary:
         "Measured sections, back-country camping, high mountain field sites, and Paleozoic carbonate stratigraphy.",
       featured: true
@@ -285,7 +285,7 @@ window.EARTH_HISTORY = {
       count: 10,
       meta: "10 photos",
       link: "barbados.html",
-      image: "Gallery/med_barbados/DSC_0979.jpg",
+      image: "Gallery/thumb_barbados/DSC_0979.jpg",
       summary:
         "Classic coral-reef terraces and coastal markers used to constrain interglacial sea-level history."
     },
@@ -294,7 +294,7 @@ window.EARTH_HISTORY = {
       count: 0,
       meta: "Legacy gallery",
       link: "bahamas.html",
-      image: "Gallery/med_bahamas/20190614-13-46-37.jpg",
+      image: "Gallery/thumb_bahamas/20190614-13-46-37.jpg",
       summary:
         "Field photography from the Bahamas tied to long-running work on coastal stratigraphy and last interglacial sea level."
     }
