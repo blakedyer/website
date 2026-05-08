@@ -185,6 +185,11 @@
 
   const bestImageSource = (variants) => variants[variants.length - 1]?.source || "";
 
+  const crispVariantsFor = (variants, minimumWidth = 900) => {
+    const largeEnough = variants.filter(({ width }) => width >= minimumWidth);
+    return largeEnough.length ? largeEnough : variants;
+  };
+
   const publicationMonth = (publication, indexInYear, publicationsInYear) => {
     const month = Number(publication.month);
     if (month >= 1 && month <= 12) {
@@ -415,11 +420,13 @@
       album.summary && !contextItems.length ? `<p>${escapeHtml(album.summary)}</p>` : "";
     const albumGallery = galleries[album.slug];
     const leadPhoto = galleryLeadPhoto(albumGallery, album.image);
-    const imageVariants = imageVariantsFor(
+    const imageVariants = crispVariantsFor(
+      imageVariantsFor(
       thumbnailPathFor(album.image),
       leadPhoto?.thumb,
       album.image,
       displaySourceForPhoto(leadPhoto)
+      )
     );
     const sourceSet =
       imageVariants.length > 1
@@ -627,7 +634,7 @@
 
     const image = document.createElement("img");
     image.className = "gallery-card__image";
-    const imageVariants = imageVariantsFor(photo.thumb, displaySourceForPhoto(photo));
+    const imageVariants = crispVariantsFor(imageVariantsFor(photo.thumb, displaySourceForPhoto(photo)));
     image.src = bestImageSource(imageVariants) || displaySourceForPhoto(photo);
     if (imageVariants.length > 1) {
       image.srcset = responsiveSourceSet(imageVariants);
