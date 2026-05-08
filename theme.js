@@ -58,6 +58,23 @@
     return { ...albumContext[key], ...album, slug: key };
   });
 
+  const displaySourceForPhoto = (photo = {}) => photo.display || photo.src || photo.thumb || "";
+
+  const galleryLeadPhoto = (gallery, assetSource = "") => {
+    if (!gallery || !Array.isArray(gallery.photos) || !gallery.photos.length) {
+      return null;
+    }
+
+    return (
+      gallery.photos.find(
+        (photo) =>
+          photo.thumb === assetSource ||
+          photo.display === assetSource ||
+          photo.src === assetSource
+      ) || gallery.photos[0]
+    );
+  };
+
   const titleCase = (value) =>
     value
       .split("-")
@@ -148,16 +165,25 @@
       return 1200;
     }
 
+    if (/^https?:\/\/earth-history-uvic\.s3\.[^/]+\/web\//.test(source)) {
+      return 1600;
+    }
+
     return [320, 960, 1600][Math.min(index, 2)];
   };
 
-  const responsiveSourceSet = (sources, escaper = (value) => value) =>
-    sources
-      .map((source, index) => {
-        const width = estimatedImageWidth(source, index);
-        return `${escaper(source)} ${width}w`;
-      })
-      .join(", ");
+  const imageVariantsFor = (...sources) =>
+    uniqueImageCandidates(...sources)
+      .map((source, index) => ({
+        source,
+        width: estimatedImageWidth(source, index)
+      }))
+      .sort((left, right) => left.width - right.width);
+
+  const responsiveSourceSet = (variants, escaper = (value) => value) =>
+    variants.map(({ source, width }) => `${escaper(source)} ${width}w`).join(", ");
+
+  const bestImageSource = (variants) => variants[variants.length - 1]?.source || "";
 
   const publicationMonth = (publication, indexInYear, publicationsInYear) => {
     const month = Number(publication.month);
@@ -387,12 +413,19 @@
     const contextItems = [album.location, album.dateRange, album.context].filter(Boolean);
     const summaryMarkup =
       album.summary && !contextItems.length ? `<p>${escapeHtml(album.summary)}</p>` : "";
-    const imageCandidates = uniqueImageCandidates(thumbnailPathFor(album.image), album.image);
+    const albumGallery = galleries[album.slug];
+    const leadPhoto = galleryLeadPhoto(albumGallery, album.image);
+    const imageVariants = imageVariantsFor(
+      thumbnailPathFor(album.image),
+      leadPhoto?.thumb,
+      album.image,
+      displaySourceForPhoto(leadPhoto)
+    );
     const sourceSet =
-      imageCandidates.length > 1
-        ? ` srcset="${responsiveSourceSet(imageCandidates, escapeHtml)}" sizes="${ALBUM_IMAGE_SIZES}"`
+      imageVariants.length > 1
+        ? ` srcset="${responsiveSourceSet(imageVariants, escapeHtml)}" sizes="${ALBUM_IMAGE_SIZES}"`
         : "";
-    const imageSource = imageCandidates[0] || album.image;
+    const imageSource = bestImageSource(imageVariants) || album.image;
 
     return `
       <article class="album-card expedition-card">
@@ -594,10 +627,10 @@
 
     const image = document.createElement("img");
     image.className = "gallery-card__image";
-    const imageCandidates = uniqueImageCandidates(photo.thumb, photo.display || photo.src);
-    image.src = imageCandidates[0] || photo.display || photo.src;
-    if (imageCandidates.length > 1) {
-      image.srcset = responsiveSourceSet(imageCandidates);
+    const imageVariants = imageVariantsFor(photo.thumb, displaySourceForPhoto(photo));
+    image.src = bestImageSource(imageVariants) || displaySourceForPhoto(photo);
+    if (imageVariants.length > 1) {
+      image.srcset = responsiveSourceSet(imageVariants);
       image.sizes = CARD_IMAGE_SIZES;
     }
     image.alt = photo.alt || photo.caption || `Field photograph ${index + 1}`;
@@ -754,7 +787,8 @@
     const grid = document.querySelector("#gallery-grid");
 
     if (hero && gallery.heroImage) {
-      hero.style.backgroundImage = `url("${gallery.heroImage}")`;
+      const heroSource = displaySourceForPhoto(galleryLeadPhoto(gallery, gallery.heroImage)) || gallery.heroImage;
+      hero.style.backgroundImage = `url("${heroSource}")`;
     }
 
     if (title) {
