@@ -59,6 +59,7 @@
   });
 
   const displaySourceForPhoto = (photo = {}) => photo.display || photo.src || photo.thumb || "";
+  const thumbnailSourceForPhoto = (photo = {}) => photo.thumb || displaySourceForPhoto(photo);
 
   const galleryLeadPhoto = (gallery, assetSource = "") => {
     if (!gallery || !Array.isArray(gallery.photos) || !gallery.photos.length) {
@@ -127,8 +128,12 @@
   const uniqueImageCandidates = (...sources) =>
     sources.filter(Boolean).filter((source, index, list) => list.indexOf(source) === index);
 
+  const isThumbnailSource = (source = "") =>
+    /^albums\/.+\/thumb\//.test(source) || source.includes("/thumb/") || source.includes("thumb_");
+
   const thumbnailPathFor = (source = "") => {
     const replacements = [
+      [/\/photo-system\/v1\/full\//, "/photo-system/v1/thumb/"],
       [/\/display\//, "/thumb/"],
       [/\/med\//, "/thumb/"],
       [/\/med_([^/]+)\//, "/thumb_$1/"]
@@ -420,13 +425,12 @@
       album.summary && !contextItems.length ? `<p>${escapeHtml(album.summary)}</p>` : "";
     const albumGallery = galleries[album.slug];
     const leadPhoto = galleryLeadPhoto(albumGallery, album.image);
-    const imageVariants = crispVariantsFor(
-      imageVariantsFor(
-      thumbnailPathFor(album.image),
-      leadPhoto?.thumb,
-      album.image,
-      displaySourceForPhoto(leadPhoto)
-      )
+    const albumThumbnailSource =
+      thumbnailPathFor(album.image) ||
+      leadPhoto?.thumb ||
+      (isThumbnailSource(album.image) ? album.image : "");
+    const imageVariants = imageVariantsFor(
+      albumThumbnailSource || album.image || displaySourceForPhoto(leadPhoto)
     );
     const sourceSet =
       imageVariants.length > 1
@@ -634,7 +638,7 @@
 
     const image = document.createElement("img");
     image.className = "gallery-card__image";
-    const imageVariants = crispVariantsFor(imageVariantsFor(photo.thumb, displaySourceForPhoto(photo)));
+    const imageVariants = imageVariantsFor(thumbnailSourceForPhoto(photo));
     image.src = bestImageSource(imageVariants) || displaySourceForPhoto(photo);
     if (imageVariants.length > 1) {
       image.srcset = responsiveSourceSet(imageVariants);
