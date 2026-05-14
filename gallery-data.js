@@ -7,7 +7,7 @@ window.EARTH_HISTORY_GALLERIES = {
       "meta": "June 2023 \u00b7 136 photos",
       "dateRange": "June 2023",
       "link": "hawaii.html",
-      "image": "albums/hawaii/thumb/13402804.jpg",
+      "image": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-134028-a36e1b5157c6-44a7e096ec38.jpg",
       "summary": "Fossil reefs, beaches, and modern analogs that help understand last interglacial sea level.",
       "featured": true
     },
@@ -18,7 +18,7 @@ window.EARTH_HISTORY_GALLERIES = {
       "meta": "June 2022 \u00b7 84 photos",
       "dateRange": "June 2022",
       "link": "turks_and_caicos_2022.html",
-      "image": "Gallery/turks_and_caicos_2022/thumb/202206090918.jpg",
+      "image": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-095418-43e47c96476c-afdbc2091ec6.jpg",
       "summary": "Field imagery from reef, dune, and coastal outcrop settings.",
       "featured": true
     },
@@ -29,7 +29,7 @@ window.EARTH_HISTORY_GALLERIES = {
       "meta": "May 2022 - June 2022 \u00b7 79 photos",
       "dateRange": "May 2022 - June 2022",
       "link": "western_us_devonian.html",
-      "image": "albums/western-us-devonian/thumb/08194216.jpg",
+      "image": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/16/20220616-081942-a7b1583475c6-5c7d9b421e60.jpg",
       "summary": "Sections and landscapes that reveal the stratigraphic insides of shallow water carbonate systems.",
       "featured": true
     },
@@ -40,7 +40,7 @@ window.EARTH_HISTORY_GALLERIES = {
       "meta": "May 2022 - July 2022 \u00b7 56 photos",
       "dateRange": "May 2022 - July 2022",
       "link": "western_us_pennsylvanian.html",
-      "image": "albums/western-us-pennsylvanian/thumb/08383224.jpg",
+      "image": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/24/20220724-083832-5ac18e72eb53-fcc20038e910.jpg",
       "summary": "Sections and landscapes that reveal the stratigraphic insides of shallow water carbonate systems.",
       "featured": false
     },
@@ -51,7 +51,7 @@ window.EARTH_HISTORY_GALLERIES = {
       "meta": "May 2022 - July 2022 \u00b7 20 photos",
       "dateRange": "May 2022 - July 2022",
       "link": "western_us_cambrian.html",
-      "image": "albums/western-us-cambrian/thumb/16262120.jpg",
+      "image": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/20/20220520-162621-92d6b982ce91-bcc3bb92f717.jpg",
       "summary": "Sections and landscapes that reveal the stratigraphic insides of shallow water carbonate systems.",
       "featured": false
     },
@@ -62,7 +62,7 @@ window.EARTH_HISTORY_GALLERIES = {
       "meta": "August 2021 \u00b7 31 photos",
       "dateRange": "August 2021",
       "link": "canadian_rockies_2021.html",
-      "image": "Gallery/thumb_canadian_rockies_2021/2021-08-08_21_00_23.jpg",
+      "image": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/08/20210808-210023-e2215525093d-adf2246191ff.jpg",
       "summary": "Measured sections, back-country camping, high mountain field sites, and Paleozoic carbonate stratigraphy.",
       "featured": true
     },
@@ -73,7 +73,7 @@ window.EARTH_HISTORY_GALLERIES = {
       "meta": "March 2018 \u00b7 21 photos",
       "dateRange": "March 2018",
       "link": "barbados.html",
-      "image": "Gallery/thumb_barbados/DSC_0945.jpg",
+      "image": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/06/20180306-112534-92b5f99a5853-937481c38c59.jpg",
       "summary": "Classic coral-reef terraces and coastal markers used to constrain interglacial sea-level history.",
       "featured": false
     },
@@ -84,7 +84,7 @@ window.EARTH_HISTORY_GALLERIES = {
       "meta": "June 2019 \u00b7 161 photos",
       "dateRange": "June 2019",
       "link": "bahamas.html",
-      "image": "Gallery/thumb_bahamas/20190606-11-01-49.jpg",
+      "image": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-110149-818bc1065f45-5bc623cb7d92.jpg",
       "summary": "Field photography from the Bahamas tied to long-running work on coastal stratigraphy and last interglacial sea level.",
       "featured": true
     },
@@ -95,18 +95,18 @@ window.EARTH_HISTORY_GALLERIES = {
       "meta": "November 2008 - January 2009 \u00b7 22 photos",
       "dateRange": "November 2008 - January 2009",
       "link": "south_australia.html",
-      "image": "Gallery/thumb_sa/20081109-02-40-51.jpg",
+      "image": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/11/09/20081109-024051-badfed9487cb-255861525432.jpg",
       "summary": "Flinders Ranges outcrops that frame Snowball Earth, cap carbonates, and Ediacaran stratigraphy.",
       "featured": false
     },
     {
       "slug": "indonesia",
       "title": "Indonesia",
-      "count": 45,
-      "meta": "August 2012 - September 2012 \u00b7 45 photos",
+      "count": 41,
+      "meta": "August 2012 - September 2012 \u00b7 41 photos",
       "dateRange": "August 2012 - September 2012",
       "link": "Indonesia.html",
-      "image": "Gallery/Indonesia/thumb/2012_08_10_18_13_03.jpg",
+      "image": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/10/20120810-181303-ed324048cf11-5ec38f0a29a7.jpg",
       "summary": "No geology here, just some field photos from a trip to Indonesia.",
       "featured": false
     }
@@ -122,14 +122,14 @@ window.EARTH_HISTORY_GALLERIES = {
       ],
       "meta": "June 2023 \u00b7 136 photos",
       "dateRange": "June 2023",
-      "heroImage": "albums/hawaii/thumb/13402804.jpg",
+      "heroImage": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-134028-a36e1b5157c6-44a7e096ec38.jpg",
       "filename": "hawaii.html",
       "photos": [
         {
           "id": 64290,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/13402804.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/13402804.jpg",
-          "thumb": "albums/hawaii/thumb/13402804.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-134028-a36e1b5157c6-44a7e096ec38.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-134028-a36e1b5157c6-44a7e096ec38.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-134028-a36e1b5157c6-44a7e096ec38.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Finger-like coral (Pocillopora meandrina?) surrounded by encrusting Porites coral.",
@@ -149,13 +149,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Pocillopora"
           ],
-          "archive_path": "2023/06/04/13402804.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/04/20230604-134028-a36e1b5157c6-44a7e096ec38.jpg"
         },
         {
           "id": 64302,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/13545804.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/13545804.jpg",
-          "thumb": "albums/hawaii/thumb/13545804.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-135458-f894b2a6ffa8-e73a91e25eb0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-135458-f894b2a6ffa8-e73a91e25eb0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-135458-f894b2a6ffa8-e73a91e25eb0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Last interglacial coral (Montipora)",
@@ -175,13 +175,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Montipora"
           ],
-          "archive_path": "2023/06/04/13545804.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/04/20230604-135458-f894b2a6ffa8-e73a91e25eb0.jpg"
         },
         {
           "id": 64304,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/13561404.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/13561404.jpg",
-          "thumb": "albums/hawaii/thumb/13561404.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-135614-7092840a122d-6955b7bb2040.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-135614-7092840a122d-6955b7bb2040.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-135614-7092840a122d-6955b7bb2040.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Last interglacial coral (Montipora)",
@@ -201,13 +201,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Montipora"
           ],
-          "archive_path": "2023/06/04/13561404.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/04/20230604-135614-7092840a122d-6955b7bb2040.jpg"
         },
         {
           "id": 64306,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/13585104.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/13585104.jpg",
-          "thumb": "albums/hawaii/thumb/13585104.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-135851-07f2c564e3b4-acb18db4aa09.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-135851-07f2c564e3b4-acb18db4aa09.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-135851-07f2c564e3b4-acb18db4aa09.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Encrusing coral (Porites) mound burrowed by vermetids (worm snails)",
@@ -229,13 +229,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Porites",
             "vermetid"
           ],
-          "archive_path": "2023/06/04/13585104.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/04/20230604-135851-07f2c564e3b4-acb18db4aa09.jpg"
         },
         {
           "id": 64307,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/13591304.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/13591304.jpg",
-          "thumb": "albums/hawaii/thumb/13591304.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-135913-ce40d550a444-48396a16cc00.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-135913-ce40d550a444-48396a16cc00.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-135913-ce40d550a444-48396a16cc00.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Last interglacial coral burrowed by a vermetid (worm snail)",
@@ -256,13 +256,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "vermetid"
           ],
-          "archive_path": "2023/06/04/13591304.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/04/20230604-135913-ce40d550a444-48396a16cc00.jpg"
         },
         {
           "id": 64313,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/14092604.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/14092604.jpg",
-          "thumb": "albums/hawaii/thumb/14092604.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-140926-6a5508d7352f-3301bcd63005.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-140926-6a5508d7352f-3301bcd63005.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-140926-6a5508d7352f-3301bcd63005.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Blake, Sam, and Billy inspect a Last Interglacial framework reef composed of encrusting coral and algae at Ka'ena Point",
@@ -285,13 +285,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/04/14092604.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/04/20230604-140926-6a5508d7352f-3301bcd63005.jpg"
         },
         {
           "id": 64321,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/14182104.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/14182104.jpg",
-          "thumb": "albums/hawaii/thumb/14182104.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-141821-f6b0c66a1748-0b5e43d73304.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-141821-f6b0c66a1748-0b5e43d73304.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-141821-f6b0c66a1748-0b5e43d73304.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Well-polished section through an encrusting coral (Porites) mound at Ka'ena Point. Continuous layering is not interrupted by algae or burrowing.",
@@ -311,13 +311,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Porites"
           ],
-          "archive_path": "2023/06/04/14182104.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/04/20230604-141821-f6b0c66a1748-0b5e43d73304.jpg"
         },
         {
           "id": 64331,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/14351104.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/14351104.jpg",
-          "thumb": "albums/hawaii/thumb/14351104.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-143511-c91193247c9e-9bc8165fdf20.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-143511-c91193247c9e-9bc8165fdf20.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-143511-c91193247c9e-9bc8165fdf20.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Last interglacial coral mound with abundant encrusting algae and burrowing vermetids",
@@ -336,13 +336,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Ka'ena Point",
             "Locations"
           ],
-          "archive_path": "2023/06/04/14351104.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/04/20230604-143511-c91193247c9e-9bc8165fdf20.jpg"
         },
         {
           "id": 64340,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/14564704.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/14564704.jpg",
-          "thumb": "albums/hawaii/thumb/14564704.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-145647-866ff5753824-426d53a1905b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-145647-866ff5753824-426d53a1905b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-145647-866ff5753824-426d53a1905b.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Modern notch in last interglacial reef",
@@ -361,13 +361,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "People"
           ],
-          "archive_path": "2023/06/04/14564704.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/04/20230604-145647-866ff5753824-426d53a1905b.jpg"
         },
         {
           "id": 64347,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/15314704.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/04/15314704.jpg",
-          "thumb": "albums/hawaii/thumb/15314704.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-153147-44ee0588b7a1-956dfe8a5131.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/04/20230604-153147-44ee0588b7a1-956dfe8a5131.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/04/20230604-153147-44ee0588b7a1-956dfe8a5131.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Grainstone/rudstone fill filling space between coral mounds",
@@ -384,13 +384,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Last Interglacial",
             "Locations"
           ],
-          "archive_path": "2023/06/04/15314704.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/04/20230604-153147-44ee0588b7a1-956dfe8a5131.jpg"
         },
         {
           "id": 64375,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/11413205.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/11413205.jpg",
-          "thumb": "albums/hawaii/thumb/11413205.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-114132-9fddb8076856-629b31177986.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-114132-9fddb8076856-629b31177986.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-114132-9fddb8076856-629b31177986.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Subtidal sand prograding out over the last interglacial reef unit at Ka'ena Point",
@@ -407,13 +407,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Last Interglacial",
             "Locations"
           ],
-          "archive_path": "2023/06/05/11413205.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-114132-9fddb8076856-629b31177986.jpg"
         },
         {
           "id": 64381,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/11552905.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/11552905.jpg",
-          "thumb": "albums/hawaii/thumb/11552905.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-115529-6aa327f1e786-5c663eaadb85.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-115529-6aa327f1e786-5c663eaadb85.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-115529-6aa327f1e786-5c663eaadb85.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Close-up through well-preserved encrusing Porites mound with a mesh-like corallite network",
@@ -433,13 +433,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Porites"
           ],
-          "archive_path": "2023/06/05/11552905.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-115529-6aa327f1e786-5c663eaadb85.jpg"
         },
         {
           "id": 64387,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/12060205.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/12060205.jpg",
-          "thumb": "albums/hawaii/thumb/12060205.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-120602-4e6fc9202d26-db0881dda056.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-120602-4e6fc9202d26-db0881dda056.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-120602-4e6fc9202d26-db0881dda056.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Last interglacial deposits on the edge of a modern boulder beach",
@@ -456,13 +456,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/05/12060205.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-120602-4e6fc9202d26-db0881dda056.jpg"
         },
         {
           "id": 64388,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/12060505.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/12060505.jpg",
-          "thumb": "albums/hawaii/thumb/12060505.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-120605-6642dcf34165-73d6013e5be2.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-120605-6642dcf34165-73d6013e5be2.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-120605-6642dcf34165-73d6013e5be2.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Pocket boulder beach bounded by last interglacial rocks",
@@ -479,13 +479,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/05/12060505.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-120605-6642dcf34165-73d6013e5be2.jpg"
         },
         {
           "id": 64390,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/12542605.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/12542605.jpg",
-          "thumb": "albums/hawaii/thumb/12542605.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-125426-0b791430db41-d8491b089148.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-125426-0b791430db41-d8491b089148.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-125426-0b791430db41-d8491b089148.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Pillow basalts just above the road at Ka'ena Point",
@@ -504,13 +504,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "pillow basalt"
           ],
-          "archive_path": "2023/06/05/12542605.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-125426-0b791430db41-d8491b089148.jpg"
         },
         {
           "id": 64391,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/12544105.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/12544105.jpg",
-          "thumb": "albums/hawaii/thumb/12544105.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-125441-bc2c7a70d582-61f674de74bd.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-125441-bc2c7a70d582-61f674de74bd.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-125441-bc2c7a70d582-61f674de74bd.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Pillow basalts just above the road at Ka'ena Point",
@@ -527,13 +527,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "pillow basalt"
           ],
-          "archive_path": "2023/06/05/12544105.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-125441-bc2c7a70d582-61f674de74bd.jpg"
         },
         {
           "id": 64393,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/13093705.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/13093705.jpg",
-          "thumb": "albums/hawaii/thumb/13093705.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-130937-ad55e8355288-04fa1d946968.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-130937-ad55e8355288-04fa1d946968.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-130937-ad55e8355288-04fa1d946968.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Dike cutting through basalt flows and basalt conglomerate",
@@ -549,13 +549,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Ka'ena Point",
             "Locations"
           ],
-          "archive_path": "2023/06/05/13093705.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-130937-ad55e8355288-04fa1d946968.jpg"
         },
         {
           "id": 64394,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/13252405.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/13252405.jpg",
-          "thumb": "albums/hawaii/thumb/13252405.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-132524-13a9db9f4299-083206f25b28.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-132524-13a9db9f4299-083206f25b28.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-132524-13a9db9f4299-083206f25b28.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Basalt boulder pocket beach along the coast around Ka'ena Point",
@@ -571,13 +571,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/05/13252405.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-132524-13a9db9f4299-083206f25b28.jpg"
         },
         {
           "id": 64395,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/13504005.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/13504005.jpg",
-          "thumb": "albums/hawaii/thumb/13504005.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-135040-25ca89efec5b-647603c51331.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-135040-25ca89efec5b-647603c51331.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-135040-25ca89efec5b-647603c51331.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Modern basalt boulder pocket beach at Ka'ena Point",
@@ -593,13 +593,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Ka'ena Point",
             "Locations"
           ],
-          "archive_path": "2023/06/05/13504005.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-135040-25ca89efec5b-647603c51331.jpg"
         },
         {
           "id": 64396,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/14071005.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/14071005.jpg",
-          "thumb": "albums/hawaii/thumb/14071005.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-140710-e1b72be5180a-b29b263c911d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-140710-e1b72be5180a-b29b263c911d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-140710-e1b72be5180a-b29b263c911d.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "The team pauses to discuss while hiking along the coast of Ka'ena Point",
@@ -620,13 +620,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/05/14071005.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-140710-e1b72be5180a-b29b263c911d.jpg"
         },
         {
           "id": 64405,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/14425905.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/14425905.jpg",
-          "thumb": "albums/hawaii/thumb/14425905.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-144259-b902850fd8a8-8fa0488cd5c5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-144259-b902850fd8a8-8fa0488cd5c5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-144259-b902850fd8a8-8fa0488cd5c5.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Fledgling albatross its nesting grounds in the dunes of Ka'ena Point",
@@ -644,13 +644,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/05/14425905.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-144259-b902850fd8a8-8fa0488cd5c5.jpg"
         },
         {
           "id": 64408,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/14470505.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/14470505.jpg",
-          "thumb": "albums/hawaii/thumb/14470505.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-144705-cacf95626e05-70eab3bad224.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-144705-cacf95626e05-70eab3bad224.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-144705-cacf95626e05-70eab3bad224.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Fledgling albatross in its nesting grounds in the dunes of Ka'ena Point",
@@ -668,13 +668,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/05/14470505.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-144705-cacf95626e05-70eab3bad224.jpg"
         },
         {
           "id": 64411,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/15044005.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/15044005.jpg",
-          "thumb": "albums/hawaii/thumb/15044005.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-150440-7028afad13d4-1f8f4e351b16.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-150440-7028afad13d4-1f8f4e351b16.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-150440-7028afad13d4-1f8f4e351b16.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Active dune field on Ka'ena Point",
@@ -690,13 +690,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/05/15044005.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-150440-7028afad13d4-1f8f4e351b16.jpg"
         },
         {
           "id": 64421,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/15375405.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/15375405.jpg",
-          "thumb": "albums/hawaii/thumb/15375405.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-153754-88797384749b-8073943bfac0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-153754-88797384749b-8073943bfac0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-153754-88797384749b-8073943bfac0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Ancient aeolianite at Ka'ena Point",
@@ -713,13 +713,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Ka'ena Point",
             "Locations"
           ],
-          "archive_path": "2023/06/05/15375405.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-153754-88797384749b-8073943bfac0.jpg"
         },
         {
           "id": 64424,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/15403805.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/05/15403805.jpg",
-          "thumb": "albums/hawaii/thumb/15403805.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-154038-d9a65bf71395-1c2b002ef956.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/05/20230605-154038-d9a65bf71395-1c2b002ef956.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/05/20230605-154038-d9a65bf71395-1c2b002ef956.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "The crew checks out an ancient aeolianite at Ka'ena Point",
@@ -742,13 +742,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/05/15403805.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/05/20230605-154038-d9a65bf71395-1c2b002ef956.jpg"
         },
         {
           "id": 64436,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/09183806.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/09183806.jpg",
-          "thumb": "albums/hawaii/thumb/09183806.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-091838-cea17ca4d7d8-b312b8a35231.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-091838-cea17ca4d7d8-b312b8a35231.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/06/20230606-091838-cea17ca4d7d8-b312b8a35231.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Corals (Pocillopora meandrina) growing in a cove at Ka'ena Point are intermittently exposed during low tide",
@@ -767,13 +767,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "modern",
             "Pocillopora meandrina"
           ],
-          "archive_path": "2023/06/06/09183806.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/06/20230606-091838-cea17ca4d7d8-b312b8a35231.jpg"
         },
         {
           "id": 64444,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/09223906.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/09223906.jpg",
-          "thumb": "albums/hawaii/thumb/09223906.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-092239-f47b2ee5e80e-a008b58c4acd.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-092239-f47b2ee5e80e-a008b58c4acd.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/06/20230606-092239-f47b2ee5e80e-a008b58c4acd.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Encrusing last interglacial coral growing on a basalt boulder",
@@ -790,13 +790,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Last Interglacial",
             "Locations"
           ],
-          "archive_path": "2023/06/06/09223906.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/06/20230606-092239-f47b2ee5e80e-a008b58c4acd.jpg"
         },
         {
           "id": 64445,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/09232706.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/09232706.jpg",
-          "thumb": "albums/hawaii/thumb/09232706.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-092327-7164420cc0c3-aaa473c88cdc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-092327-7164420cc0c3-aaa473c88cdc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/06/20230606-092327-7164420cc0c3-aaa473c88cdc.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Roger and Blake inspect a last interglacial reef exposed in a pocket beach at Ka'ena Point",
@@ -816,13 +816,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Roger Creel"
           ],
-          "archive_path": "2023/06/06/09232706.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/06/20230606-092327-7164420cc0c3-aaa473c88cdc.jpg"
         },
         {
           "id": 64454,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/10564506.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/10564506.jpg",
-          "thumb": "albums/hawaii/thumb/10564506.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-105645-699d0d8fda94-84fd6115a240.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-105645-699d0d8fda94-84fd6115a240.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/06/20230606-105645-699d0d8fda94-84fd6115a240.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "The crew sets up the GPS at Ka'ena Point",
@@ -847,13 +847,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sam Chester",
             "Sections"
           ],
-          "archive_path": "2023/06/06/10564506.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/06/20230606-105645-699d0d8fda94-84fd6115a240.jpg"
         },
         {
           "id": 64463,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/11330206.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/11330206.jpg",
-          "thumb": "albums/hawaii/thumb/11330206.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-113302-abfcfa9d5c33-849b58705a19.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-113302-abfcfa9d5c33-849b58705a19.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/06/20230606-113302-abfcfa9d5c33-849b58705a19.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Measuring the elevation of a ground control point on top of subtidal sands",
@@ -877,13 +877,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sam Chester",
             "Sections"
           ],
-          "archive_path": "2023/06/06/11330206.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/06/20230606-113302-abfcfa9d5c33-849b58705a19.jpg"
         },
         {
           "id": 64467,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/15114406.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/15114406.jpg",
-          "thumb": "albums/hawaii/thumb/15114406.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-151144-bd1159e338ad-41302eb5e763.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-151144-bd1159e338ad-41302eb5e763.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/06/20230606-151144-bd1159e338ad-41302eb5e763.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "The crew checks out last interglacial reef along the coast near Makua Valley",
@@ -905,13 +905,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/06/15114406.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/06/20230606-151144-bd1159e338ad-41302eb5e763.jpg"
         },
         {
           "id": 64470,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/15142506.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/15142506.jpg",
-          "thumb": "albums/hawaii/thumb/15142506.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-151425-5d9e888be171-50a7cd60667b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-151425-5d9e888be171-50a7cd60667b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/06/20230606-151425-5d9e888be171-50a7cd60667b.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Burrowed encrusting coral (Montipora) mound",
@@ -931,13 +931,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Makua Beach",
             "Montipora"
           ],
-          "archive_path": "2023/06/06/15142506.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/06/20230606-151425-5d9e888be171-50a7cd60667b.jpg"
         },
         {
           "id": 64471,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/15142906.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/15142906.jpg",
-          "thumb": "albums/hawaii/thumb/15142906.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-151429-25d087b74d22-a74897854f78.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-151429-25d087b74d22-a74897854f78.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/06/20230606-151429-25d087b74d22-a74897854f78.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Burrowed encrusting coral (Montipora) mound",
@@ -958,13 +958,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Makua Beach",
             "Montipora"
           ],
-          "archive_path": "2023/06/06/15142906.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/06/20230606-151429-25d087b74d22-a74897854f78.jpg"
         },
         {
           "id": 64476,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/15230606.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/15230606.jpg",
-          "thumb": "albums/hawaii/thumb/15230606.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-152306-297fb6dd9800-35282cf6790d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-152306-297fb6dd9800-35282cf6790d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/06/20230606-152306-297fb6dd9800-35282cf6790d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Fossil hash on top of later interglacial encrusting coral mound",
@@ -983,13 +983,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Makua Beach"
           ],
-          "archive_path": "2023/06/06/15230606.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/06/20230606-152306-297fb6dd9800-35282cf6790d.jpg"
         },
         {
           "id": 64488,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/16101006.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/06/16101006.jpg",
-          "thumb": "albums/hawaii/thumb/16101006.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-161010-3382b1a429ed-93116a5b537e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/06/20230606-161010-3382b1a429ed-93116a5b537e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/06/20230606-161010-3382b1a429ed-93116a5b537e.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Coral in growth position overlain by beach sands. Top of coral is covered by encrusing coralline algae",
@@ -1011,13 +1011,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "red coralline algae",
             "Sections"
           ],
-          "archive_path": "2023/06/06/16101006.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/06/20230606-161010-3382b1a429ed-93116a5b537e.jpg"
         },
         {
           "id": 64507,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/10452107.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/10452107.jpg",
-          "thumb": "albums/hawaii/thumb/10452107.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-104521-4783eef2e209-0d599de9c26a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-104521-4783eef2e209-0d599de9c26a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/07/20230607-104521-4783eef2e209-0d599de9c26a.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Standing on a big fossil dune field",
@@ -1034,13 +1034,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/07/10452107.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/07/20230607-104521-4783eef2e209-0d599de9c26a.jpg"
         },
         {
           "id": 64510,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/10595107.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/10595107.jpg",
-          "thumb": "albums/hawaii/thumb/10595107.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-105951-486fd91870f9-f34f54b45ab4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-105951-486fd91870f9-f34f54b45ab4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/07/20230607-105951-486fd91870f9-f34f54b45ab4.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Roger and Jacky investigate wind ripples on a fossil dune",
@@ -1060,13 +1060,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Roger Creel"
           ],
-          "archive_path": "2023/06/07/10595107.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/07/20230607-105951-486fd91870f9-f34f54b45ab4.jpg"
         },
         {
           "id": 64511,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/11174907.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/11174907.jpg",
-          "thumb": "albums/hawaii/thumb/11174907.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-111749-29b208d61b54-f1a37595b263.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-111749-29b208d61b54-f1a37595b263.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/07/20230607-111749-29b208d61b54-f1a37595b263.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "On a distant islet, a fossil dune with large foresets is overlain by flatter-lying sands",
@@ -1083,13 +1083,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/07/11174907.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/07/20230607-111749-29b208d61b54-f1a37595b263.jpg"
         },
         {
           "id": 64522,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/12232007.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/12232007.jpg",
-          "thumb": "albums/hawaii/thumb/12232007.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-122320-398be02ff99c-0a7596b6a29f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-122320-398be02ff99c-0a7596b6a29f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/07/20230607-122320-398be02ff99c-0a7596b6a29f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Contact between reef and aeolianite",
@@ -1106,13 +1106,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mokuauia Island"
           ],
-          "archive_path": "2023/06/07/12232007.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/07/20230607-122320-398be02ff99c-0a7596b6a29f.jpg"
         },
         {
           "id": 64532,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/12502207.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/12502207.jpg",
-          "thumb": "albums/hawaii/thumb/12502207.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-125022-dc21d8ac2901-005bb48ed0c7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-125022-dc21d8ac2901-005bb48ed0c7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/07/20230607-125022-dc21d8ac2901-005bb48ed0c7.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Last interglacial reef overlain by aeolian dunes",
@@ -1129,13 +1129,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mokuauia Island"
           ],
-          "archive_path": "2023/06/07/12502207.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/07/20230607-125022-dc21d8ac2901-005bb48ed0c7.jpg"
         },
         {
           "id": 64560,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/16052807.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/16052807.jpg",
-          "thumb": "albums/hawaii/thumb/16052807.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-160528-dd5e57cc4fed-537c132af0a1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-160528-dd5e57cc4fed-537c132af0a1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/07/20230607-160528-dd5e57cc4fed-537c132af0a1.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Last interglacial encrusting coral (Porites or Montipora)",
@@ -1153,13 +1153,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Last Interglacial",
             "Locations"
           ],
-          "archive_path": "2023/06/07/16052807.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/07/20230607-160528-dd5e57cc4fed-537c132af0a1.jpg"
         },
         {
           "id": 64562,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/16055907.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/07/16055907.jpg",
-          "thumb": "albums/hawaii/thumb/16055907.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-160559-31dd017d9e5e-e5b12fcb9e4e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/07/20230607-160559-31dd017d9e5e-e5b12fcb9e4e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/07/20230607-160559-31dd017d9e5e-e5b12fcb9e4e.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Inspecting modern beachrock",
@@ -1178,13 +1178,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Roger Creel"
           ],
-          "archive_path": "2023/06/07/16055907.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/07/20230607-160559-31dd017d9e5e-e5b12fcb9e4e.jpg"
         },
         {
           "id": 64634,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/09100308.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/09100308.jpg",
-          "thumb": "albums/hawaii/thumb/09100308.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-091003-2b69ba9cf564-24855bea8c8c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-091003-2b69ba9cf564-24855bea8c8c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-091003-2b69ba9cf564-24855bea8c8c.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Reef rubble is capped by a subaerial exposure surface (with rip-up clasts; hammer on layer). The exposure surface is overlain by coaresening upward coral rubble followed by planar sands",
@@ -1203,13 +1203,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Sections"
           ],
-          "archive_path": "2023/06/08/09100308.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-091003-2b69ba9cf564-24855bea8c8c.jpg"
         },
         {
           "id": 64635,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/09100608.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/09100608.jpg",
-          "thumb": "albums/hawaii/thumb/09100608.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-091006-6aca9840e0bc-3587aabd4782.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-091006-6aca9840e0bc-3587aabd4782.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-091006-6aca9840e0bc-3587aabd4782.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Reef rubble is capped by a subaerial exposure surface (with rip-up clasts; hammer on layer). The exposure surface is overlain by coaresening upward coral rubble followed by planar sands",
@@ -1228,13 +1228,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Sections"
           ],
-          "archive_path": "2023/06/08/09100608.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-091006-6aca9840e0bc-3587aabd4782.jpg"
         },
         {
           "id": 64638,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/09154808.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/09154808.jpg",
-          "thumb": "albums/hawaii/thumb/09154808.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-091548-512672d45212-27853f0b503d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-091548-512672d45212-27853f0b503d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-091548-512672d45212-27853f0b503d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A large, imbricated clast of planar sands (possibly a beach) is colonized by corals. Also note smaller-scale bedforms on the upper right of the sand wedge (possibly subtidal)",
@@ -1255,13 +1255,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Sections"
           ],
-          "archive_path": "2023/06/08/09154808.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-091548-512672d45212-27853f0b503d.jpg"
         },
         {
           "id": 64640,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/09212508.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/09212508.jpg",
-          "thumb": "albums/hawaii/thumb/09212508.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-092125-dcd9b098b964-4ab2b7ac5c23.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-092125-dcd9b098b964-4ab2b7ac5c23.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-092125-dcd9b098b964-4ab2b7ac5c23.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A burrowed mud unit is overlain by pebbles, followed by imbricated planar sands overlain by a reef",
@@ -1282,13 +1282,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Sections"
           ],
-          "archive_path": "2023/06/08/09212508.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-092125-dcd9b098b964-4ab2b7ac5c23.jpg"
         },
         {
           "id": 64642,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/10153908.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/10153908.jpg",
-          "thumb": "albums/hawaii/thumb/10153908.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-101539-268f4b533e0a-4495d8ec6c9b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-101539-268f4b533e0a-4495d8ec6c9b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-101539-268f4b533e0a-4495d8ec6c9b.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Cast of a tree; hair-like texture is consistent with roots",
@@ -1309,13 +1309,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sam Chester",
             "Sections"
           ],
-          "archive_path": "2023/06/08/10153908.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-101539-268f4b533e0a-4495d8ec6c9b.jpg"
         },
         {
           "id": 64655,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/12163108.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/12163108.jpg",
-          "thumb": "albums/hawaii/thumb/12163108.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-121631-8dff927e1a25-ea1985a05da6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-121631-8dff927e1a25-ea1985a05da6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-121631-8dff927e1a25-ea1985a05da6.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Pre- last interglacial root casts on floor of ditch at Barber's Point",
@@ -1335,13 +1335,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "root casts",
             "Sections"
           ],
-          "archive_path": "2023/06/08/12163108.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-121631-8dff927e1a25-ea1985a05da6.jpg"
         },
         {
           "id": 64700,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14300608.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14300608.jpg",
-          "thumb": "albums/hawaii/thumb/14300608.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-143006-d020aeaf5e4c-10d9ec8c56be.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-143006-d020aeaf5e4c-10d9ec8c56be.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-143006-d020aeaf5e4c-10d9ec8c56be.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Modern Montipora verrucosa coral",
@@ -1362,13 +1362,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Montipora verrucosa",
             "underwater"
           ],
-          "archive_path": "2023/06/08/14300608.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-143006-d020aeaf5e4c-10d9ec8c56be.jpg"
         },
         {
           "id": 64708,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14321108.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14321108.jpg",
-          "thumb": "albums/hawaii/thumb/14321108.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-143211-2080896458f9-971211e94967.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-143211-2080896458f9-971211e94967.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-143211-2080896458f9-971211e94967.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Modern Porites lobata encrusting coral",
@@ -1387,13 +1387,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "modern",
             "underwater"
           ],
-          "archive_path": "2023/06/08/14321108.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-143211-2080896458f9-971211e94967.jpg"
         },
         {
           "id": 64724,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14350508.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14350508.jpg",
-          "thumb": "albums/hawaii/thumb/14350508.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-143505-297c29782b01-847552c9a9c6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-143505-297c29782b01-847552c9a9c6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-143505-297c29782b01-847552c9a9c6.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Porites lobata (green) growing around a red pencil urchin",
@@ -1415,13 +1415,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "red pencil urchin",
             "underwater"
           ],
-          "archive_path": "2023/06/08/14350508.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-143505-297c29782b01-847552c9a9c6.jpg"
         },
         {
           "id": 64731,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14371008.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14371008.jpg",
-          "thumb": "albums/hawaii/thumb/14371008.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-143710-1f430e6f02dd-b47e0e926e99.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-143710-1f430e6f02dd-b47e0e926e99.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-143710-1f430e6f02dd-b47e0e926e99.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Porites lobata (green) and Montipora verrucosa (white) growing next to each other in a modern reef",
@@ -1442,13 +1442,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Porites lobata",
             "underwater"
           ],
-          "archive_path": "2023/06/08/14371008.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-143710-1f430e6f02dd-b47e0e926e99.jpg"
         },
         {
           "id": 64758,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14401508.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14401508.jpg",
-          "thumb": "albums/hawaii/thumb/14401508.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-144015-5aa144fb912e-050e8bd4f705.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-144015-5aa144fb912e-050e8bd4f705.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-144015-5aa144fb912e-050e8bd4f705.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A friendly sea turtle swims over a modern reef",
@@ -1467,13 +1467,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sea turtle",
             "underwater"
           ],
-          "archive_path": "2023/06/08/14401508.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-144015-5aa144fb912e-050e8bd4f705.jpg"
         },
         {
           "id": 64769,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14433308.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14433308.jpg",
-          "thumb": "albums/hawaii/thumb/14433308.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-144333-639054afe1f5-d4eeea4e4dc0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-144333-639054afe1f5-d4eeea4e4dc0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-144333-639054afe1f5-d4eeea4e4dc0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A friendly sea turtle swims over a modern reef",
@@ -1492,13 +1492,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sea turtle",
             "underwater"
           ],
-          "archive_path": "2023/06/08/14433308.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-144333-639054afe1f5-d4eeea4e4dc0.jpg"
         },
         {
           "id": 64773,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14443508.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14443508.jpg",
-          "thumb": "albums/hawaii/thumb/14443508.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-144435-8a1a97d1a2a7-80fb6ad32f1e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-144435-8a1a97d1a2a7-80fb6ad32f1e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-144435-8a1a97d1a2a7-80fb6ad32f1e.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Modern encrusing corals (green = Porites lobata, white = Montipora capitata) and colonial Pocillopora meandrina",
@@ -1520,13 +1520,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Porites lobata",
             "underwater"
           ],
-          "archive_path": "2023/06/08/14443508.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-144435-8a1a97d1a2a7-80fb6ad32f1e.jpg"
         },
         {
           "id": 64777,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14450608.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/08/14450608.jpg",
-          "thumb": "albums/hawaii/thumb/14450608.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-144506-b10356c257c7-e7a2e6a0e291.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/08/20230608-144506-b10356c257c7-e7a2e6a0e291.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/08/20230608-144506-b10356c257c7-e7a2e6a0e291.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Swimming with the sea turtles",
@@ -1545,13 +1545,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sea turtle",
             "underwater"
           ],
-          "archive_path": "2023/06/08/14450608.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/08/20230608-144506-b10356c257c7-e7a2e6a0e291.jpg"
         },
         {
           "id": 64800,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/10583909.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/10583909.jpg",
-          "thumb": "albums/hawaii/thumb/10583909.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-105839-b3ee9791cd37-2f32506b926c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-105839-b3ee9791cd37-2f32506b926c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-105839-b3ee9791cd37-2f32506b926c.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Modern analog for algal buildups",
@@ -1567,13 +1567,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Ka'ena Point",
             "Locations"
           ],
-          "archive_path": "2023/06/09/10583909.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-105839-b3ee9791cd37-2f32506b926c.jpg"
         },
         {
           "id": 64802,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/10594909.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/10594909.jpg",
-          "thumb": "albums/hawaii/thumb/10594909.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-105949-c22c38707c2f-e68e776a3c64.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-105949-c22c38707c2f-e68e776a3c64.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-105949-c22c38707c2f-e68e776a3c64.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Possible algal buildups/algal mats",
@@ -1589,13 +1589,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Ka'ena Point",
             "Locations"
           ],
-          "archive_path": "2023/06/09/10594909.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-105949-c22c38707c2f-e68e776a3c64.jpg"
         },
         {
           "id": 64803,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11092209.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11092209.jpg",
-          "thumb": "albums/hawaii/thumb/11092209.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-110922-6d9adf73f7f5-14345efec1d8.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-110922-6d9adf73f7f5-14345efec1d8.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-110922-6d9adf73f7f5-14345efec1d8.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Layers of rhotolith and coral conglomerate separated by algal hardgrounds",
@@ -1612,13 +1612,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Last Interglacial",
             "Locations"
           ],
-          "archive_path": "2023/06/09/11092209.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-110922-6d9adf73f7f5-14345efec1d8.jpg"
         },
         {
           "id": 64804,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11103409.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11103409.jpg",
-          "thumb": "albums/hawaii/thumb/11103409.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-111034-0de585b2c876-3ebc493de14d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-111034-0de585b2c876-3ebc493de14d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-111034-0de585b2c876-3ebc493de14d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Beds of rhotoliths and coral rubble separated by algal hardgrounds",
@@ -1637,13 +1637,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "rhodolith"
           ],
-          "archive_path": "2023/06/09/11103409.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-111034-0de585b2c876-3ebc493de14d.jpg"
         },
         {
           "id": 64805,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11125109.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11125109.jpg",
-          "thumb": "albums/hawaii/thumb/11125109.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-111251-3e7011770baa-ba13f7352c77.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-111251-3e7011770baa-ba13f7352c77.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-111251-3e7011770baa-ba13f7352c77.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Beds of rhotoliths and coral rubble separated by algal hardgrounds",
@@ -1662,13 +1662,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "rhodolith"
           ],
-          "archive_path": "2023/06/09/11125109.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-111251-3e7011770baa-ba13f7352c77.jpg"
         },
         {
           "id": 64814,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11285109.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11285109.jpg",
-          "thumb": "albums/hawaii/thumb/11285109.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-112851-9e5843ead70f-58aab45fb990.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-112851-9e5843ead70f-58aab45fb990.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-112851-9e5843ead70f-58aab45fb990.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Last interglacial encrusting coral mounds exposed on the coast",
@@ -1687,13 +1687,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Last Interglacial",
             "Locations"
           ],
-          "archive_path": "2023/06/09/11285109.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-112851-9e5843ead70f-58aab45fb990.jpg"
         },
         {
           "id": 64824,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11364209.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11364209.jpg",
-          "thumb": "albums/hawaii/thumb/11364209.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-113642-2f92dc7765b9-4dd027608c17.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-113642-2f92dc7765b9-4dd027608c17.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-113642-2f92dc7765b9-4dd027608c17.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Last interglacial rhodoliths (red algae nodules) cover part of the coastline at Ka'ena Point",
@@ -1713,13 +1713,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Oahu",
             "rhodolith"
           ],
-          "archive_path": "2023/06/09/11364209.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-113642-2f92dc7765b9-4dd027608c17.jpg"
         },
         {
           "id": 64835,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11394009.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11394009.jpg",
-          "thumb": "albums/hawaii/thumb/11394009.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-113940-4959785bf3cd-b124312dea90.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-113940-4959785bf3cd-b124312dea90.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-113940-4959785bf3cd-b124312dea90.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Exploring a last interglacial rhodolith beach",
@@ -1742,13 +1742,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "rhodolith",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/09/11394009.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-113940-4959785bf3cd-b124312dea90.jpg"
         },
         {
           "id": 64837,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11400009.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11400009.jpg",
-          "thumb": "albums/hawaii/thumb/11400009.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-114000-e3525c50a919-6c15300b6c22.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-114000-e3525c50a919-6c15300b6c22.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-114000-e3525c50a919-6c15300b6c22.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "The team stops to chat in a last interglacial rhodolith (red algae nodule) graveyard",
@@ -1773,13 +1773,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sam Chester",
             "Steve Goldstein"
           ],
-          "archive_path": "2023/06/09/11400009.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-114000-e3525c50a919-6c15300b6c22.jpg"
         },
         {
           "id": 64839,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11455709.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11455709.jpg",
-          "thumb": "albums/hawaii/thumb/11455709.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-114557-4c4aa67dea41-ef30cd0c6ad7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-114557-4c4aa67dea41-ef30cd0c6ad7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-114557-4c4aa67dea41-ef30cd0c6ad7.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Taking a break in a last interglacial rhodolith graveyard",
@@ -1803,13 +1803,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sam Chester",
             "Steve Goldstein"
           ],
-          "archive_path": "2023/06/09/11455709.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-114557-4c4aa67dea41-ef30cd0c6ad7.jpg"
         },
         {
           "id": 64840,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11531309.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11531309.jpg",
-          "thumb": "albums/hawaii/thumb/11531309.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-115313-8fa32498ba31-68790296d5d7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-115313-8fa32498ba31-68790296d5d7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-115313-8fa32498ba31-68790296d5d7.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Possible solitary coral in last interglacial rhodolith bed",
@@ -1829,13 +1829,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "rhodolith"
           ],
-          "archive_path": "2023/06/09/11531309.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-115313-8fa32498ba31-68790296d5d7.jpg"
         },
         {
           "id": 64841,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11541409.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11541409.jpg",
-          "thumb": "albums/hawaii/thumb/11541409.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-115414-5f88c9fc1bfb-46a362fc5c4b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-115414-5f88c9fc1bfb-46a362fc5c4b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-115414-5f88c9fc1bfb-46a362fc5c4b.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Possible solitary coral in last interglacial rhodolith bed",
@@ -1855,13 +1855,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "rhodolith"
           ],
-          "archive_path": "2023/06/09/11541409.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-115414-5f88c9fc1bfb-46a362fc5c4b.jpg"
         },
         {
           "id": 64842,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11543109.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/11543109.jpg",
-          "thumb": "albums/hawaii/thumb/11543109.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-115431-8a1e5c58bbbc-5fee41298b3d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-115431-8a1e5c58bbbc-5fee41298b3d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-115431-8a1e5c58bbbc-5fee41298b3d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Possible solitary coral in rhodolith bed",
@@ -1881,13 +1881,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "rhodolith"
           ],
-          "archive_path": "2023/06/09/11543109.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-115431-8a1e5c58bbbc-5fee41298b3d.jpg"
         },
         {
           "id": 64860,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/13083009.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/13083009.jpg",
-          "thumb": "albums/hawaii/thumb/13083009.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-130830-0677e1a9f413-3c46f477fef0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-130830-0677e1a9f413-3c46f477fef0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-130830-0677e1a9f413-3c46f477fef0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Checking out the view from the top of fossil sands",
@@ -1908,13 +1908,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sam Chester",
             "Steve Goldstein"
           ],
-          "archive_path": "2023/06/09/13083009.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-130830-0677e1a9f413-3c46f477fef0.jpg"
         },
         {
           "id": 64865,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/13212209.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/13212209.jpg",
-          "thumb": "albums/hawaii/thumb/13212209.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-132122-f3debdf8f4cf-af64eff9405a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-132122-f3debdf8f4cf-af64eff9405a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-132122-f3debdf8f4cf-af64eff9405a.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Coral mounds on top of rhodolith unit",
@@ -1934,13 +1934,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "rhodolith"
           ],
-          "archive_path": "2023/06/09/13212209.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-132122-f3debdf8f4cf-af64eff9405a.jpg"
         },
         {
           "id": 64866,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/13215509.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/13215509.jpg",
-          "thumb": "albums/hawaii/thumb/13215509.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-132155-0c586dcd7605-f74db167841c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-132155-0c586dcd7605-f74db167841c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-132155-0c586dcd7605-f74db167841c.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Coral mounds on top of rhodolith unit",
@@ -1960,13 +1960,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "rhodolith"
           ],
-          "archive_path": "2023/06/09/13215509.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-132155-0c586dcd7605-f74db167841c.jpg"
         },
         {
           "id": 64878,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/14002109.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/14002109.jpg",
-          "thumb": "albums/hawaii/thumb/14002109.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-140021-502c5312d852-db0086f504eb.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-140021-502c5312d852-db0086f504eb.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-140021-502c5312d852-db0086f504eb.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "The crew ponders a vertical contact between a reef unit (left) and bedded sands (right)",
@@ -1987,13 +1987,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/09/14002109.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-140021-502c5312d852-db0086f504eb.jpg"
         },
         {
           "id": 64885,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/14255709.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/14255709.jpg",
-          "thumb": "albums/hawaii/thumb/14255709.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-142557-2dfa591bcf20-2f82805fa2db.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-142557-2dfa591bcf20-2f82805fa2db.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-142557-2dfa591bcf20-2f82805fa2db.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "The team makes its way across last intergacial reef flats along the coast at Ka'ena Point",
@@ -2017,13 +2017,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sam Chester",
             "Steve Goldstein"
           ],
-          "archive_path": "2023/06/09/14255709.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-142557-2dfa591bcf20-2f82805fa2db.jpg"
         },
         {
           "id": 64893,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/15144109.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/15144109.jpg",
-          "thumb": "albums/hawaii/thumb/15144109.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-151441-4ca363b1f497-51764c7f00a4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-151441-4ca363b1f497-51764c7f00a4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-151441-4ca363b1f497-51764c7f00a4.jpg",
           "width": 3024,
           "height": 4032,
           "caption": "A fledgling albatross poses along the trail in its nesting grounds at Ka'ena Point",
@@ -2042,13 +2042,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/09/15144109.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-151441-4ca363b1f497-51764c7f00a4.jpg"
         },
         {
           "id": 64897,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/15214709.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/09/15214709.jpg",
-          "thumb": "albums/hawaii/thumb/15214709.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-152147-f9ed8f6569b1-f4c4c3b47660.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/09/20230609-152147-f9ed8f6569b1-f4c4c3b47660.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/09/20230609-152147-f9ed8f6569b1-f4c4c3b47660.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "The active dune field at Ka'ena Point serves as a nesting ground for seabirds",
@@ -2065,13 +2065,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/09/15214709.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/09/20230609-152147-f9ed8f6569b1-f4c4c3b47660.jpg"
         },
         {
           "id": 65727,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/11423710.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/11423710.jpg",
-          "thumb": "albums/hawaii/thumb/11423710.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-114237-3f8487013882-30e1f8c71e4c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-114237-3f8487013882-30e1f8c71e4c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/10/20230610-114237-3f8487013882-30e1f8c71e4c.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Mud flow overlain by recent beach rock",
@@ -2086,13 +2086,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Hawaii",
             "Locations"
           ],
-          "archive_path": "2023/06/10/11423710.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/10/20230610-114237-3f8487013882-30e1f8c71e4c.jpg"
         },
         {
           "id": 65729,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/11450510.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/11450510.jpg",
-          "thumb": "albums/hawaii/thumb/11450510.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-114505-58858ba2d786-2c7730588511.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-114505-58858ba2d786-2c7730588511.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/10/20230610-114505-58858ba2d786-2c7730588511.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Mud flow deposit on beach",
@@ -2109,13 +2109,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "People"
           ],
-          "archive_path": "2023/06/10/11450510.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/10/20230610-114505-58858ba2d786-2c7730588511.jpg"
         },
         {
           "id": 65731,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/11550610.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/11550610.jpg",
-          "thumb": "albums/hawaii/thumb/11550610.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-115506-c2956bbdcbd8-ca4956aaa2a6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-115506-c2956bbdcbd8-ca4956aaa2a6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/10/20230610-115506-c2956bbdcbd8-ca4956aaa2a6.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Possible Kapapa highstand deposit (rhodolith conglomerate)",
@@ -2132,13 +2132,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "rhodolith"
           ],
-          "archive_path": "2023/06/10/11550610.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/10/20230610-115506-c2956bbdcbd8-ca4956aaa2a6.jpg"
         },
         {
           "id": 65732,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/12245410.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/12245410.jpg",
-          "thumb": "albums/hawaii/thumb/12245410.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-122454-f2b6ad2d4a52-e2b5d3014d1a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-122454-f2b6ad2d4a52-e2b5d3014d1a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/10/20230610-122454-f2b6ad2d4a52-e2b5d3014d1a.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Rooted sand overlain by a mass wasting deposit",
@@ -2159,13 +2159,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "root casts",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/10/12245410.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/10/20230610-122454-f2b6ad2d4a52-e2b5d3014d1a.jpg"
         },
         {
           "id": 65761,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/17184710.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/17184710.jpg",
-          "thumb": "albums/hawaii/thumb/17184710.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-171847-9b77f4f0ef64-43f6c35a5903.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-171847-9b77f4f0ef64-43f6c35a5903.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/10/20230610-171847-9b77f4f0ef64-43f6c35a5903.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A bluespotted cornetfish swims over encrusing Porites lobata (green) and heads of Pocillopora meandrina",
@@ -2188,13 +2188,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Porites lobata",
             "underwater"
           ],
-          "archive_path": "2023/06/10/17184710.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/10/20230610-171847-9b77f4f0ef64-43f6c35a5903.jpg"
         },
         {
           "id": 65797,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/17391410.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/17391410.jpg",
-          "thumb": "albums/hawaii/thumb/17391410.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-173914-1fa15850788b-8cd24dd6fbd2.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-173914-1fa15850788b-8cd24dd6fbd2.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/10/20230610-173914-1fa15850788b-8cd24dd6fbd2.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Large (>1 meter diameter) Porites lobata mound with a branching coral (Pocillopora meandrina?) on top",
@@ -2214,13 +2214,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Porites lobata",
             "underwater"
           ],
-          "archive_path": "2023/06/10/17391410.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/10/20230610-173914-1fa15850788b-8cd24dd6fbd2.jpg"
         },
         {
           "id": 65803,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/17395710.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/10/17395710.jpg",
-          "thumb": "albums/hawaii/thumb/17395710.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-173957-2b4a57d2c6b9-2fb812ca453d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/10/20230610-173957-2b4a57d2c6b9-2fb812ca453d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/10/20230610-173957-2b4a57d2c6b9-2fb812ca453d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Large (>1 meter diameter) Porites lobata mound with a branching coral (Pocillopora meandrina?) on top",
@@ -2240,13 +2240,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Porites lobata",
             "underwater"
           ],
-          "archive_path": "2023/06/10/17395710.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/10/20230610-173957-2b4a57d2c6b9-2fb812ca453d.jpg"
         },
         {
           "id": 65832,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/11/10332711.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/11/10332711.jpg",
-          "thumb": "albums/hawaii/thumb/10332711.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/11/20230611-103327-7a22c9219495-2a01f03bf341.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/11/20230611-103327-7a22c9219495-2a01f03bf341.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/11/20230611-103327-7a22c9219495-2a01f03bf341.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Billy and Sam measure the position of a tide gauge ag Ka'ena Point",
@@ -2268,13 +2268,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sam Chester",
             "Sections"
           ],
-          "archive_path": "2023/06/11/10332711.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/11/20230611-103327-7a22c9219495-2a01f03bf341.jpg"
         },
         {
           "id": 65833,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/11/10460211.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/11/10460211.jpg",
-          "thumb": "albums/hawaii/thumb/10460211.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/11/20230611-104602-2a2b9041c93e-9d2dbfac004d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/11/20230611-104602-2a2b9041c93e-9d2dbfac004d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/11/20230611-104602-2a2b9041c93e-9d2dbfac004d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "The team measures the position of a tide gauge at Ka'ena Point",
@@ -2297,13 +2297,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sam Chester",
             "Sections"
           ],
-          "archive_path": "2023/06/11/10460211.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/11/20230611-104602-2a2b9041c93e-9d2dbfac004d.jpg"
         },
         {
           "id": 65849,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/11/15372711.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/11/15372711.jpg",
-          "thumb": "albums/hawaii/thumb/15372711.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/11/20230611-153727-66d533b0b242-c7a0366d43fd.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/11/20230611-153727-66d533b0b242-c7a0366d43fd.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/11/20230611-153727-66d533b0b242-c7a0366d43fd.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Fossil aeolian dunes above the road at Ka'ena Point record higher sea level during MIS 11",
@@ -2321,13 +2321,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Ka'ena Point",
             "Locations"
           ],
-          "archive_path": "2023/06/11/15372711.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/11/20230611-153727-66d533b0b242-c7a0366d43fd.jpg"
         },
         {
           "id": 65852,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/11/15380711.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/11/15380711.jpg",
-          "thumb": "albums/hawaii/thumb/15380711.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/11/20230611-153807-57b415cff4e5-ca0c865ee27d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/11/20230611-153807-57b415cff4e5-ca0c865ee27d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/11/20230611-153807-57b415cff4e5-ca0c865ee27d.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Fossil aeolian dunes above the road at Ka'ena Point record higher sea level during MIS 11",
@@ -2346,13 +2346,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/11/15380711.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/11/20230611-153807-57b415cff4e5-ca0c865ee27d.jpg"
         },
         {
           "id": 67421,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/12/13541412.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/12/13541412.jpg",
-          "thumb": "albums/hawaii/thumb/13541412.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/12/20230612-135414-30ab47661a46-2e10b3b60a40.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/12/20230612-135414-30ab47661a46-2e10b3b60a40.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/12/20230612-135414-30ab47661a46-2e10b3b60a40.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Close-up of modern Porites compressa coral",
@@ -2372,13 +2372,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Porites compressa",
             "underwater"
           ],
-          "archive_path": "2023/06/12/13541412.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/12/20230612-135414-30ab47661a46-2e10b3b60a40.jpg"
         },
         {
           "id": 67439,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/12/14010112.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/12/14010112.jpg",
-          "thumb": "albums/hawaii/thumb/14010112.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/12/20230612-140101-bd30fe7029c3-ae37330506bf.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/12/20230612-140101-bd30fe7029c3-ae37330506bf.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/12/20230612-140101-bd30fe7029c3-ae37330506bf.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Close-up of Pocillopora damicornis rice coral",
@@ -2398,13 +2398,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pocillopora damicornis",
             "underwater"
           ],
-          "archive_path": "2023/06/12/14010112.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/12/20230612-140101-bd30fe7029c3-ae37330506bf.jpg"
         },
         {
           "id": 67441,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/12/14014512.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/12/14014512.jpg",
-          "thumb": "albums/hawaii/thumb/14014512.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/12/20230612-140145-b903ea414637-ff6f6a2b1f71.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/12/20230612-140145-b903ea414637-ff6f6a2b1f71.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/12/20230612-140145-b903ea414637-ff6f6a2b1f71.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Modern Pocillopora damicornis growing in the lee of Popoia Island",
@@ -2424,13 +2424,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pocillopora damicornis",
             "underwater"
           ],
-          "archive_path": "2023/06/12/14014512.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/12/20230612-140145-b903ea414637-ff6f6a2b1f71.jpg"
         },
         {
           "id": 67498,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/12/14381112.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/12/14381112.jpg",
-          "thumb": "albums/hawaii/thumb/14381112.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/12/20230612-143811-dc70ea400dbf-74521310e47e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/12/20230612-143811-dc70ea400dbf-74521310e47e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/12/20230612-143811-dc70ea400dbf-74521310e47e.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Finger coral (Porites compressa, brown) and lobe coral (Porites lobata, green) living next to each other",
@@ -2451,13 +2451,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Porites lobata",
             "underwater"
           ],
-          "archive_path": "2023/06/12/14381112.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/12/20230612-143811-dc70ea400dbf-74521310e47e.jpg"
         },
         {
           "id": 67507,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/12/14403212.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/12/14403212.jpg",
-          "thumb": "albums/hawaii/thumb/14403212.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/12/20230612-144032-bd0013117ae9-5b8137222ca0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/12/20230612-144032-bd0013117ae9-5b8137222ca0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/12/20230612-144032-bd0013117ae9-5b8137222ca0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Porites compressa colony",
@@ -2479,13 +2479,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Porites compressa",
             "underwater"
           ],
-          "archive_path": "2023/06/12/14403212.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/12/20230612-144032-bd0013117ae9-5b8137222ca0.jpg"
         },
         {
           "id": 67525,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/09552113.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/09552113.jpg",
-          "thumb": "albums/hawaii/thumb/09552113.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-095521-d3ddda4c86f7-c16bf782cefe.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-095521-d3ddda4c86f7-c16bf782cefe.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/13/20230613-095521-d3ddda4c86f7-c16bf782cefe.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Boarding our flight from Oahu to Moloka'i",
@@ -2503,13 +2503,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Oahu",
             "People"
           ],
-          "archive_path": "2023/06/13/09552113.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/13/20230613-095521-d3ddda4c86f7-c16bf782cefe.jpg"
         },
         {
           "id": 67528,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/10265913.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/10265913.jpg",
-          "thumb": "albums/hawaii/thumb/10265913.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-102659-3f555dd3630b-eaf647c9db46.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-102659-3f555dd3630b-eaf647c9db46.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/13/20230613-102659-3f555dd3630b-eaf647c9db46.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Bird's eye view of the Diamond Head volcanic tuff cone on Oahu",
@@ -2525,13 +2525,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/13/10265913.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/13/20230613-102659-3f555dd3630b-eaf647c9db46.jpg"
         },
         {
           "id": 67529,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/10285613.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/10285613.jpg",
-          "thumb": "albums/hawaii/thumb/10285613.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-102856-309ace2ab574-c249965f31a1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-102856-309ace2ab574-c249965f31a1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/13/20230613-102856-309ace2ab574-c249965f31a1.jpg",
           "width": 3024,
           "height": 4032,
           "caption": "Bird's eye view of Hanauma Bay on Oahu",
@@ -2547,13 +2547,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Oahu"
           ],
-          "archive_path": "2023/06/13/10285613.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/13/20230613-102856-309ace2ab574-c249965f31a1.jpg"
         },
         {
           "id": 67530,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/10400713.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/10400713.jpg",
-          "thumb": "albums/hawaii/thumb/10400713.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-104007-e58cc259dedf-3cc84574e1c5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-104007-e58cc259dedf-3cc84574e1c5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/13/20230613-104007-e58cc259dedf-3cc84574e1c5.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Bird's eye view of Ilio Point on our flight from Oahu to Moloka'i",
@@ -2569,13 +2569,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Moloka'i"
           ],
-          "archive_path": "2023/06/13/10400713.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/13/20230613-104007-e58cc259dedf-3cc84574e1c5.jpg"
         },
         {
           "id": 67531,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/13065213.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/13065213.jpg",
-          "thumb": "albums/hawaii/thumb/13065213.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-130652-93ed3f2dae55-3d13af0d6e43.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-130652-93ed3f2dae55-3d13af0d6e43.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/13/20230613-130652-93ed3f2dae55-3d13af0d6e43.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Holocene beachrock on the southern coast of Moloka'i",
@@ -2594,13 +2594,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/13/13065213.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/13/20230613-130652-93ed3f2dae55-3d13af0d6e43.jpg"
         },
         {
           "id": 67537,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/13383913.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/13/13383913.jpg",
-          "thumb": "albums/hawaii/thumb/13383913.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-133839-71724346b40f-8c775f9d7579.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/13/20230613-133839-71724346b40f-8c775f9d7579.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/13/20230613-133839-71724346b40f-8c775f9d7579.jpg",
           "width": 3024,
           "height": 4032,
           "caption": "Mud cracks in Holocene mud on the southern coast of Moloka'i",
@@ -2617,13 +2617,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Moloka'i"
           ],
-          "archive_path": "2023/06/13/13383913.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/13/20230613-133839-71724346b40f-8c775f9d7579.jpg"
         },
         {
           "id": 67560,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10195414.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10195414.jpg",
-          "thumb": "albums/hawaii/thumb/10195414.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-101954-f242cd2a0499-02549e4803cf.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-101954-f242cd2a0499-02549e4803cf.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-101954-f242cd2a0499-02549e4803cf.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Spheroidal weathering of basalt at Mo'omomi",
@@ -2639,13 +2639,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/10195414.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-101954-f242cd2a0499-02549e4803cf.jpg"
         },
         {
           "id": 67565,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10241614.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10241614.jpg",
-          "thumb": "albums/hawaii/thumb/10241614.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-102416-66c3f0860fe9-9aa789ab0c1d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-102416-66c3f0860fe9-9aa789ab0c1d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-102416-66c3f0860fe9-9aa789ab0c1d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Calcareous encrusters in the modern swash zone on Mo'omomi Beach",
@@ -2662,13 +2662,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "modern"
           ],
-          "archive_path": "2023/06/14/10241614.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-102416-66c3f0860fe9-9aa789ab0c1d.jpg"
         },
         {
           "id": 67570,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10284914.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10284914.jpg",
-          "thumb": "albums/hawaii/thumb/10284914.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-102849-17f723f37348-5543ce7bea1c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-102849-17f723f37348-5543ce7bea1c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-102849-17f723f37348-5543ce7bea1c.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Modern barnacles in the swash zone on Mo'omomi Beach",
@@ -2686,13 +2686,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "modern"
           ],
-          "archive_path": "2023/06/14/10284914.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-102849-17f723f37348-5543ce7bea1c.jpg"
         },
         {
           "id": 67577,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10470814.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10470814.jpg",
-          "thumb": "albums/hawaii/thumb/10470814.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-104708-22b1de8ecc3c-5830e2b2ea58.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-104708-22b1de8ecc3c-5830e2b2ea58.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-104708-22b1de8ecc3c-5830e2b2ea58.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "The team works out the geology at Mo'omomi Beach",
@@ -2713,13 +2713,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Roger Creel"
           ],
-          "archive_path": "2023/06/14/10470814.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-104708-22b1de8ecc3c-5830e2b2ea58.jpg"
         },
         {
           "id": 67586,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10541714.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10541714.jpg",
-          "thumb": "albums/hawaii/thumb/10541714.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-105417-7bc59b0bf19d-156879d60ed2.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-105417-7bc59b0bf19d-156879d60ed2.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-105417-7bc59b0bf19d-156879d60ed2.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Fossil aeolian dune with bedded sands overlain by a vegetated top (lithified 'popcorns')",
@@ -2739,13 +2739,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/14/10541714.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-105417-7bc59b0bf19d-156879d60ed2.jpg"
         },
         {
           "id": 67589,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10554714.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/10554714.jpg",
-          "thumb": "albums/hawaii/thumb/10554714.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-105547-ea8c3beaac17-333719627645.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-105547-ea8c3beaac17-333719627645.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-105547-ea8c3beaac17-333719627645.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Dip direction changes across a fossil aeolian dune",
@@ -2762,13 +2762,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/10554714.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-105547-ea8c3beaac17-333719627645.jpg"
         },
         {
           "id": 67604,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11035114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11035114.jpg",
-          "thumb": "albums/hawaii/thumb/11035114.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-110351-e1a7405c7a71-67f47c9de587.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-110351-e1a7405c7a71-67f47c9de587.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-110351-e1a7405c7a71-67f47c9de587.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Modern boulder beach with white encrusting carbonate",
@@ -2784,13 +2784,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/11035114.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-110351-e1a7405c7a71-67f47c9de587.jpg"
         },
         {
           "id": 67607,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11063314.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11063314.jpg",
-          "thumb": "albums/hawaii/thumb/11063314.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-110633-112145084f0d-71fe40db7dc3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-110633-112145084f0d-71fe40db7dc3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-110633-112145084f0d-71fe40db7dc3.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Piece of vermetid (worm snail) constructional terrace in float at Mo'omomi Beach",
@@ -2808,13 +2808,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "vermetid"
           ],
-          "archive_path": "2023/06/14/11063314.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-110633-112145084f0d-71fe40db7dc3.jpg"
         },
         {
           "id": 67648,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11360114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11360114.jpg",
-          "thumb": "albums/hawaii/thumb/11360114.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-113601-bef22fbd247f-de95bcff33fe.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-113601-bef22fbd247f-de95bcff33fe.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-113601-bef22fbd247f-de95bcff33fe.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Beautiful aeolianite outcropping on the coast at Mo'omomi Beach",
@@ -2831,13 +2831,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/11360114.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-113601-bef22fbd247f-de95bcff33fe.jpg"
         },
         {
           "id": 67649,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11360414.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11360414.jpg",
-          "thumb": "albums/hawaii/thumb/11360414.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-113604-0b43f2312268-42f12c15e145.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-113604-0b43f2312268-42f12c15e145.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-113604-0b43f2312268-42f12c15e145.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Walking over ancient dunes at Mo'omomi",
@@ -2858,13 +2858,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/14/11360414.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-113604-0b43f2312268-42f12c15e145.jpg"
         },
         {
           "id": 67657,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11394614.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11394614.jpg",
-          "thumb": "albums/hawaii/thumb/11394614.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-113946-12132ea9b6ec-284eda9fd577.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-113946-12132ea9b6ec-284eda9fd577.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-113946-12132ea9b6ec-284eda9fd577.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A notch at Mo'omomi is likely related to differential weathering of aeolianite and paleosol units",
@@ -2883,13 +2883,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "People"
           ],
-          "archive_path": "2023/06/14/11394614.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-113946-12132ea9b6ec-284eda9fd577.jpg"
         },
         {
           "id": 67659,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11431514.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11431514.jpg",
-          "thumb": "albums/hawaii/thumb/11431514.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-114315-2f147dbcfcc3-9414c55f6d41.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-114315-2f147dbcfcc3-9414c55f6d41.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-114315-2f147dbcfcc3-9414c55f6d41.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Aeolian dunes separated by a paleosol (with sand-filled cracks) at Mo'omomi",
@@ -2907,13 +2907,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/11431514.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-114315-2f147dbcfcc3-9414c55f6d41.jpg"
         },
         {
           "id": 67660,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11452114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11452114.jpg",
-          "thumb": "albums/hawaii/thumb/11452114.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-114521-7f42a5f2519f-b04da8cb5dbb.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-114521-7f42a5f2519f-b04da8cb5dbb.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-114521-7f42a5f2519f-b04da8cb5dbb.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Cross section through mud cracks in a paleosol underlying an aeolianite at Mo'omomi Beach",
@@ -2931,13 +2931,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "paleosol"
           ],
-          "archive_path": "2023/06/14/11452114.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-114521-7f42a5f2519f-b04da8cb5dbb.jpg"
         },
         {
           "id": 67661,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11470114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/11470114.jpg",
-          "thumb": "albums/hawaii/thumb/11470114.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-114701-66f1d7e0b5d9-3b1d62579053.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-114701-66f1d7e0b5d9-3b1d62579053.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-114701-66f1d7e0b5d9-3b1d62579053.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Contraction cracks in a paleosol filled with sand from overlying aeolianite",
@@ -2956,13 +2956,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "paleosol"
           ],
-          "archive_path": "2023/06/14/11470114.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-114701-66f1d7e0b5d9-3b1d62579053.jpg"
         },
         {
           "id": 67694,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/12000614.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/12000614.jpg",
-          "thumb": "albums/hawaii/thumb/12000614.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-120006-0e6d669e379a-a8c1d278558d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-120006-0e6d669e379a-a8c1d278558d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-120006-0e6d669e379a-a8c1d278558d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Bedding plane with abundant root casts in the Mo'omimi dunes",
@@ -2980,13 +2980,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "root casts"
           ],
-          "archive_path": "2023/06/14/12000614.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-120006-0e6d669e379a-a8c1d278558d.jpg"
         },
         {
           "id": 67727,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13104114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13104114.jpg",
-          "thumb": "albums/hawaii/thumb/13104114.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-131041-28ceec3654bb-f3d2be325866.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-131041-28ceec3654bb-f3d2be325866.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-131041-28ceec3654bb-f3d2be325866.jpg",
           "width": 3000,
           "height": 4000,
           "caption": "Wind ripples in the sand on Mo'omomi Beach",
@@ -3003,13 +3003,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "modern"
           ],
-          "archive_path": "2023/06/14/13104114.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-131041-28ceec3654bb-f3d2be325866.jpg"
         },
         {
           "id": 67728,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13112714.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13112714.jpg",
-          "thumb": "albums/hawaii/thumb/13112714.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-131127-2e012e0badea-82a9a4b9f042.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-131127-2e012e0badea-82a9a4b9f042.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-131127-2e012e0badea-82a9a4b9f042.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Blake and Mo hike over fossil dunes at Mo'omomi",
@@ -3029,13 +3029,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "People"
           ],
-          "archive_path": "2023/06/14/13112714.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-131127-2e012e0badea-82a9a4b9f042.jpg"
         },
         {
           "id": 67734,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13260614.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13260614.jpg",
-          "thumb": "albums/hawaii/thumb/13260614.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-132606-13c548376041-64c6c27409c4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-132606-13c548376041-64c6c27409c4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-132606-13c548376041-64c6c27409c4.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Blake checks out a fossilized dune on the modern beach at Mo'omomi",
@@ -3052,13 +3052,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/13260614.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-132606-13c548376041-64c6c27409c4.jpg"
         },
         {
           "id": 67743,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13294514.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13294514.jpg",
-          "thumb": "albums/hawaii/thumb/13294514.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-132945-a8a4aa0d12e8-7535e97660b6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-132945-a8a4aa0d12e8-7535e97660b6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-132945-a8a4aa0d12e8-7535e97660b6.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A beautiful fossilized dune surrounded by modern beach sands with wind ripples on the coast of Moloka'i",
@@ -3075,13 +3075,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/13294514.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-132945-a8a4aa0d12e8-7535e97660b6.jpg"
         },
         {
           "id": 67745,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13305914.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13305914.jpg",
-          "thumb": "albums/hawaii/thumb/13305914.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-133059-55d510e27688-c35bdfbf1c4e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-133059-55d510e27688-c35bdfbf1c4e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-133059-55d510e27688-c35bdfbf1c4e.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A beautiful fossilized dune surrounded by modern beach sands with wind ripples on the coast of Moloka'i",
@@ -3098,13 +3098,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/13305914.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-133059-55d510e27688-c35bdfbf1c4e.jpg"
         },
         {
           "id": 67747,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13315114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13315114.jpg",
-          "thumb": "albums/hawaii/thumb/13315114.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-133151-3c1c6e191efe-27b320e956f6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-133151-3c1c6e191efe-27b320e956f6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-133151-3c1c6e191efe-27b320e956f6.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A beautiful fossilized dune surrounded by modern beach sands with wind ripples on the coast of Moloka'i",
@@ -3121,13 +3121,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/13315114.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-133151-3c1c6e191efe-27b320e956f6.jpg"
         },
         {
           "id": 67748,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13325914.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13325914.jpg",
-          "thumb": "albums/hawaii/thumb/13325914.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-133259-8a8d156fd6bb-8a9c24165575.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-133259-8a8d156fd6bb-8a9c24165575.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-133259-8a8d156fd6bb-8a9c24165575.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A fossil dune peaks out of modern beach sands on the coast of Moloka'i",
@@ -3144,13 +3144,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/13325914.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-133259-8a8d156fd6bb-8a9c24165575.jpg"
         },
         {
           "id": 67749,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13584414.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/13584414.jpg",
-          "thumb": "albums/hawaii/thumb/13584414.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-135844-8649fb7518c4-41b2327ff602.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-135844-8649fb7518c4-41b2327ff602.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-135844-8649fb7518c4-41b2327ff602.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Waves erode fossil dunes on the high-energy coastline of Moloka'i",
@@ -3167,13 +3167,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/13584414.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-135844-8649fb7518c4-41b2327ff602.jpg"
         },
         {
           "id": 67754,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14020614.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14020614.jpg",
-          "thumb": "albums/hawaii/thumb/14020614.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-140206-d5aa6e247ddf-38e4dedca7e8.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-140206-d5aa6e247ddf-38e4dedca7e8.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-140206-d5aa6e247ddf-38e4dedca7e8.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Modern dunes abut fossil dunes on the coast of Moloka'i",
@@ -3190,13 +3190,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/14020614.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-140206-d5aa6e247ddf-38e4dedca7e8.jpg"
         },
         {
           "id": 67756,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14055714.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14055714.jpg",
-          "thumb": "albums/hawaii/thumb/14055714.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-140557-be12c7285cd7-fb106891873b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-140557-be12c7285cd7-fb106891873b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-140557-be12c7285cd7-fb106891873b.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Roger perches on top of a fossil dune at Mo'omomi Beach",
@@ -3216,13 +3216,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Roger Creel"
           ],
-          "archive_path": "2023/06/14/14055714.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-140557-be12c7285cd7-fb106891873b.jpg"
         },
         {
           "id": 67763,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14273514.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14273514.jpg",
-          "thumb": "albums/hawaii/thumb/14273514.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-142735-27962330315d-835cff6bde5b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-142735-27962330315d-835cff6bde5b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-142735-27962330315d-835cff6bde5b.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Interbedded mud and sand at Mo'omomi likely were deposited in a terrestrial environment (e.g., a creek)",
@@ -3238,13 +3238,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mo'omomi"
           ],
-          "archive_path": "2023/06/14/14273514.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-142735-27962330315d-835cff6bde5b.jpg"
         },
         {
           "id": 67765,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14410914.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14410914.jpg",
-          "thumb": "albums/hawaii/thumb/14410914.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-144109-2c79fd880dad-c031e5f8c747.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-144109-2c79fd880dad-c031e5f8c747.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-144109-2c79fd880dad-c031e5f8c747.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Checking out interbedded mud and sand deposits along the coast at Mo'omomi",
@@ -3265,13 +3265,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Moloka'i",
             "People"
           ],
-          "archive_path": "2023/06/14/14410914.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-144109-2c79fd880dad-c031e5f8c747.jpg"
         },
         {
           "id": 67766,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14413014.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14413014.jpg",
-          "thumb": "albums/hawaii/thumb/14413014.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-144130-dbdbfdded61e-0ff984e29728.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-144130-dbdbfdded61e-0ff984e29728.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-144130-dbdbfdded61e-0ff984e29728.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A channel cuts through fossil sands",
@@ -3290,13 +3290,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "People"
           ],
-          "archive_path": "2023/06/14/14413014.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-144130-dbdbfdded61e-0ff984e29728.jpg"
         },
         {
           "id": 67772,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14430114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/14430114.jpg",
-          "thumb": "albums/hawaii/thumb/14430114.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-144301-8d04112d3c4c-fd3b4cb89d35.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-144301-8d04112d3c4c-fd3b4cb89d35.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-144301-8d04112d3c4c-fd3b4cb89d35.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "The team discusses an outcrop at Mo'omomi",
@@ -3319,13 +3319,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/14/14430114.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-144301-8d04112d3c4c-fd3b4cb89d35.jpg"
         },
         {
           "id": 67794,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/18022014.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/18022014.jpg",
-          "thumb": "albums/hawaii/thumb/18022014.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-180220-c53c907e3368-3d5951e2a630.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-180220-c53c907e3368-3d5951e2a630.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-180220-c53c907e3368-3d5951e2a630.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Wind ripples on a modern dune",
@@ -3342,13 +3342,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "Moloka'i"
           ],
-          "archive_path": "2023/06/14/18022014.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-180220-c53c907e3368-3d5951e2a630.jpg"
         },
         {
           "id": 67800,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/18334614.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/14/18334614.jpg",
-          "thumb": "albums/hawaii/thumb/18334614.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-183346-19b6ffcc6730-bca3c70f3d64.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/14/20230614-183346-19b6ffcc6730-bca3c70f3d64.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/14/20230614-183346-19b6ffcc6730-bca3c70f3d64.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Modern analog (terrestrial creek/channel) for interbedded mud and sand outcrop at Mo'omomi",
@@ -3365,13 +3365,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mo'omomi",
             "Moloka'i"
           ],
-          "archive_path": "2023/06/14/18334614.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/14/20230614-183346-19b6ffcc6730-bca3c70f3d64.jpg"
         },
         {
           "id": 68300,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/15/13120815.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/15/13120815.jpg",
-          "thumb": "albums/hawaii/thumb/13120815.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/15/20230615-131208-8d76d542d57a-a84a783ceebc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/15/20230615-131208-8d76d542d57a-a84a783ceebc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/15/20230615-131208-8d76d542d57a-a84a783ceebc.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "View of Maui (left) and Lana'i (right) from our lunch spot on Moloka'i",
@@ -3387,13 +3387,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Moloka'i"
           ],
-          "archive_path": "2023/06/15/13120815.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/15/20230615-131208-8d76d542d57a-a84a783ceebc.jpg"
         },
         {
           "id": 68302,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/15/14412015.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/15/14412015.jpg",
-          "thumb": "albums/hawaii/thumb/14412015.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/15/20230615-144120-672cb4cc628e-a910ef1b4736.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/15/20230615-144120-672cb4cc628e-a910ef1b4736.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/15/20230615-144120-672cb4cc628e-a910ef1b4736.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Billy shares the view through his hand lens",
@@ -3413,13 +3413,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Steve Goldstein"
           ],
-          "archive_path": "2023/06/15/14412015.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/15/20230615-144120-672cb4cc628e-a910ef1b4736.jpg"
         },
         {
           "id": 68324,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/16/11261216.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/16/11261216.jpg",
-          "thumb": "albums/hawaii/thumb/11261216.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/16/20230616-112612-9c4ba7a699b6-eefea197144d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/16/20230616-112612-9c4ba7a699b6-eefea197144d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/16/20230616-112612-9c4ba7a699b6-eefea197144d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Cast of a pillow basalt that weathered out of an outcrop at Ilio Point",
@@ -3435,13 +3435,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Ilio Point",
             "Locations"
           ],
-          "archive_path": "2023/06/16/11261216.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/16/20230616-112612-9c4ba7a699b6-eefea197144d.jpg"
         },
         {
           "id": 68363,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/16/13380216.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/16/13380216.jpg",
-          "thumb": "albums/hawaii/thumb/13380216.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/16/20230616-133802-680569a804b3-9ed9d877ca4e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/16/20230616-133802-680569a804b3-9ed9d877ca4e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/16/20230616-133802-680569a804b3-9ed9d877ca4e.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Fossil dune with soil horizon",
@@ -3458,13 +3458,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Ilio Point",
             "Locations"
           ],
-          "archive_path": "2023/06/16/13380216.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/16/20230616-133802-680569a804b3-9ed9d877ca4e.jpg"
         },
         {
           "id": 68368,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/16/13522716.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/16/13522716.jpg",
-          "thumb": "albums/hawaii/thumb/13522716.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/16/20230616-135227-a5d20c9e2b81-09498b0810af.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/16/20230616-135227-a5d20c9e2b81-09498b0810af.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/16/20230616-135227-a5d20c9e2b81-09498b0810af.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Fossil dune draping basalt boulders along a modern boulder beach",
@@ -3483,13 +3483,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Sam Chester"
           ],
-          "archive_path": "2023/06/16/13522716.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/16/20230616-135227-a5d20c9e2b81-09498b0810af.jpg"
         },
         {
           "id": 68369,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/16/13535616.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/16/13535616.jpg",
-          "thumb": "albums/hawaii/thumb/13535616.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/16/20230616-135356-b7bda471f8f8-4387ceef5d05.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/16/20230616-135356-b7bda471f8f8-4387ceef5d05.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/16/20230616-135356-b7bda471f8f8-4387ceef5d05.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Abundant root casts in fossil aeolianite at Ilio Point",
@@ -3508,13 +3508,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "root casts"
           ],
-          "archive_path": "2023/06/16/13535616.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/16/20230616-135356-b7bda471f8f8-4387ceef5d05.jpg"
         },
         {
           "id": 68417,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/16/16323916.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2023/06/16/16323916.jpg",
-          "thumb": "albums/hawaii/thumb/16323916.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/16/20230616-163239-6ab5b160b3dc-dcb3ba48877d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2023/06/16/20230616-163239-6ab5b160b3dc-dcb3ba48877d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2023/06/16/20230616-163239-6ab5b160b3dc-dcb3ba48877d.jpg",
           "width": 4032,
           "height": 3024,
           "caption": "Steep sea cliffs on the coast of Moloka'i",
@@ -3530,7 +3530,7 @@ window.EARTH_HISTORY_GALLERIES = {
             "Ilio Point",
             "Locations"
           ],
-          "archive_path": "2023/06/16/16323916.jpg"
+          "archive_path": "web/photo-system/v1/full/2023/06/16/20230616-163239-6ab5b160b3dc-dcb3ba48877d.jpg"
         }
       ]
     },
@@ -3544,14 +3544,14 @@ window.EARTH_HISTORY_GALLERIES = {
       ],
       "meta": "May 2022 - June 2022 \u00b7 79 photos",
       "dateRange": "May 2022 - June 2022",
-      "heroImage": "albums/western-us-devonian/thumb/08194216.jpg",
+      "heroImage": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/16/20220616-081942-a7b1583475c6-5c7d9b421e60.jpg",
       "filename": "western_us_devonian.html",
       "photos": [
         {
           "id": 34328,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/16/08194216.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/16/08194216.jpg",
-          "thumb": "albums/western-us-devonian/thumb/08194216.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/16/20220616-081942-a7b1583475c6-5c7d9b421e60.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/16/20220616-081942-a7b1583475c6-5c7d9b421e60.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/16/20220616-081942-a7b1583475c6-5c7d9b421e60.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Oddly preserved stromatoporoids in the Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S309)",
@@ -3574,13 +3574,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatoporoid",
             "Western US"
           ],
-          "archive_path": "2022/06/16/08194216.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/16/20220616-081942-a7b1583475c6-5c7d9b421e60.jpg"
         },
         {
           "id": 34339,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/16/08221116.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/16/08221116.jpg",
-          "thumb": "albums/western-us-devonian/thumb/08221116.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/16/20220616-082211-9d4469fb290b-f674b2336041.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/16/20220616-082211-9d4469fb290b-f674b2336041.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/16/20220616-082211-9d4469fb290b-f674b2336041.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Stromatoporoids in the Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S309)",
@@ -3603,13 +3603,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatoporoid",
             "Western US"
           ],
-          "archive_path": "2022/06/16/08221116.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/16/20220616-082211-9d4469fb290b-f674b2336041.jpg"
         },
         {
           "id": 34457,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/10421623.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/10421623.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10421623.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-104216-44e8afb0a9f6-d294ab052739.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-104216-44e8afb0a9f6-d294ab052739.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/23/20220523-104216-44e8afb0a9f6-d294ab052739.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Oncoid bed in the Devonian Guilmette Formation, Hancock Summit West, Pahranagat Range",
@@ -3630,13 +3630,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pahranagat Range",
             "Western US"
           ],
-          "archive_path": "2022/05/23/10421623.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/23/20220523-104216-44e8afb0a9f6-d294ab052739.jpg"
         },
         {
           "id": 34459,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/10423723.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/10423723.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10423723.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-104237-e2dd6305d7c7-af9894008769.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-104237-e2dd6305d7c7-af9894008769.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/23/20220523-104237-e2dd6305d7c7-af9894008769.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Oncoids with beautiful laminations in the Devonian Guilmette Formation, Hancock Summit West, Pahranagat Range",
@@ -3657,13 +3657,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pahranagat Range",
             "Western US"
           ],
-          "archive_path": "2022/05/23/10423723.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/23/20220523-104237-e2dd6305d7c7-af9894008769.jpg"
         },
         {
           "id": 34515,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/30/10024530.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/30/10024530.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10024530.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/30/20220530-100245-f4e2c2ebb25a-8247a1f56cbf.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/30/20220530-100245-f4e2c2ebb25a-8247a1f56cbf.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/30/20220530-100245-f4e2c2ebb25a-8247a1f56cbf.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Oncoids in the Devonian Guilmette Formation, Gap Mountain (S303)",
@@ -3686,13 +3686,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/05/30/10024530.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/30/20220530-100245-f4e2c2ebb25a-8247a1f56cbf.jpg"
         },
         {
           "id": 34582,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/11004931.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/11004931.jpg",
-          "thumb": "albums/western-us-devonian/thumb/11004931.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-110049-31d1b6eeba87-2d3ffedc348c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-110049-31d1b6eeba87-2d3ffedc348c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/31/20220531-110049-31d1b6eeba87-2d3ffedc348c.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Tabular stromatoporoid in the Devonian Guilmette Formation, Gap Mountain (S304)",
@@ -3714,13 +3714,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatoporoid",
             "Western US"
           ],
-          "archive_path": "2022/05/31/11004931.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/31/20220531-110049-31d1b6eeba87-2d3ffedc348c.jpg"
         },
         {
           "id": 34591,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/11095531.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/11095531.jpg",
-          "thumb": "albums/western-us-devonian/thumb/11095531.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-110955-c0b0365438a6-e033fcb383e0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-110955-c0b0365438a6-e033fcb383e0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/31/20220531-110955-c0b0365438a6-e033fcb383e0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Amphipora (branching stromatoporoid) grainstone, Devonian Guilmette Formation, Gap Mountain (S304)",
@@ -3742,13 +3742,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/05/31/11095531.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/31/20220531-110955-c0b0365438a6-e033fcb383e0.jpg"
         },
         {
           "id": 34675,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/03/11240703.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/03/11240703.jpg",
-          "thumb": "albums/western-us-devonian/thumb/11240703.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/03/20220603-112407-e61252fe7b87-5295e6b07458.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/03/20220603-112407-e61252fe7b87-5295e6b07458.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/03/20220603-112407-e61252fe7b87-5295e6b07458.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thamnopora corals, Devonian Guilmette Formation, Gap Mountain (S305)",
@@ -3771,13 +3771,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "thamnopora",
             "Western US"
           ],
-          "archive_path": "2022/06/03/11240703.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/03/20220603-112407-e61252fe7b87-5295e6b07458.jpg"
         },
         {
           "id": 34704,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/04/10224404.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/04/10224404.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10224404.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/04/20220604-102244-17dc20b3e138-42a6d6975860.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/04/20220604-102244-17dc20b3e138-42a6d6975860.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/04/20220604-102244-17dc20b3e138-42a6d6975860.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Oddly shaped stromatoporoid in the Devonian Guilmette Formation, Gap Mountain (S305)",
@@ -3799,13 +3799,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatoporoid",
             "Western US"
           ],
-          "archive_path": "2022/06/04/10224404.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/04/20220604-102244-17dc20b3e138-42a6d6975860.jpg"
         },
         {
           "id": 34834,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/10395409.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/10395409.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10395409.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-103954-5b7fb1b3d8b1-3f2ca4e5ba43.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-103954-5b7fb1b3d8b1-3f2ca4e5ba43.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-103954-5b7fb1b3d8b1-3f2ca4e5ba43.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thamnopora coral, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S307)",
@@ -3829,13 +3829,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "thamnopora",
             "Western US"
           ],
-          "archive_path": "2022/06/09/10395409.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-103954-5b7fb1b3d8b1-3f2ca4e5ba43.jpg"
         },
         {
           "id": 34848,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/11201709.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/11201709.jpg",
-          "thumb": "albums/western-us-devonian/thumb/11201709.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-112017-64c1b2aac027-2d64a3fce92f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-112017-64c1b2aac027-2d64a3fce92f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-112017-64c1b2aac027-2d64a3fce92f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Tidal flat laminite with rip-ups and mud chips (Gap Mountain, S307)",
@@ -3856,13 +3856,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/09/11201709.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-112017-64c1b2aac027-2d64a3fce92f.jpg"
         },
         {
           "id": 34860,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/09385310.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/09385310.jpg",
-          "thumb": "albums/western-us-devonian/thumb/09385310.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-093853-a38abebdbb7b-994200867b7a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-093853-a38abebdbb7b-994200867b7a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/10/20220610-093853-a38abebdbb7b-994200867b7a.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thamnopora coral, Guilmette Formation, Sidehill Pass, Schell Creek Range",
@@ -3886,13 +3886,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "thamnopora",
             "Western US"
           ],
-          "archive_path": "2022/06/10/09385310.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/10/20220610-093853-a38abebdbb7b-994200867b7a.jpg"
         },
         {
           "id": 34863,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/09390810.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/09390810.jpg",
-          "thumb": "albums/western-us-devonian/thumb/09390810.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-093908-150e833eae61-fa370fa23b49.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-093908-150e833eae61-fa370fa23b49.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/10/20220610-093908-150e833eae61-fa370fa23b49.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thamnopora coral, Guilmette Formation, Sidehill Pass, Schell Creek Range",
@@ -3916,13 +3916,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "thamnopora",
             "Western US"
           ],
-          "archive_path": "2022/06/10/09390810.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/10/20220610-093908-150e833eae61-fa370fa23b49.jpg"
         },
         {
           "id": 34909,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/09443511.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/09443511.jpg",
-          "thumb": "albums/western-us-devonian/thumb/09443511.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-094435-cacc3918d4f8-be7baecc957d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-094435-cacc3918d4f8-be7baecc957d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-094435-cacc3918d4f8-be7baecc957d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Laterally extensive breccia, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S307)",
@@ -3944,13 +3944,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/11/09443511.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-094435-cacc3918d4f8-be7baecc957d.jpg"
         },
         {
           "id": 34918,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/10053211.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/10053211.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10053211.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-100532-848cb1295b82-460478ad6eb7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-100532-848cb1295b82-460478ad6eb7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-100532-848cb1295b82-460478ad6eb7.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Mudstone -> mudstone-argillite interbeds -> laminated peloidal mudstone -> wackestone. Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S307)",
@@ -3971,13 +3971,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/11/10053211.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-100532-848cb1295b82-460478ad6eb7.jpg"
         },
         {
           "id": 34928,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/10243411.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/10243411.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10243411.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-102434-f30dba1f2918-50479fab8869.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-102434-f30dba1f2918-50479fab8869.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-102434-f30dba1f2918-50479fab8869.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Tabulate coral in the Devonian Guilmette Formation, Schell Creek Range",
@@ -4000,13 +4000,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/11/10243411.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-102434-f30dba1f2918-50479fab8869.jpg"
         },
         {
           "id": 34941,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/10505211.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/10505211.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10505211.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-105052-0c038a62ec4d-99a8ddb5f59e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-105052-0c038a62ec4d-99a8ddb5f59e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-105052-0c038a62ec4d-99a8ddb5f59e.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Laminated fine peloidal grainstone, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S307)",
@@ -4028,13 +4028,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/11/10505211.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-105052-0c038a62ec4d-99a8ddb5f59e.jpg"
         },
         {
           "id": 34954,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/11274011.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/11274011.jpg",
-          "thumb": "albums/western-us-devonian/thumb/11274011.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-112740-50fd44820a4c-c44967a6c498.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-112740-50fd44820a4c-c44967a6c498.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-112740-50fd44820a4c-c44967a6c498.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Recrystallized grainstone --> fine peloidal grainstone --> interbedded mustone and peloidal grainstone -> mudstone --> tidal flat laminite, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S307)",
@@ -4060,13 +4060,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/11/11274011.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-112740-50fd44820a4c-c44967a6c498.jpg"
         },
         {
           "id": 34966,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/12/10554112.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/12/10554112.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10554112.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/12/20220612-105541-eb9e99e9eacf-068631ae6419.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/12/20220612-105541-eb9e99e9eacf-068631ae6419.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/12/20220612-105541-eb9e99e9eacf-068631ae6419.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Cross sections through rugose coral, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S308)",
@@ -4091,13 +4091,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/12/10554112.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/12/20220612-105541-eb9e99e9eacf-068631ae6419.jpg"
         },
         {
           "id": 34972,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/10331715.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/10331715.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10331715.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-103317-d9a6600d415b-4e6e26dd7f38.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-103317-d9a6600d415b-4e6e26dd7f38.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-103317-d9a6600d415b-4e6e26dd7f38.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thamnopora (branching coral) and brachiopod packstone, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S309)",
@@ -4120,13 +4120,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "thamnopora",
             "Western US"
           ],
-          "archive_path": "2022/06/15/10331715.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-103317-d9a6600d415b-4e6e26dd7f38.jpg"
         },
         {
           "id": 34976,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/10334615.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/10334615.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10334615.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-103346-6db3f013ac1e-b2213235c4af.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-103346-6db3f013ac1e-b2213235c4af.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-103346-6db3f013ac1e-b2213235c4af.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thamnopora (branching coral) and brachiopod packstone, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S309)",
@@ -4147,13 +4147,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/15/10334615.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-103346-6db3f013ac1e-b2213235c4af.jpg"
         },
         {
           "id": 35018,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/10114318.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/10114318.jpg",
-          "thumb": "albums/western-us-devonian/thumb/10114318.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-101143-4ba41c49c644-f177a4d2e478.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-101143-4ba41c49c644-f177a4d2e478.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/18/20220618-101143-4ba41c49c644-f177a4d2e478.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Limestone-argillite interbeds, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S310)",
@@ -4174,13 +4174,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/18/10114318.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/18/20220618-101143-4ba41c49c644-f177a4d2e478.jpg"
         },
         {
           "id": 35049,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/19/09514319.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/19/09514319.jpg",
-          "thumb": "albums/western-us-devonian/thumb/09514319.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/19/20220619-095143-7a10fc3bab30-c9ec3edec579.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/19/20220619-095143-7a10fc3bab30-c9ec3edec579.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/19/20220619-095143-7a10fc3bab30-c9ec3edec579.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Burrow mottled mudstone and wackestone with whole brachiopods, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S310)",
@@ -4201,13 +4201,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/19/09514319.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/19/20220619-095143-7a10fc3bab30-c9ec3edec579.jpg"
         },
         {
           "id": 35506,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/11372723.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/11372723.jpg",
-          "thumb": "albums/western-us-devonian/thumb/11372723.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-113727-4ba613af8240-9c585aab3bb8.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-113727-4ba613af8240-9c585aab3bb8.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/23/20220523-113727-4ba613af8240-9c585aab3bb8.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Guilmette Formation to east of Hancock Summit West, Pahranagat Range",
@@ -4226,13 +4226,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pahranagat Range",
             "Western US"
           ],
-          "archive_path": "2022/05/23/11372723.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/23/20220523-113727-4ba613af8240-9c585aab3bb8.jpg"
         },
         {
           "id": 35515,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/11393323.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/11393323.jpg",
-          "thumb": "albums/western-us-devonian/thumb/11393323.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-113933-40f73ed97801-f92eca230e04.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-113933-40f73ed97801-f92eca230e04.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/23/20220523-113933-40f73ed97801-f92eca230e04.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Connor tracing a bed over to the next ridge in the Pahranagat Range",
@@ -4253,13 +4253,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Western US"
           ],
-          "archive_path": "2022/05/23/11393323.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/23/20220523-113933-40f73ed97801-f92eca230e04.jpg"
         },
         {
           "id": 35582,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/29/13400729.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/29/13400729.jpg",
-          "thumb": "albums/western-us-devonian/thumb/13400729.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/29/20220529-134007-03026d55de7d-4ce44a5ff187.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/29/20220529-134007-03026d55de7d-4ce44a5ff187.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/29/20220529-134007-03026d55de7d-4ce44a5ff187.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Beautifully preserved tabular stromatoporoid in the Devonian Guilmette Formation, Gap Mountain (S303)",
@@ -4281,13 +4281,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatoporoid",
             "Western US"
           ],
-          "archive_path": "2022/05/29/13400729.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/29/20220529-134007-03026d55de7d-4ce44a5ff187.jpg"
         },
         {
           "id": 35605,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/30/13242630.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/30/13242630.jpg",
-          "thumb": "albums/western-us-devonian/thumb/13242630.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/30/20220530-132426-561c6d4688e4-b81c5da49dce.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/30/20220530-132426-561c6d4688e4-b81c5da49dce.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/30/20220530-132426-561c6d4688e4-b81c5da49dce.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thin tidal laminite capping mudstone in S303 (Gap Mountain)",
@@ -4307,13 +4307,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/05/30/13242630.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/30/20220530-132426-561c6d4688e4-b81c5da49dce.jpg"
         },
         {
           "id": 35621,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/13243331.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/13243331.jpg",
-          "thumb": "albums/western-us-devonian/thumb/13243331.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-132433-dea003cc282b-0b75b3f2ff95.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-132433-dea003cc282b-0b75b3f2ff95.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/31/20220531-132433-dea003cc282b-0b75b3f2ff95.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Storm bed in the Devonian Guilmette Formation, Gap Mountain",
@@ -4333,13 +4333,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/05/31/13243331.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/31/20220531-132433-dea003cc282b-0b75b3f2ff95.jpg"
         },
         {
           "id": 36278,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/03/11463903.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/03/11463903.jpg",
-          "thumb": "albums/western-us-devonian/thumb/11463903.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/03/20220603-114639-07f397ba8c79-62ae412cf0f5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/03/20220603-114639-07f397ba8c79-62ae412cf0f5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/03/20220603-114639-07f397ba8c79-62ae412cf0f5.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Oncoids in the Devonian Guilmette Formation, Gap Mountain (S305)",
@@ -4361,13 +4361,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/06/03/11463903.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/03/20220603-114639-07f397ba8c79-62ae412cf0f5.jpg"
         },
         {
           "id": 36293,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/03/12395303.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/03/12395303.jpg",
-          "thumb": "albums/western-us-devonian/thumb/12395303.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/03/20220603-123953-8b85fd31baff-e164844a2f83.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/03/20220603-123953-8b85fd31baff-e164844a2f83.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/03/20220603-123953-8b85fd31baff-e164844a2f83.jpg",
           "width": 3000,
           "height": 4000,
           "caption": "Stromatoporoids tumble over one another in the Devonian Guilmette Formation, Gap Mountain (S305)",
@@ -4389,13 +4389,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatoporoid",
             "Western US"
           ],
-          "archive_path": "2022/06/03/12395303.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/03/20220603-123953-8b85fd31baff-e164844a2f83.jpg"
         },
         {
           "id": 36295,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/03/13244803.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/03/13244803.jpg",
-          "thumb": "albums/western-us-devonian/thumb/13244803.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/03/20220603-132448-52d3bdd94e8e-3b05d0729980.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/03/20220603-132448-52d3bdd94e8e-3b05d0729980.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/03/20220603-132448-52d3bdd94e8e-3b05d0729980.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Abundant rugose corals, Devonian Guilmette Formation, Gap Mountain (S305)",
@@ -4419,13 +4419,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/06/03/13244803.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/03/20220603-132448-52d3bdd94e8e-3b05d0729980.jpg"
         },
         {
           "id": 36304,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/03/13280503.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/03/13280503.jpg",
-          "thumb": "albums/western-us-devonian/thumb/13280503.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/03/20220603-132805-b3fcc879be99-ad8f08c7e0ae.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/03/20220603-132805-b3fcc879be99-ad8f08c7e0ae.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/03/20220603-132805-b3fcc879be99-ad8f08c7e0ae.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Abundant rugose corals on bedding plane, Devonian Guilmette Formation, Gap Mountain (S305)",
@@ -4449,13 +4449,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/06/03/13280503.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/03/20220603-132805-b3fcc879be99-ad8f08c7e0ae.jpg"
         },
         {
           "id": 37294,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/13463310.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/13463310.jpg",
-          "thumb": "albums/western-us-devonian/thumb/13463310.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-134633-e18f7212e51e-921a61e8437b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-134633-e18f7212e51e-921a61e8437b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/10/20220610-134633-e18f7212e51e-921a61e8437b.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Gastropods on bedding plane, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S307)",
@@ -4478,13 +4478,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/10/13463310.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/10/20220610-134633-e18f7212e51e-921a61e8437b.jpg"
         },
         {
           "id": 37300,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/12210711.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/12210711.jpg",
-          "thumb": "albums/western-us-devonian/thumb/12210711.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-122107-cf5c32193388-b98117d58198.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-122107-cf5c32193388-b98117d58198.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-122107-cf5c32193388-b98117d58198.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Dolostone and cement veins, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S307)",
@@ -4505,13 +4505,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/11/12210711.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-122107-cf5c32193388-b98117d58198.jpg"
         },
         {
           "id": 37305,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/13443611.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/13443611.jpg",
-          "thumb": "albums/western-us-devonian/thumb/13443611.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-134436-71256e6caaf6-e4764768bbf3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-134436-71256e6caaf6-e4764768bbf3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-134436-71256e6caaf6-e4764768bbf3.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Erosive contact?",
@@ -4533,13 +4533,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/11/13443611.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-134436-71256e6caaf6-e4764768bbf3.jpg"
         },
         {
           "id": 37319,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/12461514.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/12461514.jpg",
-          "thumb": "albums/western-us-devonian/thumb/12461514.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-124615-86cf6a9d41f6-05e89a3e1ac5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-124615-86cf6a9d41f6-05e89a3e1ac5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/14/20220614-124615-86cf6a9d41f6-05e89a3e1ac5.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Recessive contact between amphipora grainstone and shelly wackestone, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S308)",
@@ -4560,13 +4560,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/14/12461514.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/14/20220614-124615-86cf6a9d41f6-05e89a3e1ac5.jpg"
         },
         {
           "id": 37335,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/12020415.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/12020415.jpg",
-          "thumb": "albums/western-us-devonian/thumb/12020415.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-120204-8feaf325f172-f0f4e7cd58d9.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-120204-8feaf325f172-f0f4e7cd58d9.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-120204-8feaf325f172-f0f4e7cd58d9.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Large stromatoporoid or stromatolite in upper 0.45 m of bed, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range",
@@ -4589,13 +4589,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatolite",
             "Western US"
           ],
-          "archive_path": "2022/06/15/12020415.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-120204-8feaf325f172-f0f4e7cd58d9.jpg"
         },
         {
           "id": 37345,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/12121315.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/12121315.jpg",
-          "thumb": "albums/western-us-devonian/thumb/12121315.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-121213-dc3dc27f8fdb-333a29b3364a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-121213-dc3dc27f8fdb-333a29b3364a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-121213-dc3dc27f8fdb-333a29b3364a.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Possible truncated laminations in stromatolite/stromatoporoid (possibly implying a microbial origin).",
@@ -4618,13 +4618,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatolite",
             "Western US"
           ],
-          "archive_path": "2022/06/15/12121315.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-121213-dc3dc27f8fdb-333a29b3364a.jpg"
         },
         {
           "id": 37349,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/12173215.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/12173215.jpg",
-          "thumb": "albums/western-us-devonian/thumb/12173215.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-121732-2e392190cbbe-602bf6874390.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-121732-2e392190cbbe-602bf6874390.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-121732-2e392190cbbe-602bf6874390.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Top of bedding plane with large Devonian stromatolite",
@@ -4647,13 +4647,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatolite",
             "Western US"
           ],
-          "archive_path": "2022/06/15/12173215.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-121732-2e392190cbbe-602bf6874390.jpg"
         },
         {
           "id": 37359,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/12310115.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/12310115.jpg",
-          "thumb": "albums/western-us-devonian/thumb/12310115.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-123101-1cc006f2dc4c-159de1370245.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-123101-1cc006f2dc4c-159de1370245.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-123101-1cc006f2dc4c-159de1370245.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thinly bedded, papery-weathering wackestone in the Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S309)",
@@ -4674,13 +4674,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/15/12310115.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-123101-1cc006f2dc4c-159de1370245.jpg"
         },
         {
           "id": 37385,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/12310518.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/12310518.jpg",
-          "thumb": "albums/western-us-devonian/thumb/12310518.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-123105-701e2f15f59e-308b19f58436.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-123105-701e2f15f59e-308b19f58436.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/18/20220618-123105-701e2f15f59e-308b19f58436.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thin light gray/white tidal flat laminite overlying peloidal mudstone and underlying fine peloidal grainstone with amphipora. Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S310)",
@@ -4701,13 +4701,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/18/12310518.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/18/20220618-123105-701e2f15f59e-308b19f58436.jpg"
         },
         {
           "id": 37395,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/13490318.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/13490318.jpg",
-          "thumb": "albums/western-us-devonian/thumb/13490318.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-134903-c85541d88775-919c04e62305.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-134903-c85541d88775-919c04e62305.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/18/20220618-134903-c85541d88775-919c04e62305.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Lens of abundant amphipora at the base of a dolomitic mudstone, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S310)",
@@ -4730,13 +4730,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/18/13490318.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/18/20220618-134903-c85541d88775-919c04e62305.jpg"
         },
         {
           "id": 38148,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/14054110.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/14054110.jpg",
-          "thumb": "albums/western-us-devonian/thumb/14054110.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-140541-105fcef90a9f-b98ba50ee024.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-140541-105fcef90a9f-b98ba50ee024.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/10/20220610-140541-105fcef90a9f-b98ba50ee024.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A brachiopod peeks out of outcrop in the Schell Creek Range",
@@ -4759,13 +4759,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/10/14054110.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/10/20220610-140541-105fcef90a9f-b98ba50ee024.jpg"
         },
         {
           "id": 38351,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/05/14111105.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/05/14111105.jpg",
-          "thumb": "albums/western-us-devonian/thumb/14111105.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/05/20220605-141111-6bfd265ba960-8987cc3dc419.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/05/20220605-141111-6bfd265ba960-8987cc3dc419.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/05/20220605-141111-6bfd265ba960-8987cc3dc419.jpg",
           "width": 5472,
           "height": 3648,
           "caption": "Drone's view of the outcrop at Gap Mountain",
@@ -4783,13 +4783,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "S306",
             "Sections"
           ],
-          "archive_path": "2022/06/05/14111105.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/05/20220605-141111-6bfd265ba960-8987cc3dc419.jpg"
         },
         {
           "id": 38923,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14233809.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14233809.jpg",
-          "thumb": "albums/western-us-devonian/thumb/14233809.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-142338-c2dddf9e0ed6-3405588e7c84.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-142338-c2dddf9e0ed6-3405588e7c84.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-142338-c2dddf9e0ed6-3405588e7c84.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Gastropods in the Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S307)",
@@ -4812,13 +4812,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/09/14233809.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-142338-c2dddf9e0ed6-3405588e7c84.jpg"
         },
         {
           "id": 39117,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/14252815.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/14252815.jpg",
-          "thumb": "albums/western-us-devonian/thumb/14252815.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-142528-56a5b8e11f9e-8b67d4c8573e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-142528-56a5b8e11f9e-8b67d4c8573e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-142528-56a5b8e11f9e-8b67d4c8573e.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Tidal flat laminite in the Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S309)",
@@ -4839,13 +4839,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/15/14252815.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-142528-56a5b8e11f9e-8b67d4c8573e.jpg"
         },
         {
           "id": 39259,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/29/14304029.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/29/14304029.jpg",
-          "thumb": "albums/western-us-devonian/thumb/14304029.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/29/20220529-143040-f5059d03bc82-9d6a401c63f0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/29/20220529-143040-f5059d03bc82-9d6a401c63f0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/29/20220529-143040-f5059d03bc82-9d6a401c63f0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Stromatoporoids in a packstone matrix, Devonian Guilmette Formation, Gap Mountain (S303)",
@@ -4867,13 +4867,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatoporoid",
             "Western US"
           ],
-          "archive_path": "2022/05/29/14304029.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/29/20220529-143040-f5059d03bc82-9d6a401c63f0.jpg"
         },
         {
           "id": 40052,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/14494413.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/14494413.jpg",
-          "thumb": "albums/western-us-devonian/thumb/14494413.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-144944-b4551d26c1d5-1184d58d3acc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-144944-b4551d26c1d5-1184d58d3acc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-144944-b4551d26c1d5-1184d58d3acc.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Gastropods preserved in the Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S308)",
@@ -4896,13 +4896,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/13/14494413.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-144944-b4551d26c1d5-1184d58d3acc.jpg"
         },
         {
           "id": 40490,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/15305631.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/15305631.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15305631.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-153056-74df949b6af5-b9a389af9fcf.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-153056-74df949b6af5-b9a389af9fcf.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/31/20220531-153056-74df949b6af5-b9a389af9fcf.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Horizon of evaporite nodules (vugs) in the Devonian Guilmette Formation, Gap Mountain (S304)",
@@ -4924,13 +4924,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "vugs",
             "Western US"
           ],
-          "archive_path": "2022/05/31/15305631.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/31/20220531-153056-74df949b6af5-b9a389af9fcf.jpg"
         },
         {
           "id": 40498,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/15384431.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/15384431.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15384431.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-153844-d60078b82bb6-29c0bcfbb405.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-153844-d60078b82bb6-29c0bcfbb405.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/31/20220531-153844-d60078b82bb6-29c0bcfbb405.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Mud cracks on bedding plane in the Devonian Guilmette Formation, Gap Mountain",
@@ -4951,13 +4951,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/05/31/15384431.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/31/20220531-153844-d60078b82bb6-29c0bcfbb405.jpg"
         },
         {
           "id": 40580,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/12/15090812.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/12/15090812.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15090812.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/12/20220612-150908-1c8019c326bb-c5a6ef05685a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/12/20220612-150908-1c8019c326bb-c5a6ef05685a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/12/20220612-150908-1c8019c326bb-c5a6ef05685a.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Interbedded mudstone and fine grainstone, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S308)",
@@ -4978,13 +4978,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/12/15090812.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/12/20220612-150908-1c8019c326bb-c5a6ef05685a.jpg"
         },
         {
           "id": 40590,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/12/15303612.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/12/15303612.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15303612.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/12/20220612-153036-f8912074fe1a-eacd090396e0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/12/20220612-153036-f8912074fe1a-eacd090396e0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/12/20220612-153036-f8912074fe1a-eacd090396e0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Mottled packstone and mudstone transitions up into packstone-grainstone. Mottling decreases upward as beds become laminated. Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S308)",
@@ -5008,13 +5008,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/12/15303612.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/12/20220612-153036-f8912074fe1a-eacd090396e0.jpg"
         },
         {
           "id": 40599,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/15072513.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/15072513.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15072513.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-150725-d173524b6d72-f4f1362c3ee0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-150725-d173524b6d72-f4f1362c3ee0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-150725-d173524b6d72-f4f1362c3ee0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Interbedded limestone (wackestone) and marl facies, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S308)",
@@ -5035,13 +5035,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/13/15072513.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-150725-d173524b6d72-f4f1362c3ee0.jpg"
         },
         {
           "id": 40605,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/15173913.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/15173913.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15173913.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-151739-b3a2e6d38681-c5555ec37b28.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-151739-b3a2e6d38681-c5555ec37b28.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-151739-b3a2e6d38681-c5555ec37b28.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Tidal flat laminite facies, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S308)",
@@ -5062,13 +5062,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/13/15173913.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-151739-b3a2e6d38681-c5555ec37b28.jpg"
         },
         {
           "id": 40616,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/15405815.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/15405815.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15405815.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-154058-aa044e3c3a1c-49b969ead8fc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-154058-aa044e3c3a1c-49b969ead8fc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-154058-aa044e3c3a1c-49b969ead8fc.jpg",
           "width": 5472,
           "height": 3648,
           "caption": "Aerial view of the Guilmette Formation at Sidehill Pass",
@@ -5088,13 +5088,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Sidehill Pass"
           ],
-          "archive_path": "2022/06/15/15405815.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-154058-aa044e3c3a1c-49b969ead8fc.jpg"
         },
         {
           "id": 41999,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/15532023.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/15532023.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15532023.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-155320-dd0c27fc646e-4360d70a91c5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-155320-dd0c27fc646e-4360d70a91c5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/23/20220523-155320-dd0c27fc646e-4360d70a91c5.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "View of Hancock Summit West section, Pahranagat Range",
@@ -5113,13 +5113,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pahranagat Range",
             "Western US"
           ],
-          "archive_path": "2022/05/23/15532023.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/23/20220523-155320-dd0c27fc646e-4360d70a91c5.jpg"
         },
         {
           "id": 42004,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/15543623.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/15543623.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15543623.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-155436-ea785b00f8e7-e10f6a01d6c0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-155436-ea785b00f8e7-e10f6a01d6c0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/23/20220523-155436-ea785b00f8e7-e10f6a01d6c0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Gastropods/shells encased in carbonate nodules, Devonian Guilmette Formation, Pahranagat Range, NV.",
@@ -5140,13 +5140,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pahranagat Range",
             "Western US"
           ],
-          "archive_path": "2022/05/23/15543623.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/23/20220523-155436-ea785b00f8e7-e10f6a01d6c0.jpg"
         },
         {
           "id": 42010,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/15550623.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/15550623.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15550623.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-155506-b448c31bf080-f1be44185553.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-155506-b448c31bf080-f1be44185553.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/23/20220523-155506-b448c31bf080-f1be44185553.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Gastropods/shells encased in carbonate nodules, Devonian Guilmette Formation, Pahranagat Range, NV",
@@ -5167,13 +5167,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pahranagat Range",
             "Western US"
           ],
-          "archive_path": "2022/05/23/15550623.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/23/20220523-155506-b448c31bf080-f1be44185553.jpg"
         },
         {
           "id": 42358,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/15592323.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/23/15592323.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15592323.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-155923-a15fa3f7ae0e-7d8c50a4e8b4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/23/20220523-155923-a15fa3f7ae0e-7d8c50a4e8b4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/23/20220523-155923-a15fa3f7ae0e-7d8c50a4e8b4.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Climbing crossbeds in sandstone, Devonian Guilmette Formation, Pahranagat Range",
@@ -5193,13 +5193,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pahranagat Range",
             "Western US"
           ],
-          "archive_path": "2022/05/23/15592323.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/23/20220523-155923-a15fa3f7ae0e-7d8c50a4e8b4.jpg"
         },
         {
           "id": 42548,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/16194031.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/31/16194031.jpg",
-          "thumb": "albums/western-us-devonian/thumb/16194031.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-161940-a23990c4b0d2-d48647128c07.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/31/20220531-161940-a23990c4b0d2-d48647128c07.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/31/20220531-161940-a23990c4b0d2-d48647128c07.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Stromatoporoids and thamnopora corals in the Devonian Guilmette Formation, Gap Mountain (S304)",
@@ -5223,13 +5223,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "thamnopora",
             "Western US"
           ],
-          "archive_path": "2022/05/31/16194031.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/31/20220531-161940-a23990c4b0d2-d48647128c07.jpg"
         },
         {
           "id": 43086,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/16201818.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/16201818.jpg",
-          "thumb": "albums/western-us-devonian/thumb/16201818.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-162018-f41f1dec229b-a569ec4e3330.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-162018-f41f1dec229b-a569ec4e3330.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/18/20220618-162018-f41f1dec229b-a569ec4e3330.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Brecciated contact between tidal flat laminite and overlying grainstone, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S310)",
@@ -5251,13 +5251,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/18/16201818.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/18/20220618-162018-f41f1dec229b-a569ec4e3330.jpg"
         },
         {
           "id": 44936,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/17284914.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/17284914.jpg",
-          "thumb": "albums/western-us-devonian/thumb/17284914.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-172849-715cc9eba779-5b1baf59ba41.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-172849-715cc9eba779-5b1baf59ba41.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/14/20220614-172849-715cc9eba779-5b1baf59ba41.jpg",
           "width": 3000,
           "height": 4000,
           "caption": "Brecciated contact between tidal flat laminite and overlying grainstone in the Devonian Guilmette Formation, Schell Creek Range",
@@ -5279,13 +5279,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/14/17284914.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/14/20220614-172849-715cc9eba779-5b1baf59ba41.jpg"
         },
         {
           "id": 44938,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/17403514.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/17403514.jpg",
-          "thumb": "albums/western-us-devonian/thumb/17403514.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-174035-00407c7dbe99-289f4c0a601c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-174035-00407c7dbe99-289f4c0a601c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/14/20220614-174035-00407c7dbe99-289f4c0a601c.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Tidal flat laminite, Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S308)",
@@ -5306,13 +5306,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/14/17403514.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/14/20220614-174035-00407c7dbe99-289f4c0a601c.jpg"
         },
         {
           "id": 44958,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/17422217.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/17422217.jpg",
-          "thumb": "albums/western-us-devonian/thumb/17422217.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-174222-f3c3d4452c3e-082bc896ce19.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-174222-f3c3d4452c3e-082bc896ce19.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/17/20220617-174222-f3c3d4452c3e-082bc896ce19.jpg",
           "width": 3000,
           "height": 4000,
           "caption": "LS-DS-LS-DS sequence (hammer at base of lower limestone), all mudstone with wavy laminations (tidal flat laminite?). Devonian Guilmette Formation, Sidehill Pass, Schell Creek Range (S310)",
@@ -5334,13 +5334,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/17/17422217.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/17/20220617-174222-f3c3d4452c3e-082bc896ce19.jpg"
         },
         {
           "id": 51817,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/28/19422128.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/28/19422128.jpg",
-          "thumb": "albums/western-us-devonian/thumb/19422128.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/28/20220528-194221-a98da9063944-7bf50419d329.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/28/20220528-194221-a98da9063944-7bf50419d329.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/28/20220528-194221-a98da9063944-7bf50419d329.jpg",
           "width": 8000,
           "height": 6000,
           "caption": "View approaching Guilmette outcrop at Gap Mountain, NV.",
@@ -5359,13 +5359,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Western US"
           ],
-          "archive_path": "2022/05/28/19422128.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/28/20220528-194221-a98da9063944-7bf50419d329.jpg"
         },
         {
           "id": 51896,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/02/08233402.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/02/08233402.jpg",
-          "thumb": "albums/western-us-devonian/thumb/08233402.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/02/20220602-082334-44bf1effef61-89abeca8df17.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/02/20220602-082334-44bf1effef61-89abeca8df17.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/02/20220602-082334-44bf1effef61-89abeca8df17.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "A lizard sunbathes on carbonates of the Devonian Guilmette Formation at Gap Mountain.",
@@ -5382,13 +5382,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Western US"
           ],
-          "archive_path": "2022/06/02/08233402.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/02/20220602-082334-44bf1effef61-89abeca8df17.jpg"
         },
         {
           "id": 51933,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/05/15123205.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/05/15123205.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15123205.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/05/20220605-151232-e26fa4c78de3-f2c8dac8519a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/05/20220605-151232-e26fa4c78de3-f2c8dac8519a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/05/20220605-151232-e26fa4c78de3-f2c8dac8519a.jpg",
           "width": 8000,
           "height": 6000,
           "caption": "View of the Egan Range while working on Gap Mountain, NV.",
@@ -5406,13 +5406,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Western US"
           ],
-          "archive_path": "2022/06/05/15123205.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/05/20220605-151232-e26fa4c78de3-f2c8dac8519a.jpg"
         },
         {
           "id": 51960,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/05/19543905.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/05/19543905.jpg",
-          "thumb": "albums/western-us-devonian/thumb/19543905.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/05/20220605-195439-63311ee8a3ff-2838846693a4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/05/20220605-195439-63311ee8a3ff-2838846693a4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/05/20220605-195439-63311ee8a3ff-2838846693a4.jpg",
           "width": 6000,
           "height": 3376,
           "caption": "View of rainbows in the distance from camp at Gap Mountain, NV.",
@@ -5430,13 +5430,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "rainbow",
             "Western US"
           ],
-          "archive_path": "2022/06/05/19543905.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/05/20220605-195439-63311ee8a3ff-2838846693a4.jpg"
         },
         {
           "id": 51990,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/08/11285108.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/08/11285108.jpg",
-          "thumb": "albums/western-us-devonian/thumb/11285108.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/08/20220608-112851-f4be1753bf25-2d4337d73633.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/08/20220608-112851-f4be1753bf25-2d4337d73633.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/08/20220608-112851-f4be1753bf25-2d4337d73633.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "A lizard retreats beneath a rock on Guilmette outcrop in th Schell Creek Range.",
@@ -5454,13 +5454,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/08/11285108.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/08/20220608-112851-f4be1753bf25-2d4337d73633.jpg"
         },
         {
           "id": 52024,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/08/20124808.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/08/20124808.jpg",
-          "thumb": "albums/western-us-devonian/thumb/20124808.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/08/20220608-201248-66fff24165fa-8109ffb990b7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/08/20220608-201248-66fff24165fa-8109ffb990b7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/08/20220608-201248-66fff24165fa-8109ffb990b7.jpg",
           "width": 6000,
           "height": 3376,
           "caption": "Nightfall at camp in the Schell Creek Range.",
@@ -5479,13 +5479,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sunset",
             "Western US"
           ],
-          "archive_path": "2022/06/08/20124808.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/08/20220608-201248-66fff24165fa-8109ffb990b7.jpg"
         },
         {
           "id": 52060,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/19224314.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/19224314.jpg",
-          "thumb": "albums/western-us-devonian/thumb/19224314.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-192243-f78747535993-8a1a8126bb64.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-192243-f78747535993-8a1a8126bb64.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/14/20220614-192243-f78747535993-8a1a8126bb64.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Evening view of a section through the Guilmette Formation in the Schell Creek Range.",
@@ -5505,13 +5505,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/14/19224314.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/14/20220614-192243-f78747535993-8a1a8126bb64.jpg"
         },
         {
           "id": 52150,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/06211918.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/06211918.jpg",
-          "thumb": "albums/western-us-devonian/thumb/06211918.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-062119-b0aa0c7068c3-36acd6e5e969.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-062119-b0aa0c7068c3-36acd6e5e969.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/18/20220618-062119-b0aa0c7068c3-36acd6e5e969.jpg",
           "width": 6000,
           "height": 3376,
           "caption": "Sun breaks through storm clouds at camp in the Schell Creek Range.",
@@ -5529,13 +5529,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/18/06211918.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/18/20220618-062119-b0aa0c7068c3-36acd6e5e969.jpg"
         },
         {
           "id": 52171,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/12574318.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/12574318.jpg",
-          "thumb": "albums/western-us-devonian/thumb/12574318.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-125743-faacac22b4a9-5a196239b04e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-125743-faacac22b4a9-5a196239b04e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/18/20220618-125743-faacac22b4a9-5a196239b04e.jpg",
           "width": 8000,
           "height": 6000,
           "caption": "Looking out from a section through the Guilmette Formation, Sidehill Pass, Schell Creek Range.",
@@ -5555,13 +5555,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/18/12574318.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/18/20220618-125743-faacac22b4a9-5a196239b04e.jpg"
         },
         {
           "id": 52175,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/15483918.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/15483918.jpg",
-          "thumb": "albums/western-us-devonian/thumb/15483918.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-154839-f152d7ff16c6-368b68529355.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-154839-f152d7ff16c6-368b68529355.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/18/20220618-154839-f152d7ff16c6-368b68529355.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Kristyn looks at a rock in hand lens while measuring a section at Sidehill Pass.",
@@ -5582,13 +5582,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/18/15483918.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/18/20220618-154839-f152d7ff16c6-368b68529355.jpg"
         },
         {
           "id": 52178,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/18095018.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/18/18095018.jpg",
-          "thumb": "albums/western-us-devonian/thumb/18095018.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-180950-708253d6d461-b9cb03305d00.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/18/20220618-180950-708253d6d461-b9cb03305d00.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/18/20220618-180950-708253d6d461-b9cb03305d00.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Jerry and Kristyn trek back to camp at Sidehill Pass, Schell Creek Range, NV.",
@@ -5611,13 +5611,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/18/18095018.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/18/20220618-180950-708253d6d461-b9cb03305d00.jpg"
         },
         {
           "id": 52242,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/19/12111819.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/19/12111819.jpg",
-          "thumb": "albums/western-us-devonian/thumb/12111819.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/19/20220619-121118-1ccf1dfd63dc-ca8e34537fd4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/19/20220619-121118-1ccf1dfd63dc-ca8e34537fd4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/19/20220619-121118-1ccf1dfd63dc-ca8e34537fd4.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Stacey takes in the view from a cliff at Sidehill Pass.",
@@ -5638,13 +5638,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Stacey Edmonsond",
             "Western US"
           ],
-          "archive_path": "2022/06/19/12111819.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/19/20220619-121118-1ccf1dfd63dc-ca8e34537fd4.jpg"
         },
         {
           "id": 52249,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/19/17171419.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/19/17171419.jpg",
-          "thumb": "albums/western-us-devonian/thumb/17171419.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/19/20220619-171714-2f123026fa85-f2cb0e33427e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/19/20220619-171714-2f123026fa85-f2cb0e33427e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/19/20220619-171714-2f123026fa85-f2cb0e33427e.jpg",
           "width": 3264,
           "height": 1472,
           "caption": "Steep Guilmette Formation outcrop at Sidehill Pass, Schell Creek Range.",
@@ -5664,13 +5664,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/19/17171419.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/19/20220619-171714-2f123026fa85-f2cb0e33427e.jpg"
         },
         {
           "id": 52275,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/18031520.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/18031520.jpg",
-          "thumb": "albums/western-us-devonian/thumb/18031520.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-180315-4732dde89d19-8e2445b0c294.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-180315-4732dde89d19-8e2445b0c294.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/20/20220620-180315-4732dde89d19-8e2445b0c294.jpg",
           "width": 8000,
           "height": 6000,
           "caption": "Vibrant scenery from high up in a section through the Guilmette Formation at Sidehill Pass.",
@@ -5691,13 +5691,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/20/18031520.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/20/20220620-180315-4732dde89d19-8e2445b0c294.jpg"
         },
         {
           "id": 52288,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/18064620.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/18064620.jpg",
-          "thumb": "albums/western-us-devonian/thumb/18064620.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-180646-9836174ddbf5-8cf07d3b2630.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-180646-9836174ddbf5-8cf07d3b2630.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/20/20220620-180646-9836174ddbf5-8cf07d3b2630.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Jerry and Kristyn hike down from the top of a section through the Guilmette Formation at Sidehill Pass.",
@@ -5720,7 +5720,7 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sidehill Pass",
             "Western US"
           ],
-          "archive_path": "2022/06/20/18064620.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/20/20220620-180646-9836174ddbf5-8cf07d3b2630.jpg"
         }
       ]
     },
@@ -5734,14 +5734,14 @@ window.EARTH_HISTORY_GALLERIES = {
       ],
       "meta": "May 2022 - July 2022 \u00b7 56 photos",
       "dateRange": "May 2022 - July 2022",
-      "heroImage": "albums/western-us-pennsylvanian/thumb/08383224.jpg",
+      "heroImage": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/24/20220724-083832-5ac18e72eb53-fcc20038e910.jpg",
       "filename": "western_us_pennsylvanian.html",
       "photos": [
         {
           "id": 34403,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/08383224.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/08383224.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/08383224.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-083832-5ac18e72eb53-fcc20038e910.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-083832-5ac18e72eb53-fcc20038e910.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/24/20220724-083832-5ac18e72eb53-fcc20038e910.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Scouting the Pennsylvanian Ely Limestone in the Central Pequop Mountains",
@@ -5760,13 +5760,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "scouting",
             "Western US"
           ],
-          "archive_path": "2022/07/24/08383224.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/24/20220724-083832-5ac18e72eb53-fcc20038e910.jpg"
         },
         {
           "id": 35078,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/24/09521524.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/24/09521524.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09521524.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/24/20220624-095215-fd7c2a98b357-3db8de982ffc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/24/20220624-095215-fd7c2a98b357-3db8de982ffc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/24/20220624-095215-fd7c2a98b357-3db8de982ffc.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Silicified brachipod in the Pennsylvanian Ely Limestone, Illipah Reservoir (S311)",
@@ -5786,13 +5786,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/06/24/09521524.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/24/20220624-095215-fd7c2a98b357-3db8de982ffc.jpg"
         },
         {
           "id": 35110,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/02/11175102.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/02/11175102.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/11175102.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/02/20220702-111751-5a1a79cfb142-fd8b106d90c1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/02/20220702-111751-5a1a79cfb142-fd8b106d90c1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/02/20220702-111751-5a1a79cfb142-fd8b106d90c1.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "A tiny silicified coral in the Pennsylvanian Ely Limetone, Illipah Reservior (S313)",
@@ -5814,13 +5814,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/02/11175102.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/02/20220702-111751-5a1a79cfb142-fd8b106d90c1.jpg"
         },
         {
           "id": 35117,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/03/08493303.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/03/08493303.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/08493303.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/03/20220703-084933-8e85912b402b-266d914bfb37.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/03/20220703-084933-8e85912b402b-266d914bfb37.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/03/20220703-084933-8e85912b402b-266d914bfb37.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Mudstone with chert nodules/interbeds, Pennsylvanian Ely Limestone, Illipah Reservoir (S314)",
@@ -5840,13 +5840,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/03/08493303.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/03/20220703-084933-8e85912b402b-266d914bfb37.jpg"
         },
         {
           "id": 35145,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/08502905.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/08502905.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/08502905.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-085029-593f8e38820c-b1b3ceaed8df.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-085029-593f8e38820c-b1b3ceaed8df.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/05/20220705-085029-593f8e38820c-b1b3ceaed8df.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Syringopora coral in the Pennsylvanian Ely Limestone, Illipah Reservoir (S314)",
@@ -5866,13 +5866,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/05/08502905.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/05/20220705-085029-593f8e38820c-b1b3ceaed8df.jpg"
         },
         {
           "id": 35165,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/08554605.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/08554605.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/08554605.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-085546-1de928763621-0ed1d54fa6ff.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-085546-1de928763621-0ed1d54fa6ff.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/05/20220705-085546-1de928763621-0ed1d54fa6ff.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Chaetetes sponge (center) next to syringopora coral in the Pennsylvanian Ely Limestone, Illipah Reservoir (S314)",
@@ -5896,13 +5896,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "syringopora",
             "Western US"
           ],
-          "archive_path": "2022/07/05/08554605.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/05/20220705-085546-1de928763621-0ed1d54fa6ff.jpg"
         },
         {
           "id": 35176,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/08585605.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/08585605.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/08585605.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-085856-8ea5434b5401-154142907012.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-085856-8ea5434b5401-154142907012.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/05/20220705-085856-8ea5434b5401-154142907012.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Gatropod in the Pennsylvanian Ely Limestone, Illipah Reservoir (S314)",
@@ -5924,13 +5924,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/05/08585605.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/05/20220705-085856-8ea5434b5401-154142907012.jpg"
         },
         {
           "id": 35193,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/09130705.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/09130705.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09130705.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-091307-c880d95c7f08-514e5b58d127.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-091307-c880d95c7f08-514e5b58d127.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/05/20220705-091307-c880d95c7f08-514e5b58d127.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Wackestone-packstone with brachiopods, crinoids, and horn coral in the Pennsylvanian Ely Limestone, Illipah Reservoir (S314)",
@@ -5955,13 +5955,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/05/09130705.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/05/20220705-091307-c880d95c7f08-514e5b58d127.jpg"
         },
         {
           "id": 35200,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/09184005.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/09184005.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09184005.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-091840-5c335b6f6394-920e2a9aaf8b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-091840-5c335b6f6394-920e2a9aaf8b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/05/20220705-091840-5c335b6f6394-920e2a9aaf8b.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Tiny whole brachiopods in wackestone, Pennsylvanian Ely Limestone, Illipah Reservoir (S314)",
@@ -5981,13 +5981,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/05/09184005.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/05/20220705-091840-5c335b6f6394-920e2a9aaf8b.jpg"
         },
         {
           "id": 35208,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/09383305.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/05/09383305.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09383305.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-093833-5969fca6bb16-dc35804a275f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/05/20220705-093833-5969fca6bb16-dc35804a275f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/05/20220705-093833-5969fca6bb16-dc35804a275f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Bryozoans in the Pennsylvanian Ely Limestone, Illipah Reservoir (S314)",
@@ -6009,13 +6009,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/05/09383305.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/05/20220705-093833-5969fca6bb16-dc35804a275f.jpg"
         },
         {
           "id": 35306,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/13/09325313.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/13/09325313.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09325313.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/13/20220713-093253-7d9a2f41e34d-3ee062bb1aa5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/13/20220713-093253-7d9a2f41e34d-3ee062bb1aa5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/13/20220713-093253-7d9a2f41e34d-3ee062bb1aa5.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Chaetetes sponge in the Pennsylvanian Ely Limestone, Illipah Reservoir (S316)",
@@ -6037,13 +6037,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/13/09325313.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/13/20220713-093253-7d9a2f41e34d-3ee062bb1aa5.jpg"
         },
         {
           "id": 35324,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/13/09392313.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/13/09392313.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09392313.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/13/20220713-093923-b93e4f9d5f2b-66f1ea46be5a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/13/20220713-093923-b93e4f9d5f2b-66f1ea46be5a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/13/20220713-093923-b93e4f9d5f2b-66f1ea46be5a.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Syringopora coral in the Pennsylvanian Ely Limestone, Illipah Reservoir (S316)",
@@ -6066,13 +6066,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "syringopora",
             "Western US"
           ],
-          "archive_path": "2022/07/13/09392313.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/13/20220713-093923-b93e4f9d5f2b-66f1ea46be5a.jpg"
         },
         {
           "id": 35330,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/13/09402713.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/13/09402713.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09402713.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/13/20220713-094027-745731cbb119-d9d43ef6985f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/13/20220713-094027-745731cbb119-d9d43ef6985f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/13/20220713-094027-745731cbb119-d9d43ef6985f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Chaetetes sponge in the Pennsylvanian Ely Limestone, Illipah Reservoir (S316)",
@@ -6094,13 +6094,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/13/09402713.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/13/20220713-094027-745731cbb119-d9d43ef6985f.jpg"
         },
         {
           "id": 35335,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/13/11320013.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/13/11320013.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/11320013.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/13/20220713-113200-fc9cd1c55fb4-930ad58fe1c9.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/13/20220713-113200-fc9cd1c55fb4-930ad58fe1c9.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/13/20220713-113200-fc9cd1c55fb4-930ad58fe1c9.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Horn coral in the Pennsylvanian Ely Limestone, Illiipah Reservoir (S316)",
@@ -6123,13 +6123,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/13/11320013.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/13/20220713-113200-fc9cd1c55fb4-930ad58fe1c9.jpg"
         },
         {
           "id": 35346,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/14/11175814.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/14/11175814.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/11175814.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/14/20220714-111758-3a1d5b679387-9ba87984ef86.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/14/20220714-111758-3a1d5b679387-9ba87984ef86.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/14/20220714-111758-3a1d5b679387-9ba87984ef86.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Syringopora coral and horn coral in the Pennsylvanian Ely Limestone, Illipah Reservoir (S314)",
@@ -6153,13 +6153,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "syringopora",
             "Western US"
           ],
-          "archive_path": "2022/07/14/11175814.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/14/20220714-111758-3a1d5b679387-9ba87984ef86.jpg"
         },
         {
           "id": 35355,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/14/11202914.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/14/11202914.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/11202914.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/14/20220714-112029-2010d09e6181-8041233c9023.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/14/20220714-112029-2010d09e6181-8041233c9023.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/14/20220714-112029-2010d09e6181-8041233c9023.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Syringopora coral in the Pennsylvanian Ely Limestone, Illipah Reservoir (S314)",
@@ -6182,13 +6182,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "syringopora",
             "Western US"
           ],
-          "archive_path": "2022/07/14/11202914.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/14/20220714-112029-2010d09e6181-8041233c9023.jpg"
         },
         {
           "id": 35385,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/16/09383116.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/16/09383116.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09383116.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/16/20220716-093831-0c9ff119997e-8e6a302cf092.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/16/20220716-093831-0c9ff119997e-8e6a302cf092.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/16/20220716-093831-0c9ff119997e-8e6a302cf092.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Sandy packstone, Pennsylvanian Ely Limestone, Illipah Reservoir (S317)",
@@ -6208,13 +6208,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/16/09383116.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/16/20220716-093831-0c9ff119997e-8e6a302cf092.jpg"
         },
         {
           "id": 35407,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/19/09225919.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/19/09225919.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09225919.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/19/20220719-092259-dfe9ac732889-5de2dc8eec85.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/19/20220719-092259-dfe9ac732889-5de2dc8eec85.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/19/20220719-092259-dfe9ac732889-5de2dc8eec85.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Bryozoans in the Pennsylvanian Ely Limestone, Illipah Reservoir (S317)",
@@ -6236,13 +6236,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/19/09225919.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/19/20220719-092259-dfe9ac732889-5de2dc8eec85.jpg"
         },
         {
           "id": 35409,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/19/09303919.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/19/09303919.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09303919.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/19/20220719-093039-caa6e3dda84a-8a82d17b70d5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/19/20220719-093039-caa6e3dda84a-8a82d17b70d5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/19/20220719-093039-caa6e3dda84a-8a82d17b70d5.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Bryozoans in the Pennsylvanian Ely Limestone, Illipah Reservoir (S317)",
@@ -6264,13 +6264,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/19/09303919.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/19/20220719-093039-caa6e3dda84a-8a82d17b70d5.jpg"
         },
         {
           "id": 35414,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/19/09325219.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/19/09325219.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09325219.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/19/20220719-093252-d73c124f697c-0453237656f0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/19/20220719-093252-d73c124f697c-0453237656f0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/19/20220719-093252-d73c124f697c-0453237656f0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Bryozoan in the Pennsylvanian Ely Limestone, Illipah Reservoir (S317)",
@@ -6292,13 +6292,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/19/09325219.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/19/20220719-093252-d73c124f697c-0453237656f0.jpg"
         },
         {
           "id": 35457,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/10435524.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/10435524.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/10435524.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-104355-638b653e209b-0e88b8917b64.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-104355-638b653e209b-0e88b8917b64.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/24/20220724-104355-638b653e209b-0e88b8917b64.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Graded beds in the Pennsylvanian Ely Limestone, Central Pequop Mountains",
@@ -6317,13 +6317,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "scouting",
             "Western US"
           ],
-          "archive_path": "2022/07/24/10435524.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/24/20220724-104355-638b653e209b-0e88b8917b64.jpg"
         },
         {
           "id": 35462,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/10505524.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/10505524.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/10505524.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-105055-470339849460-1efa9e7b2db3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-105055-470339849460-1efa9e7b2db3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/24/20220724-105055-470339849460-1efa9e7b2db3.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "",
@@ -6342,13 +6342,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "scouting",
             "Western US"
           ],
-          "archive_path": "2022/07/24/10505524.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/24/20220724-105055-470339849460-1efa9e7b2db3.jpg"
         },
         {
           "id": 35476,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/11242024.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/11242024.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/11242024.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-112420-852eb560692d-41bf9b7aabe1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-112420-852eb560692d-41bf9b7aabe1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/24/20220724-112420-852eb560692d-41bf9b7aabe1.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Small-scale offset in cement, Pennsylvanian Ely Limestone, Central Pequop Mountains",
@@ -6367,13 +6367,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "scouting",
             "Western US"
           ],
-          "archive_path": "2022/07/24/11242024.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/24/20220724-112420-852eb560692d-41bf9b7aabe1.jpg"
         },
         {
           "id": 35528,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/26/12005026.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/26/12005026.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/12005026.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/26/20220526-120050-5004a9110b84-3a0524109565.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/26/20220526-120050-5004a9110b84-3a0524109565.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/26/20220526-120050-5004a9110b84-3a0524109565.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Brachiopod in the Pennsylvanian Ely Limestone, Illipah Reservoir (S302)",
@@ -6395,13 +6395,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/05/26/12005026.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/26/20220526-120050-5004a9110b84-3a0524109565.jpg"
         },
         {
           "id": 35529,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/26/12010226.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/26/12010226.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/12010226.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/26/20220526-120102-f21b96164853-2475ee6ce123.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/26/20220526-120102-f21b96164853-2475ee6ce123.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/26/20220526-120102-f21b96164853-2475ee6ce123.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Brachiopod in the Pennsylvanian Ely Limestone, Illipah Reservoir (S302)",
@@ -6423,13 +6423,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/05/26/12010226.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/26/20220526-120102-f21b96164853-2475ee6ce123.jpg"
         },
         {
           "id": 37545,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/24/11520024.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/24/11520024.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/11520024.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/24/20220624-115200-3f0e622e261e-889e95da27c3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/24/20220624-115200-3f0e622e261e-889e95da27c3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/24/20220624-115200-3f0e622e261e-889e95da27c3.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Kristyn and Olivia hike upsection through the Pennsylvanian Ely Limestone, Illipah Reservoir",
@@ -6449,13 +6449,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/06/24/11520024.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/24/20220624-115200-3f0e622e261e-889e95da27c3.jpg"
         },
         {
           "id": 37552,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/24/12174624.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/24/12174624.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/12174624.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/24/20220624-121746-28f31c0b8a76-6d6f235cb0a3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/24/20220624-121746-28f31c0b8a76-6d6f235cb0a3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/24/20220624-121746-28f31c0b8a76-6d6f235cb0a3.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Wackestone with crinoids and bryozoans, Pennsylvanian Ely Limestone, Illipah Reservoir (S311)",
@@ -6475,13 +6475,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/06/24/12174624.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/24/20220624-121746-28f31c0b8a76-6d6f235cb0a3.jpg"
         },
         {
           "id": 37559,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/28/13021928.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/28/13021928.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/13021928.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/28/20220628-130219-d9d2330694b2-e1c21d6d96ac.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/28/20220628-130219-d9d2330694b2-e1c21d6d96ac.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/28/20220628-130219-d9d2330694b2-e1c21d6d96ac.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Chaetetes sponge in the Pennsylvanian Ely Limestone at Illipah Reservoir",
@@ -6503,13 +6503,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/06/28/13021928.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/28/20220628-130219-d9d2330694b2-e1c21d6d96ac.jpg"
         },
         {
           "id": 37585,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/02/11410902.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/02/11410902.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/11410902.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/02/20220702-114109-e26fe1730b96-43b425688fc1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/02/20220702-114109-e26fe1730b96-43b425688fc1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/02/20220702-114109-e26fe1730b96-43b425688fc1.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Large crinoids in the Pennsylvanian Ely Limestone, Illipah Reservoir (S313)",
@@ -6530,13 +6530,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "S313",
             "Sections"
           ],
-          "archive_path": "2022/07/02/11410902.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/02/20220702-114109-e26fe1730b96-43b425688fc1.jpg"
         },
         {
           "id": 37590,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/02/11454902.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/02/11454902.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/11454902.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/02/20220702-114549-1393c74a862a-6bc5ba409850.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/02/20220702-114549-1393c74a862a-6bc5ba409850.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/02/20220702-114549-1393c74a862a-6bc5ba409850.jpg",
           "width": 3999,
           "height": 2999,
           "caption": "Bryozoans on a bedding plane in the Ely Limestone, Illipah Reservoir",
@@ -6558,13 +6558,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/02/11454902.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/02/20220702-114549-1393c74a862a-6bc5ba409850.jpg"
         },
         {
           "id": 37599,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/02/11493202.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/02/11493202.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/11493202.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/02/20220702-114932-5701b8bffb75-a491a1b2e75f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/02/20220702-114932-5701b8bffb75-a491a1b2e75f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/02/20220702-114932-5701b8bffb75-a491a1b2e75f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Pennsylvanian bryozoans in the Ely Limestone at Illipah Reservoir",
@@ -6586,13 +6586,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/02/11493202.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/02/20220702-114932-5701b8bffb75-a491a1b2e75f.jpg"
         },
         {
           "id": 37732,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/11442224.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/11442224.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/11442224.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-114422-23812507382c-f1c35f106c8b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-114422-23812507382c-f1c35f106c8b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/24/20220724-114422-23812507382c-f1c35f106c8b.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Black chert nodules, Pennsylvanian Ely Limestone, Central Pequop Mountains",
@@ -6611,13 +6611,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "scouting",
             "Western US"
           ],
-          "archive_path": "2022/07/24/11442224.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/24/20220724-114422-23812507382c-f1c35f106c8b.jpg"
         },
         {
           "id": 40133,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/28/14480328.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/28/14480328.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/14480328.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/28/20220628-144803-735f640c4b3f-5e47a3651f4e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/28/20220628-144803-735f640c4b3f-5e47a3651f4e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/28/20220628-144803-735f640c4b3f-5e47a3651f4e.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Interbedded resistant gray limestone and papery-weathering tan limestone, Pennsylvanian Ely Limestone, Illipah Reservoir (S312)",
@@ -6637,13 +6637,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/06/28/14480328.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/28/20220628-144803-735f640c4b3f-5e47a3651f4e.jpg"
         },
         {
           "id": 40138,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/02/14464302.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/02/14464302.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/14464302.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/02/20220702-144643-5b4284b70384-75cf2fbec393.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/02/20220702-144643-5b4284b70384-75cf2fbec393.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/02/20220702-144643-5b4284b70384-75cf2fbec393.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Bryozoan in the Pennsylvanian Ely Limestone, Illipah Reservoir (S313)",
@@ -6665,13 +6665,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/02/14464302.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/02/20220702-144643-5b4284b70384-75cf2fbec393.jpg"
         },
         {
           "id": 40366,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/15261822.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/15261822.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/15261822.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-152618-5538e4e3d6e8-ab6d44bae960.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-152618-5538e4e3d6e8-ab6d44bae960.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-152618-5538e4e3d6e8-ab6d44bae960.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Connor hikes through the Pennsylvanian at Arrow Canyon",
@@ -6690,13 +6690,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Western US"
           ],
-          "archive_path": "2022/05/22/15261822.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-152618-5538e4e3d6e8-ab6d44bae960.jpg"
         },
         {
           "id": 40377,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/15324222.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/15324222.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/15324222.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-153242-63b3e1be6c06-0a0283973a09.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-153242-63b3e1be6c06-0a0283973a09.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-153242-63b3e1be6c06-0a0283973a09.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Connor and Kristyn investigate the Pennsylvanian Bird Spring Formation at Arrow Canyon",
@@ -6716,13 +6716,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Western US"
           ],
-          "archive_path": "2022/05/22/15324222.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-153242-63b3e1be6c06-0a0283973a09.jpg"
         },
         {
           "id": 40391,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/15361922.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/15361922.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/15361922.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-153619-5e1c64334d83-6630910d3185.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-153619-5e1c64334d83-6630910d3185.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-153619-5e1c64334d83-6630910d3185.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Connor checks out a horizon of massive cannonball concretions in the Pennsyvanian Bird Spring Formation, Arrow Canyon",
@@ -6742,13 +6742,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Western US"
           ],
-          "archive_path": "2022/05/22/15361922.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-153619-5e1c64334d83-6630910d3185.jpg"
         },
         {
           "id": 40395,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/15374322.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/15374322.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/15374322.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-153743-70d89a328a7d-7069f10e6c96.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-153743-70d89a328a7d-7069f10e6c96.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-153743-70d89a328a7d-7069f10e6c96.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Massive cannonball concretion in the Pennsylvanian Bird Spring Formation, Arrow Canyon, NV",
@@ -6766,13 +6766,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pennsylvanian",
             "Western US"
           ],
-          "archive_path": "2022/05/22/15374322.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-153743-70d89a328a7d-7069f10e6c96.jpg"
         },
         {
           "id": 40408,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/15441922.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/15441922.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/15441922.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-154419-a207d81925d0-153d33102444.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-154419-a207d81925d0-153d33102444.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-154419-a207d81925d0-153d33102444.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Baeutiful mud cracks on a bedding plane in the Pennsylvanin Bird Spring Formation, Arrow Canyon",
@@ -6790,13 +6790,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pennsylvanian",
             "Western US"
           ],
-          "archive_path": "2022/05/22/15441922.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-154419-a207d81925d0-153d33102444.jpg"
         },
         {
           "id": 42489,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/16242422.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/16242422.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/16242422.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-162424-2a76997ef704-d578accb9cd1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-162424-2a76997ef704-d578accb9cd1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-162424-2a76997ef704-d578accb9cd1.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Fossil coral in the Mississippian at Arrow Canyon",
@@ -6816,13 +6816,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mississippian",
             "Western US"
           ],
-          "archive_path": "2022/05/22/16242422.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-162424-2a76997ef704-d578accb9cd1.jpg"
         },
         {
           "id": 43941,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/29/16254529.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/29/16254529.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/16254529.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/29/20220629-162545-19741d4ef400-420e150db4f3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/29/20220629-162545-19741d4ef400-420e150db4f3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/29/20220629-162545-19741d4ef400-420e150db4f3.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Graded (fining upward) beds, Pennsylvanian Ely Limestone, Illipah Reservoior (S313)",
@@ -6843,13 +6843,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/06/29/16254529.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/29/20220629-162545-19741d4ef400-420e150db4f3.jpg"
         },
         {
           "id": 44130,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/18/16395818.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/18/16395818.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/16395818.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/18/20220718-163958-78bca08f1736-4aad017b8e26.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/18/20220718-163958-78bca08f1736-4aad017b8e26.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/18/20220718-163958-78bca08f1736-4aad017b8e26.jpg",
           "width": 5472,
           "height": 3648,
           "caption": "Drone's-eye view at Illipah Reservoir",
@@ -6866,13 +6866,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "S317",
             "Sections"
           ],
-          "archive_path": "2022/07/18/16395818.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/18/20220718-163958-78bca08f1736-4aad017b8e26.jpg"
         },
         {
           "id": 44183,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/17040522.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/17040522.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/17040522.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-170405-2adc831db7c9-159d50ad3a5f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-170405-2adc831db7c9-159d50ad3a5f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-170405-2adc831db7c9-159d50ad3a5f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Stigmarian root cast in the uppermost Mississippian (hiatus contact) at Arrow Canyon",
@@ -6894,13 +6894,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Stigmaria",
             "Western US"
           ],
-          "archive_path": "2022/05/22/17040522.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-170405-2adc831db7c9-159d50ad3a5f.jpg"
         },
         {
           "id": 44197,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/17050922.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/17050922.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/17050922.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-170509-639503753330-f8675da742a4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-170509-639503753330-f8675da742a4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-170509-639503753330-f8675da742a4.jpg",
           "width": 3000,
           "height": 4000,
           "caption": "Stigmarian root cast in the uppermost Mississippian (hiatus contact) at Arrow Canyon",
@@ -6922,13 +6922,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Stigmaria",
             "Western US"
           ],
-          "archive_path": "2022/05/22/17050922.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-170509-639503753330-f8675da742a4.jpg"
         },
         {
           "id": 50764,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/16314922.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/16314922.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/16314922.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-163149-013b40ba6bed-706887374604.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-163149-013b40ba6bed-706887374604.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-163149-013b40ba6bed-706887374604.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Hiking down through Mississippian stratigraphy at Arrow Canyon.",
@@ -6946,13 +6946,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "scouting",
             "Western US"
           ],
-          "archive_path": "2022/05/22/16314922.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-163149-013b40ba6bed-706887374604.jpg"
         },
         {
           "id": 50794,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/16371922.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/16371922.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/16371922.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-163719-29715b8c7dcd-19ba0a93a191.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-163719-29715b8c7dcd-19ba0a93a191.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-163719-29715b8c7dcd-19ba0a93a191.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Connor and Kristyn scout Mississippian outcrop at Arrow Canyon.",
@@ -6972,13 +6972,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "scouting",
             "Western US"
           ],
-          "archive_path": "2022/05/22/16371922.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-163719-29715b8c7dcd-19ba0a93a191.jpg"
         },
         {
           "id": 50795,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/17084522.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/17084522.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/17084522.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-170845-f96979b58c4c-2eda0963a796.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-170845-f96979b58c4c-2eda0963a796.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-170845-f96979b58c4c-2eda0963a796.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Stacey checks out Stigmarian root casts in the uppermost Mississippian at Arrow Canyon.",
@@ -7002,13 +7002,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Stigmaria",
             "Western US"
           ],
-          "archive_path": "2022/05/22/17084522.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-170845-f96979b58c4c-2eda0963a796.jpg"
         },
         {
           "id": 50883,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/25/20085525.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/25/20085525.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/20085525.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/25/20220525-200855-3b80686ef60e-3ae3ab9f93c6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/25/20220525-200855-3b80686ef60e-3ae3ab9f93c6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/25/20220525-200855-3b80686ef60e-3ae3ab9f93c6.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Sunset from our campsite at Illipah Reservior, NV.",
@@ -7027,13 +7027,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sunset",
             "Western US"
           ],
-          "archive_path": "2022/05/25/20085525.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/25/20220525-200855-3b80686ef60e-3ae3ab9f93c6.jpg"
         },
         {
           "id": 52319,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/20432325.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/20432325.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/20432325.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-204323-4c8188e79471-d93d9878c62c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-204323-4c8188e79471-d93d9878c62c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-204323-4c8188e79471-d93d9878c62c.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "A rainbow forms after a storm at our campsite at Illipah Reservoir.",
@@ -7051,13 +7051,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "rainbow",
             "Western US"
           ],
-          "archive_path": "2022/06/25/20432325.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-204323-4c8188e79471-d93d9878c62c.jpg"
         },
         {
           "id": 52380,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/27/21111027.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/27/21111027.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/21111027.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/27/20220627-211110-581e6617423d-090361e9a1f6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/27/20220627-211110-581e6617423d-090361e9a1f6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/27/20220627-211110-581e6617423d-090361e9a1f6.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "View of the sunset from our campsite at Illipah Reservoir.",
@@ -7076,13 +7076,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sunset",
             "Western US"
           ],
-          "archive_path": "2022/06/27/21111027.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/27/20220627-211110-581e6617423d-090361e9a1f6.jpg"
         },
         {
           "id": 53887,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/29/21102029.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/29/21102029.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/21102029.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/29/20220629-211020-9feada04817c-23b9d68f6d68.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/29/20220629-211020-9feada04817c-23b9d68f6d68.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/29/20220629-211020-9feada04817c-23b9d68f6d68.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "View of the sunset from our campsite at Illipah Reservoir.",
@@ -7100,13 +7100,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sunset",
             "Western US"
           ],
-          "archive_path": "2022/06/29/21102029.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/29/20220629-211020-9feada04817c-23b9d68f6d68.jpg"
         },
         {
           "id": 57121,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/13/16133413.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/13/16133413.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/16133413.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/13/20220713-161334-9e0446532d26-1a1670f3a95c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/13/20220713-161334-9e0446532d26-1a1670f3a95c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/13/20220713-161334-9e0446532d26-1a1670f3a95c.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Flowering cactus at Illipah Reservoir, NV.",
@@ -7124,13 +7124,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Western US"
           ],
-          "archive_path": "2022/07/13/16133413.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/13/20220713-161334-9e0446532d26-1a1670f3a95c.jpg"
         },
         {
           "id": 58489,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/15/20103515.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/15/20103515.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/20103515.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/15/20220715-201035-45f03dd7305b-d8a8c6ea0fac.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/15/20220715-201035-45f03dd7305b-d8a8c6ea0fac.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/15/20220715-201035-45f03dd7305b-d8a8c6ea0fac.jpg",
           "width": 6000,
           "height": 3376,
           "caption": "Sunset from our campsite at Illipah Reservior, NV.",
@@ -7149,13 +7149,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sunset",
             "Western US"
           ],
-          "archive_path": "2022/07/15/20103515.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/15/20220715-201035-45f03dd7305b-d8a8c6ea0fac.jpg"
         },
         {
           "id": 58490,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/15/21122615.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/15/21122615.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/21122615.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/15/20220715-211226-26aa8f8c450f-43988f13ed37.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/15/20220715-211226-26aa8f8c450f-43988f13ed37.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/15/20220715-211226-26aa8f8c450f-43988f13ed37.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "View of the sunset from our campsite at Illipah Reservoir.",
@@ -7174,13 +7174,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sunset",
             "Western US"
           ],
-          "archive_path": "2022/07/15/21122615.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/15/20220715-211226-26aa8f8c450f-43988f13ed37.jpg"
         },
         {
           "id": 63436,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/09260224.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/09260224.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/09260224.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-092602-02cd3f9bbb0a-aace7630c477.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-092602-02cd3f9bbb0a-aace7630c477.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/24/20220724-092602-02cd3f9bbb0a-aace7630c477.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Scouting a potential section through the Ely Limestone in the southern Central Pequop Mountains.",
@@ -7199,13 +7199,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "scouting",
             "Western US"
           ],
-          "archive_path": "2022/07/24/09260224.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/24/20220724-092602-02cd3f9bbb0a-aace7630c477.jpg"
         },
         {
           "id": 63455,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/12325324.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/24/12325324.jpg",
-          "thumb": "albums/western-us-pennsylvanian/thumb/12325324.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-123253-26e0a8f59d53-1e4ce7e503e1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/24/20220724-123253-26e0a8f59d53-1e4ce7e503e1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/24/20220724-123253-26e0a8f59d53-1e4ce7e503e1.jpg",
           "width": 8000,
           "height": 6000,
           "caption": "View from the top of the Ely Limestone in the southern Central Pequop Mountains.",
@@ -7225,7 +7225,7 @@ window.EARTH_HISTORY_GALLERIES = {
             "scouting",
             "Western US"
           ],
-          "archive_path": "2022/07/24/12325324.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/24/20220724-123253-26e0a8f59d53-1e4ce7e503e1.jpg"
         }
       ]
     },
@@ -7239,14 +7239,14 @@ window.EARTH_HISTORY_GALLERIES = {
       ],
       "meta": "May 2022 - July 2022 \u00b7 20 photos",
       "dateRange": "May 2022 - July 2022",
-      "heroImage": "albums/western-us-cambrian/thumb/16262120.jpg",
+      "heroImage": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/20/20220520-162621-92d6b982ce91-bcc3bb92f717.jpg",
       "filename": "western_us_cambrian.html",
       "photos": [
         {
           "id": 42458,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/20/16262120.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/20/16262120.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/16262120.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/20/20220520-162621-92d6b982ce91-bcc3bb92f717.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/20/20220520-162621-92d6b982ce91-bcc3bb92f717.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/20/20220520-162621-92d6b982ce91-bcc3bb92f717.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Connor and Kristyn scout the Cambrian Bonanza King Formation at Indian Ridge, NV.",
@@ -7266,13 +7266,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Western US"
           ],
-          "archive_path": "2022/05/20/16262120.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/20/20220520-162621-92d6b982ce91-bcc3bb92f717.jpg"
         },
         {
           "id": 42469,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/20/16441720.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/20/16441720.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/16441720.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/20/20220520-164417-4f47417b47d3-f39eb31af01d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/20/20220520-164417-4f47417b47d3-f39eb31af01d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/20/20220520-164417-4f47417b47d3-f39eb31af01d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Cycles in the Cambrian Bonanza King Formation, Indian Ridge, NV",
@@ -7289,13 +7289,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Western US"
           ],
-          "archive_path": "2022/05/20/16441720.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/20/20220520-164417-4f47417b47d3-f39eb31af01d.jpg"
         },
         {
           "id": 42473,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/20/16445820.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/20/16445820.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/16445820.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/20/20220520-164458-c151e04987b4-05faeb347c5f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/20/20220520-164458-c151e04987b4-05faeb347c5f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/20/20220520-164458-c151e04987b4-05faeb347c5f.jpg",
           "width": 3000,
           "height": 4000,
           "caption": "Connor investigates steep outcrop of the Cambrian Bonanza King Formation",
@@ -7314,13 +7314,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Western US"
           ],
-          "archive_path": "2022/05/20/16445820.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/20/20220520-164458-c151e04987b4-05faeb347c5f.jpg"
         },
         {
           "id": 35478,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/21/11395521.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/21/11395521.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/11395521.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/21/20220521-113955-bf5d37538000-d6c74407a021.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/21/20220521-113955-bf5d37538000-d6c74407a021.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/21/20220521-113955-bf5d37538000-d6c74407a021.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Stromatolite in the Cambrian Bonanza King Formation",
@@ -7341,13 +7341,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatolite",
             "Western US"
           ],
-          "archive_path": "2022/05/21/11395521.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/21/20220521-113955-bf5d37538000-d6c74407a021.jpg"
         },
         {
           "id": 40433,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/24/15155824.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/24/15155824.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/15155824.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/24/20220524-151558-f67330233733-93835ba90086.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/24/20220524-151558-f67330233733-93835ba90086.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/24/20220524-151558-f67330233733-93835ba90086.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Kristyn uses a Jacobs staff to measure steeply dipping outcrop in the Cambrian at Panaca Hills, NV",
@@ -7366,13 +7366,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Western US"
           ],
-          "archive_path": "2022/05/24/15155824.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/24/20220524-151558-f67330233733-93835ba90086.jpg"
         },
         {
           "id": 43967,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/09/16283109.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/09/16283109.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/16283109.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/09/20220709-162831-1c32397717f4-de6962c54d3f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/09/20220709-162831-1c32397717f4-de6962c54d3f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/09/20220709-162831-1c32397717f4-de6962c54d3f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Kai checks out a thrombolite bioherm in the Cambrian Orr Formation at Little Horse Canyon",
@@ -7392,13 +7392,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Western US"
           ],
-          "archive_path": "2022/07/09/16283109.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/09/20220709-162831-1c32397717f4-de6962c54d3f.jpg"
         },
         {
           "id": 35241,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/10/09204110.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/10/09204110.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/09204110.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/10/20220710-092041-873a89c1e477-cba2447d21e6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/10/20220710-092041-873a89c1e477-cba2447d21e6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/10/20220710-092041-873a89c1e477-cba2447d21e6.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Mudchips (?) aligned with crossbeds, Big Horse Member fo the Cambrian Orr Formation, Little Horse Canyono (S315)",
@@ -7419,13 +7419,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/10/09204110.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/10/20220710-092041-873a89c1e477-cba2447d21e6.jpg"
         },
         {
           "id": 37609,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/10/11485410.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/10/11485410.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/11485410.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/10/20220710-114854-3994dd4c3d8b-d62da7787c19.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/10/20220710-114854-3994dd4c3d8b-d62da7787c19.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/10/20220710-114854-3994dd4c3d8b-d62da7787c19.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thrombolite mound (light gray) with packstone fill (dark gray), Big Horse Member of the Cambrian Orr Formation, Little Horse Canyon (S315)",
@@ -7447,13 +7447,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "thrombolite",
             "Western US"
           ],
-          "archive_path": "2022/07/10/11485410.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/10/20220710-114854-3994dd4c3d8b-d62da7787c19.jpg"
         },
         {
           "id": 38220,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/10/14021810.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/10/14021810.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/14021810.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/10/20220710-140218-29676006ad6d-4920975020ee.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/10/20220710-140218-29676006ad6d-4920975020ee.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/10/20220710-140218-29676006ad6d-4920975020ee.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Thrombolite mounds with grainstone fill, Big Horse Member of the Cambrian Orr Formation, Little Horse Canyon (S315)",
@@ -7475,13 +7475,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "thrombolite",
             "Western US"
           ],
-          "archive_path": "2022/07/10/14021810.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/10/20220710-140218-29676006ad6d-4920975020ee.jpg"
         },
         {
           "id": 34358,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/07474911.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/07474911.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/07474911.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-074749-14fcc9cb391b-5a134121b2aa.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-074749-14fcc9cb391b-5a134121b2aa.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/11/20220711-074749-14fcc9cb391b-5a134121b2aa.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Cross-bedded packstone in the Big Horse Member of the Cambrian Orr Formation, Little Horse Canyon (S315)",
@@ -7502,13 +7502,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/11/07474911.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/11/20220711-074749-14fcc9cb391b-5a134121b2aa.jpg"
         },
         {
           "id": 35283,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/09414011.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/09414011.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/09414011.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-094140-8bd8c66bd921-b08843f51cda.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-094140-8bd8c66bd921-b08843f51cda.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/11/20220711-094140-8bd8c66bd921-b08843f51cda.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Microbial laminations, Big Horse Member, Cambrian Orr Formation, Little Horse Canyon (S315)",
@@ -7528,13 +7528,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/11/09414011.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/11/20220711-094140-8bd8c66bd921-b08843f51cda.jpg"
         },
         {
           "id": 35287,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/10012811.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/10012811.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/10012811.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-100128-7b85d6c83270-7b15d026db2f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-100128-7b85d6c83270-7b15d026db2f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/11/20220711-100128-7b85d6c83270-7b15d026db2f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Abundant silicified microbial laminations, Big Horse Member, Cambrian Orr Formation, Little Horse Canyon (S315)",
@@ -7554,13 +7554,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/11/10012811.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/11/20220711-100128-7b85d6c83270-7b15d026db2f.jpg"
         },
         {
           "id": 35289,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/10580711.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/10580711.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/10580711.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-105807-79913badc1d4-3eec06f76361.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-105807-79913badc1d4-3eec06f76361.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/11/20220711-105807-79913badc1d4-3eec06f76361.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Beautiful mud cracks on bedding plane, Big Horse Member, Cambrian Orr Formation, Little Horse Canyon (S315)",
@@ -7581,13 +7581,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/11/10580711.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/11/20220711-105807-79913badc1d4-3eec06f76361.jpg"
         },
         {
           "id": 35291,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/10582311.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/10582311.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/10582311.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-105823-fb1bb6adeaa9-0719fcfd78c1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-105823-fb1bb6adeaa9-0719fcfd78c1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/11/20220711-105823-fb1bb6adeaa9-0719fcfd78c1.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Mud cracks on bedding plane, Big Horse Member, Cambrian Orr Formation, Little Horse Canyon (S315)",
@@ -7607,13 +7607,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "Western US"
           ],
-          "archive_path": "2022/07/11/10582311.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/11/20220711-105823-fb1bb6adeaa9-0719fcfd78c1.jpg"
         },
         {
           "id": 50682,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/21/05435821.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/21/05435821.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/05435821.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/21/20220521-054358-6849719475dc-9c2a99eeb026.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/21/20220521-054358-6849719475dc-9c2a99eeb026.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/21/20220521-054358-6849719475dc-9c2a99eeb026.jpg",
           "width": 6000,
           "height": 3376,
           "caption": "Camping near Bonanza King Formation outcrop at Indian Ridge, NV.",
@@ -7635,13 +7635,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Western US"
           ],
-          "archive_path": "2022/05/21/05435821.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/21/20220521-054358-6849719475dc-9c2a99eeb026.jpg"
         },
         {
           "id": 50697,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/21/18331621.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/21/18331621.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/18331621.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/21/20220521-183316-5b42ba45f019-d4822e886d93.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/21/20220521-183316-5b42ba45f019-d4822e886d93.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/21/20220521-183316-5b42ba45f019-d4822e886d93.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Lizard peers out frum underneath a bush near camp, Indian Ridge, NV.",
@@ -7658,13 +7658,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Western US"
           ],
-          "archive_path": "2022/05/21/18331621.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/21/20220521-183316-5b42ba45f019-d4822e886d93.jpg"
         },
         {
           "id": 50742,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/05530422.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/05530422.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/05530422.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-055304-0193697d105c-42b3a48d17fe.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-055304-0193697d105c-42b3a48d17fe.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-055304-0193697d105c-42b3a48d17fe.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Upper Cambrian (Bonanza King Formation) at Indian Ridge, NV.",
@@ -7682,13 +7682,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Western US"
           ],
-          "archive_path": "2022/05/22/05530422.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-055304-0193697d105c-42b3a48d17fe.jpg"
         },
         {
           "id": 50745,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/08060022.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/05/22/08060022.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/08060022.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-080600-fb9d0c6a1059-44f22768bf48.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/05/22/20220522-080600-fb9d0c6a1059-44f22768bf48.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/05/22/20220522-080600-fb9d0c6a1059-44f22768bf48.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Connor and Kristyn scale Bonanza King outcrop at Indian Ridge.",
@@ -7708,13 +7708,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Western US"
           ],
-          "archive_path": "2022/05/22/08060022.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/05/22/20220522-080600-fb9d0c6a1059-44f22768bf48.jpg"
         },
         {
           "id": 55841,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/10/20052210.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/10/20052210.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/20052210.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/10/20220710-200522-30196322c872-34feb356d0b7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/10/20220710-200522-30196322c872-34feb356d0b7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/10/20220710-200522-30196322c872-34feb356d0b7.jpg",
           "width": 6000,
           "height": 3376,
           "caption": "Sunset view of Cambrian outcrop at Little Horse Canyon, UT.",
@@ -7733,13 +7733,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sunset",
             "Western US"
           ],
-          "archive_path": "2022/07/10/20052210.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/10/20220710-200522-30196322c872-34feb356d0b7.jpg"
         },
         {
           "id": 55861,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/08374411.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/07/11/08374411.jpg",
-          "thumb": "albums/western-us-cambrian/thumb/08374411.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-083744-747b632f86b7-42f702289e80.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/07/11/20220711-083744-747b632f86b7-42f702289e80.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/07/11/20220711-083744-747b632f86b7-42f702289e80.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "A lizard perches on a piece of Cambrian float, Little Horse Canyon.",
@@ -7757,7 +7757,7 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Western US"
           ],
-          "archive_path": "2022/07/11/08374411.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/07/11/20220711-083744-747b632f86b7-42f702289e80.jpg"
         }
       ]
     },
@@ -7771,14 +7771,14 @@ window.EARTH_HISTORY_GALLERIES = {
       ],
       "meta": "June 2022 \u00b7 84 photos",
       "dateRange": "June 2022",
-      "heroImage": "Gallery/turks_and_caicos_2022/thumb/202206090918.jpg",
+      "heroImage": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-095418-43e47c96476c-afdbc2091ec6.jpg",
       "filename": "turks_and_caicos_2022.html",
       "photos": [
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/09541809.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/09541809.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206090918.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-095418-43e47c96476c-afdbc2091ec6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-095418-43e47c96476c-afdbc2091ec6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-095418-43e47c96476c-afdbc2091ec6.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Oana and Roger make their way down the rocky coastline",
           "author": "Blake Dyer",
@@ -7793,13 +7793,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/09/09541809.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-095418-43e47c96476c-afdbc2091ec6.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/09173809.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/09173809.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206090938.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-091738-370fc5ce284a-063ecff10b2f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-091738-370fc5ce284a-063ecff10b2f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-091738-370fc5ce284a-063ecff10b2f.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The sea erodes fossil dunes from the last interglacial making spectacular cliffs",
           "author": "Blake Dyer",
@@ -7811,13 +7811,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/09/09173809.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-091738-370fc5ce284a-063ecff10b2f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/09173809.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/09173809.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206090941.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-091738-370fc5ce284a-063ecff10b2f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-091738-370fc5ce284a-063ecff10b2f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-091738-370fc5ce284a-063ecff10b2f.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The sea erodes fossil dunes from the last interglacial making spectacular cliffs",
           "author": "Blake Dyer",
@@ -7829,13 +7829,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/09/09173809.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-091738-370fc5ce284a-063ecff10b2f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14292909.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14292909.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206091400.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-142929-dc36334cb374-b570645e9889.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-142929-dc36334cb374-b570645e9889.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-142929-dc36334cb374-b570645e9889.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger takes in the view",
           "author": "Blake Dyer",
@@ -7846,13 +7846,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/09/14292909.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-142929-dc36334cb374-b570645e9889.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14560409.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14560409.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206091404.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-145604-9fb3466eda63-8dd6a3817cf9.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-145604-9fb3466eda63-8dd6a3817cf9.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-145604-9fb3466eda63-8dd6a3817cf9.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A lovely beach waits beyond the dune",
           "author": "Blake Dyer",
@@ -7864,13 +7864,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/09/14560409.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-145604-9fb3466eda63-8dd6a3817cf9.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14292909.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14292909.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206091429.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-142929-dc36334cb374-b570645e9889.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-142929-dc36334cb374-b570645e9889.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-142929-dc36334cb374-b570645e9889.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger takes in the view",
           "author": "Blake Dyer",
@@ -7881,13 +7881,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/09/14292909.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-142929-dc36334cb374-b570645e9889.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14433909.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14433909.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206091439.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-144339-b70b17e13c4b-76f877d3680a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-144339-b70b17e13c4b-76f877d3680a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-144339-b70b17e13c4b-76f877d3680a.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Fossilized dunes break up the modern beach on Middle Caicos",
           "author": "Blake Dyer",
@@ -7899,13 +7899,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/09/14433909.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-144339-b70b17e13c4b-76f877d3680a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14314909.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/09/14314909.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206091449.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-143149-f6b4ae7feebf-70e12847732e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/09/20220609-143149-f6b4ae7feebf-70e12847732e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/09/20220609-143149-f6b4ae7feebf-70e12847732e.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "An old house in the hills of Middle Caicos",
           "author": "Blake Dyer",
@@ -7917,13 +7917,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/09/14314909.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/09/20220609-143149-f6b4ae7feebf-70e12847732e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/10042310.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/10042310.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206101023.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-100423-cb825632a98e-1055252f55e9.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-100423-cb825632a98e-1055252f55e9.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/10/20220610-100423-cb825632a98e-1055252f55e9.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team heads inland after a hot walk",
           "author": "Blake Dyer",
@@ -7939,13 +7939,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/10/10042310.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/10/20220610-100423-cb825632a98e-1055252f55e9.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/15593810.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/15593810.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206101538.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-155938-9b1aef2a0a05-3244d7abb1c6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-155938-9b1aef2a0a05-3244d7abb1c6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/10/20220610-155938-9b1aef2a0a05-3244d7abb1c6.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Over the dunes is considerably easier than through the forest",
           "author": "Blake Dyer",
@@ -7961,13 +7961,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/10/15593810.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/10/20220610-155938-9b1aef2a0a05-3244d7abb1c6.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/15045410.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/15045410.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206101554.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-150454-172f9d597f9a-aebb9b67b6cc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-150454-172f9d597f9a-aebb9b67b6cc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/10/20220610-150454-172f9d597f9a-aebb9b67b6cc.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Coastal caves and speleothems are suggestive of a higher sea level",
           "author": "Blake Dyer",
@@ -7979,13 +7979,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/10/15045410.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/10/20220610-150454-172f9d597f9a-aebb9b67b6cc.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/15495610.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/10/15495610.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206101556.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-154956-2cd934ca81c5-791c76efdbca.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/10/20220610-154956-2cd934ca81c5-791c76efdbca.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/10/20220610-154956-2cd934ca81c5-791c76efdbca.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team ascends a fossil dune to start the long hike back to the car",
           "author": "Blake Dyer",
@@ -8000,13 +8000,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/10/15495610.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/10/20220610-154956-2cd934ca81c5-791c76efdbca.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/14072011.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/14072011.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206111420.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-140720-6808a1339e0c-a843cdfe42cc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-140720-6808a1339e0c-a843cdfe42cc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-140720-6808a1339e0c-a843cdfe42cc.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Platico Point",
           "author": "Blake Dyer",
@@ -8018,13 +8018,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/11/14072011.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-140720-6808a1339e0c-a843cdfe42cc.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/14282811.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/14282811.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206111428.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-142828-802137f8fcae-066e23778905.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-142828-802137f8fcae-066e23778905.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-142828-802137f8fcae-066e23778905.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A holocene coral (orbicella anularis?) clast sitting in lithified holocene beach",
           "author": "Blake Dyer",
@@ -8036,13 +8036,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/11/14282811.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-142828-802137f8fcae-066e23778905.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/14185311.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/14185311.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206111453.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-141853-f448d201c019-beb67bd026af.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-141853-f448d201c019-beb67bd026af.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-141853-f448d201c019-beb67bd026af.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Lithified holocene beach and dune sediments",
           "author": "Blake Dyer",
@@ -8054,13 +8054,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/11/14185311.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-141853-f448d201c019-beb67bd026af.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/14295811.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/14295811.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206111458.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-142958-dbfabb4e5f63-904dcdf591e4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-142958-dbfabb4e5f63-904dcdf591e4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-142958-dbfabb4e5f63-904dcdf591e4.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Rounded and abraded beach rock clasts encased in lithified holocene beach",
           "author": "Blake Dyer",
@@ -8072,13 +8072,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/11/14295811.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-142958-dbfabb4e5f63-904dcdf591e4.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/16490711.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/16490711.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206111607.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-164907-299c908cdbce-03eaa28e36a0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-164907-299c908cdbce-03eaa28e36a0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-164907-299c908cdbce-03eaa28e36a0.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Last interglacial aeolianite at Gamble Point",
           "author": "Blake Dyer",
@@ -8090,13 +8090,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/11/16490711.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-164907-299c908cdbce-03eaa28e36a0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/16414911.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/11/16414911.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206111649.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-164149-7f35cc81868b-f0fc28f4fa85.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/11/20220611-164149-7f35cc81868b-f0fc28f4fa85.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/11/20220611-164149-7f35cc81868b-f0fc28f4fa85.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Last interglacial aeolianite",
           "author": "Blake Dyer",
@@ -8109,13 +8109,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "fossil coral",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/11/16414911.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/11/20220611-164149-7f35cc81868b-f0fc28f4fa85.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/12/09464112.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/12/09464112.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206120910.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/12/20220612-094641-1cf72fd9617a-e53be9144f4c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/12/20220612-094641-1cf72fd9617a-e53be9144f4c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/12/20220612-094641-1cf72fd9617a-e53be9144f4c.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A 7 meter diameter orbicella annularis (organ pipe morph) from the last interglacial",
           "author": "Blake Dyer",
@@ -8135,13 +8135,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Turks and Caicos",
             "_Turks and Caicos 2022"
           ],
-          "archive_path": "2022/06/12/09464112.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/12/20220612-094641-1cf72fd9617a-e53be9144f4c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/12/09464112.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/12/09464112.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206120941.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/12/20220612-094641-1cf72fd9617a-e53be9144f4c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/12/20220612-094641-1cf72fd9617a-e53be9144f4c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/12/20220612-094641-1cf72fd9617a-e53be9144f4c.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A 7 meter diameter orbicella annularis (organ pipe morph) from the last interglacial",
           "author": "Blake Dyer",
@@ -8161,13 +8161,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Turks and Caicos",
             "_Turks and Caicos 2022"
           ],
-          "archive_path": "2022/06/12/09464112.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/12/20220612-094641-1cf72fd9617a-e53be9144f4c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/08182213.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/08182213.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206130822.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-081822-6d98f37ee0f7-e7fd2cb327aa.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-081822-6d98f37ee0f7-e7fd2cb327aa.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-081822-6d98f37ee0f7-e7fd2cb327aa.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team sets out on our morning traverse to Juniper Hole and Highas Cay",
           "author": "Blake Dyer",
@@ -8183,13 +8183,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/08182213.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-081822-6d98f37ee0f7-e7fd2cb327aa.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/09414313.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/09414313.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206130943.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-094143-55880639ed24-a5dfcc95c44c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-094143-55880639ed24-a5dfcc95c44c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-094143-55880639ed24-a5dfcc95c44c.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Close up of last interglacial fossil corals",
           "author": "Blake Dyer",
@@ -8205,13 +8205,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Orbicella annularis",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/09414313.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-094143-55880639ed24-a5dfcc95c44c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/10010913.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/10010913.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131009.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-100109-7d6d11631d88-0c793b6fc7f7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-100109-7d6d11631d88-0c793b6fc7f7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-100109-7d6d11631d88-0c793b6fc7f7.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team surveying a fossil coral reef from the last interglacial",
           "author": "Blake Dyer",
@@ -8230,13 +8230,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/10010913.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-100109-7d6d11631d88-0c793b6fc7f7.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/10273913.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/10273913.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131039.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-102739-f9c04abc5a7f-e11e0cbae6fd.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-102739-f9c04abc5a7f-e11e0cbae6fd.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-102739-f9c04abc5a7f-e11e0cbae6fd.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A rock boring urchin hanging out on a hardground just below low tide",
           "author": "Blake Dyer",
@@ -8251,13 +8251,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Turks and Caicos",
             "underwater"
           ],
-          "archive_path": "2022/06/13/10273913.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-102739-f9c04abc5a7f-e11e0cbae6fd.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/10585413.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/10585413.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131054.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-105854-7993de649112-b7004ee0def2.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-105854-7993de649112-b7004ee0def2.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-105854-7993de649112-b7004ee0def2.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team discusses the history of the fossil reef beneath their feet",
           "author": "Blake Dyer",
@@ -8272,13 +8272,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Juniper Hole",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/10585413.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-105854-7993de649112-b7004ee0def2.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/10175613.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/10175613.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131056.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-101756-2bc865fe9579-f8526d71fae4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-101756-2bc865fe9579-f8526d71fae4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-101756-2bc865fe9579-f8526d71fae4.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Oana samples a large Orbicella Annularis (Organ Pipe Morph)",
           "author": "Blake Dyer",
@@ -8296,13 +8296,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "sample",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/10175613.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-101756-2bc865fe9579-f8526d71fae4.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12110613.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12110613.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131206.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-121106-be04d1beef65-778a1fe04f1b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-121106-be04d1beef65-778a1fe04f1b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-121106-be04d1beef65-778a1fe04f1b.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Billy and Oana carry their kayak across a carbonate hardground",
           "author": "Blake Dyer",
@@ -8318,13 +8318,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/12110613.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-121106-be04d1beef65-778a1fe04f1b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12561913.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12561913.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131219.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-125619-82277ad280ed-555dfe958f87.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-125619-82277ad280ed-555dfe958f87.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-125619-82277ad280ed-555dfe958f87.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Billy and Oana bring their kayak in to harbor",
           "author": "Blake Dyer",
@@ -8337,13 +8337,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Highas Cay",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/12561913.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-125619-82277ad280ed-555dfe958f87.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12492413.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12492413.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131224.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-124924-ea8c04fb56c9-93684df5ed82.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-124924-ea8c04fb56c9-93684df5ed82.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-124924-ea8c04fb56c9-93684df5ed82.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A nice landing spot when you are looking for fossil reefs",
           "author": "Blake Dyer",
@@ -8360,13 +8360,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Porites porites",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/12492413.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-124924-ea8c04fb56c9-93684df5ed82.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12432613.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12432613.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131226.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-124326-eeff147742a4-727c59b71548.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-124326-eeff147742a4-727c59b71548.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-124326-eeff147742a4-727c59b71548.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team lands on Highas Cay and finds treasure",
           "author": "Blake Dyer",
@@ -8383,13 +8383,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/12432613.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-124326-eeff147742a4-727c59b71548.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12404113.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12404113.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131241.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-124041-289ea0a9ff3b-1410dd9fb9a8.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-124041-289ea0a9ff3b-1410dd9fb9a8.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-124041-289ea0a9ff3b-1410dd9fb9a8.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Tidal notches in last interglacial aeolinite from Highas Cay",
           "author": "Blake Dyer",
@@ -8402,13 +8402,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Highas Cay",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/12404113.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-124041-289ea0a9ff3b-1410dd9fb9a8.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12575413.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12575413.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131254.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-125754-32cffb78dff6-bd540b6fdea5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-125754-32cffb78dff6-bd540b6fdea5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-125754-32cffb78dff6-bd540b6fdea5.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The modern reef front seaward of Highas Cay",
           "author": "Blake Dyer",
@@ -8421,13 +8421,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Highas Cay",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/12575413.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-125754-32cffb78dff6-bd540b6fdea5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12185613.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12185613.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131256.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-121856-eeace2e8f78b-c572f434bd65.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-121856-eeace2e8f78b-c572f434bd65.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-121856-eeace2e8f78b-c572f434bd65.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team sets off for Highas Cay",
           "author": "Blake Dyer",
@@ -8444,13 +8444,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/12185613.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-121856-eeace2e8f78b-c572f434bd65.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12385813.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/12385813.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131258.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-123858-1a748665c888-97d48437730f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-123858-1a748665c888-97d48437730f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-123858-1a748665c888-97d48437730f.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Tidal notches in last interglacial aeolianite from Highas Cay",
           "author": "Blake Dyer",
@@ -8463,13 +8463,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Highas Cay",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/12385813.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-123858-1a748665c888-97d48437730f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/13134713.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/13/13134713.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206131347.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-131347-d2584016153b-43a273afa293.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/13/20220613-131347-d2584016153b-43a273afa293.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/13/20220613-131347-d2584016153b-43a273afa293.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger and Billy get to work",
           "author": "Blake Dyer",
@@ -8487,13 +8487,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/13/13134713.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/13/20220613-131347-d2584016153b-43a273afa293.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/14392214.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/14392214.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206141422.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-143922-a1cc2bed830d-24d502314652.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-143922-a1cc2bed830d-24d502314652.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/14/20220614-143922-a1cc2bed830d-24d502314652.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Billy takes some notes while Oana learns that the drone controller is out of battery",
           "author": "Blake Dyer",
@@ -8509,13 +8509,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/14/14392214.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/14/20220614-143922-a1cc2bed830d-24d502314652.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/16193314.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/14/16193314.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206141633.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-161933-ef279690086f-168cd0ba913c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/14/20220614-161933-ef279690086f-168cd0ba913c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/14/20220614-161933-ef279690086f-168cd0ba913c.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Sand grains marching along",
           "author": "Blake Dyer",
@@ -8528,13 +8528,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Turks and Caicos",
             "underwater"
           ],
-          "archive_path": "2022/06/14/16193314.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/14/20220614-161933-ef279690086f-168cd0ba913c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/09490615.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/09490615.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206150906.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-094906-7cf1ebe63620-d07a870ef719.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-094906-7cf1ebe63620-d07a870ef719.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-094906-7cf1ebe63620-d07a870ef719.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger uses the packraft to ferry our gear across the tidal creeks",
           "author": "Blake Dyer",
@@ -8548,13 +8548,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/15/09490615.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-094906-7cf1ebe63620-d07a870ef719.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/09491415.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/09491415.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206150914.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-094914-61edfd436791-3e1dcb98a28a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-094914-61edfd436791-3e1dcb98a28a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-094914-61edfd436791-3e1dcb98a28a.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Sandy tidal creeks between Middle Caicos and East Caicos",
           "author": "Blake Dyer",
@@ -8566,13 +8566,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/15/09491415.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-094914-61edfd436791-3e1dcb98a28a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/09514615.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/09514615.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206150946.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-095146-b50219b14e98-f0b3c24ec808.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-095146-b50219b14e98-f0b3c24ec808.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-095146-b50219b14e98-f0b3c24ec808.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger and Oana crossing over to Dickish Cay",
           "author": "Blake Dyer",
@@ -8586,13 +8586,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/15/09514615.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-095146-b50219b14e98-f0b3c24ec808.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/10030215.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/10030215.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206151002.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-100302-3017170ba4b5-719326cd399f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-100302-3017170ba4b5-719326cd399f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-100302-3017170ba4b5-719326cd399f.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Dickish Cay is loaded with the endemic Iguana to the Turks and Caicos islands",
           "author": "Blake Dyer",
@@ -8605,13 +8605,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Turks and Caicos",
             "Turks and Caicos Iguana"
           ],
-          "archive_path": "2022/06/15/10030215.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-100302-3017170ba4b5-719326cd399f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/10020715.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/10020715.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206151007.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-100207-db6abf7061f9-3e8ab43cb3d2.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-100207-db6abf7061f9-3e8ab43cb3d2.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-100207-db6abf7061f9-3e8ab43cb3d2.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Billy and Oana crossing Dickish Cay",
           "author": "Blake Dyer",
@@ -8626,13 +8626,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/15/10020715.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-100207-db6abf7061f9-3e8ab43cb3d2.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/11281115.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/11281115.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206151111.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-112811-1e67f5d7cf13-cd8050d9d060.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-112811-1e67f5d7cf13-cd8050d9d060.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-112811-1e67f5d7cf13-cd8050d9d060.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger bringing the packraft in to the beach on Joe Grant Cay",
           "author": "Blake Dyer",
@@ -8647,13 +8647,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/15/11281115.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-112811-1e67f5d7cf13-cd8050d9d060.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/11242315.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/11242315.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206151123.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-112423-c967397f41dc-8ce8d3ed4f75.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-112423-c967397f41dc-8ce8d3ed4f75.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-112423-c967397f41dc-8ce8d3ed4f75.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team heads to a soft spot for lunch",
           "author": "Blake Dyer",
@@ -8669,13 +8669,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/15/11242315.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-112423-c967397f41dc-8ce8d3ed4f75.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/11362815.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/11362815.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206151128.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-113628-b4763ef9ead7-58d83b55b752.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-113628-b4763ef9ead7-58d83b55b752.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-113628-b4763ef9ead7-58d83b55b752.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team enjoying some food and the view",
           "author": "Blake Dyer",
@@ -8691,13 +8691,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/15/11362815.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-113628-b4763ef9ead7-58d83b55b752.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/11064015.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/15/11064015.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206151140.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-110640-db86dd0fbcbd-7c54d1cdda32.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/15/20220615-110640-db86dd0fbcbd-7c54d1cdda32.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/15/20220615-110640-db86dd0fbcbd-7c54d1cdda32.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Oana is happy to find a nice fossil coral after the long and hot trek",
           "author": "Blake Dyer",
@@ -8713,13 +8713,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/15/11064015.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/15/20220615-110640-db86dd0fbcbd-7c54d1cdda32.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/16/13050516.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/16/13050516.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206161305.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/16/20220616-130505-4ba2650b3a6e-288929696fa5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/16/20220616-130505-4ba2650b3a6e-288929696fa5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/16/20220616-130505-4ba2650b3a6e-288929696fa5.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Billy disappears into the landscape of Joe Grant Cay",
           "author": "Blake Dyer",
@@ -8733,13 +8733,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/16/13050516.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/16/20220616-130505-4ba2650b3a6e-288929696fa5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/10252117.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/10252117.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206171021.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-102521-3e7f23a39b04-36022d40739b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-102521-3e7f23a39b04-36022d40739b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/17/20220617-102521-3e7f23a39b04-36022d40739b.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The drone checks in to see if Billy is working",
           "author": "Blake Dyer",
@@ -8753,13 +8753,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/17/10252117.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/17/20220617-102521-3e7f23a39b04-36022d40739b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/10345017.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/10345017.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206171050.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-103450-760b889f2bc7-03f236c0743d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-103450-760b889f2bc7-03f236c0743d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/17/20220617-103450-760b889f2bc7-03f236c0743d.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Good spirits all around, in spite of the extreme heat back in the bush",
           "author": "Blake Dyer",
@@ -8774,13 +8774,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/17/10345017.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/17/20220617-103450-760b889f2bc7-03f236c0743d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/11014117.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/11014117.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206171141.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-110141-7e5b0379a795-7b0de342683b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-110141-7e5b0379a795-7b0de342683b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/17/20220617-110141-7e5b0379a795-7b0de342683b.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Oana and Billy discussing sediment transport while the GPS samples",
           "author": "Blake Dyer",
@@ -8797,13 +8797,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/17/11014117.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/17/20220617-110141-7e5b0379a795-7b0de342683b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/14563317.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/14563317.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206171433.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-145633-501509e0217d-5eb650fefd0c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-145633-501509e0217d-5eb650fefd0c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/17/20220617-145633-501509e0217d-5eb650fefd0c.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Thick calcite cements hide these beautiful carbonate sands from the world",
           "author": "Blake Dyer",
@@ -8816,13 +8816,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/17/14563317.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/17/20220617-145633-501509e0217d-5eb650fefd0c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/15453317.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/15453317.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206171533.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-154533-815b1e1745c8-27e9ce8770d1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-154533-815b1e1745c8-27e9ce8770d1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/17/20220617-154533-815b1e1745c8-27e9ce8770d1.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger finishing up a survey of a fossilized last interglacial reef",
           "author": "Blake Dyer",
@@ -8836,13 +8836,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/17/15453317.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/17/20220617-154533-815b1e1745c8-27e9ce8770d1.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/15503817.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/15503817.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206171538.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-155038-e47707a7d791-befb2bd6ec20.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-155038-e47707a7d791-befb2bd6ec20.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/17/20220617-155038-e47707a7d791-befb2bd6ec20.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Oana is impressed with the quality of this Psuedodiploria sample",
           "author": "Blake Dyer",
@@ -8857,13 +8857,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/17/15503817.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/17/20220617-155038-e47707a7d791-befb2bd6ec20.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/16000717.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/16000717.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206171607.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-160007-66a9d0447601-498ea3941de0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-160007-66a9d0447601-498ea3941de0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/17/20220617-160007-66a9d0447601-498ea3941de0.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A fossil reef hugs the landward flank of last interglacial aeolinites",
           "author": "Blake Dyer",
@@ -8877,13 +8877,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/17/16000717.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/17/20220617-160007-66a9d0447601-498ea3941de0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/16054617.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/17/16054617.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206171646.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-160546-63d1187f04ee-e011cfc4f4d6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/17/20220617-160546-63d1187f04ee-e011cfc4f4d6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/17/20220617-160546-63d1187f04ee-e011cfc4f4d6.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "You can't tell, but Roger's face is expressing joy at another successful day",
           "author": "Blake Dyer",
@@ -8897,13 +8897,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Roger Creel",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/17/16054617.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/17/20220617-160546-63d1187f04ee-e011cfc4f4d6.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/08533220.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/08533220.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206200832.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-085332-d46d8547950f-4b9eb8f04378.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-085332-d46d8547950f-4b9eb8f04378.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/20/20220620-085332-d46d8547950f-4b9eb8f04378.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A fossilized red coralline algae sits atop fossil coral reef",
           "author": "Blake Dyer",
@@ -8917,13 +8917,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "TG-5",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/20/08533220.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/20/20220620-085332-d46d8547950f-4b9eb8f04378.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/08074320.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/08074320.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206200843.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-080743-d89b1b5b7991-3de131c6dd9a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-080743-d89b1b5b7991-3de131c6dd9a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/20/20220620-080743-d89b1b5b7991-3de131c6dd9a.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Preparing the packraft to transport gear to the distant cay",
           "author": "Blake Dyer",
@@ -8936,13 +8936,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "TG-5",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/20/08074320.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/20/20220620-080743-d89b1b5b7991-3de131c6dd9a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/09190020.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/09190020.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206200900.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-091900-faf5fb7f8edd-bcff29b63c4b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-091900-faf5fb7f8edd-bcff29b63c4b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/20/20220620-091900-faf5fb7f8edd-bcff29b63c4b.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Small stony brain corals are common in the upper layer of this fossil reef",
           "author": "Blake Dyer",
@@ -8956,13 +8956,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "TG-5",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/20/09190020.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/20/20220620-091900-faf5fb7f8edd-bcff29b63c4b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/09593520.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/09593520.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206200935.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-095935-2431b1db525a-2eb180534c20.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-095935-2431b1db525a-2eb180534c20.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/20/20220620-095935-2431b1db525a-2eb180534c20.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger hands a sample of the lithified reef sand to Oana and Steve",
           "author": "Blake Dyer",
@@ -8979,13 +8979,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "TG-5",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/20/09593520.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/20/20220620-095935-2431b1db525a-2eb180534c20.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/10291120.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/10291120.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206201011.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-102911-73cf231c5ffe-c6d409667d94.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-102911-73cf231c5ffe-c6d409667d94.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/20/20220620-102911-73cf231c5ffe-c6d409667d94.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Cerion snails weathering out of a fossilized terrestrial dune",
           "author": "Blake Dyer",
@@ -8998,13 +8998,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "TG-5",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/20/10291120.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/20/20220620-102911-73cf231c5ffe-c6d409667d94.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/11470420.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/20/11470420.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206201104.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-114704-9055ce944b63-dcc7509b3a5a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/20/20220620-114704-9055ce944b63-dcc7509b3a5a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/20/20220620-114704-9055ce944b63-dcc7509b3a5a.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team enjoys the view during lunch from Three Mary Cays",
           "author": "Blake Dyer",
@@ -9022,13 +9022,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "TG-5",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/20/11470420.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/20/20220620-114704-9055ce944b63-dcc7509b3a5a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/22/08471222.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/22/08471222.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206220812.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/22/20220622-084712-b40c25e2648e-d1121b01a880.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/22/20220622-084712-b40c25e2648e-d1121b01a880.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/22/20220622-084712-b40c25e2648e-d1121b01a880.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Differential erosion causes these elkhorn corals to stand out from this fossil reef outcrop",
           "author": "Blake Dyer",
@@ -9042,13 +9042,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "TG-5",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/22/08471222.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/22/20220622-084712-b40c25e2648e-d1121b01a880.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/22/10284822.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/22/10284822.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206221048.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/22/20220622-102848-88bfc41ede80-54a882d7f87b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/22/20220622-102848-88bfc41ede80-54a882d7f87b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/22/20220622-102848-88bfc41ede80-54a882d7f87b.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Billy manages the GPS while the drone looks on",
           "author": "Blake Dyer",
@@ -9064,13 +9064,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "TG-5",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/22/10284822.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/22/20220622-102848-88bfc41ede80-54a882d7f87b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/10035623.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/10035623.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206231056.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-100356-2b6fc29175b1-7b89658d0b79.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-100356-2b6fc29175b1-7b89658d0b79.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/23/20220623-100356-2b6fc29175b1-7b89658d0b79.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Marine sands entomb this fossil reef",
           "author": "Blake Dyer",
@@ -9083,13 +9083,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "fossil coral",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/23/10035623.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/23/20220623-100356-2b6fc29175b1-7b89658d0b79.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/11334923.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/11334923.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206231149.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-113349-733effcae117-5c5296a26340.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-113349-733effcae117-5c5296a26340.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/23/20220623-113349-733effcae117-5c5296a26340.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "This gap in the fossil coral reef collects sand today, resulting in a nice pocket beach",
           "author": "Blake Dyer",
@@ -9101,13 +9101,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/23/11334923.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/23/20220623-113349-733effcae117-5c5296a26340.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/14271023.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/14271023.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206231410.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-142710-164533d8630e-9e5adc7888ed.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-142710-164533d8630e-9e5adc7888ed.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/23/20220623-142710-164533d8630e-9e5adc7888ed.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Billy balances the GPS on an Orbicella Annularis while Steve and Oana discuss a coral sample",
           "author": "Blake Dyer",
@@ -9123,13 +9123,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Steve Goldstein",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/23/14271023.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/23/20220623-142710-164533d8630e-9e5adc7888ed.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/14111223.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/14111223.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206231412.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-141112-88735c01d536-bd6511dfd04c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-141112-88735c01d536-bd6511dfd04c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/23/20220623-141112-88735c01d536-bd6511dfd04c.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Alternating bands on coarse and fine sand provide clues to the environment these sands were deposited in",
           "author": "Blake Dyer",
@@ -9141,13 +9141,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/23/14111223.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/23/20220623-141112-88735c01d536-bd6511dfd04c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/14052823.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/14052823.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206231428.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-140528-fb40d7b19fe5-25011cb5f92e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-140528-fb40d7b19fe5-25011cb5f92e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/23/20220623-140528-fb40d7b19fe5-25011cb5f92e.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The team finishes the final steps of another survey site",
           "author": "Blake Dyer",
@@ -9164,13 +9164,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Steve Goldstein",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/23/14052823.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/23/20220623-140528-fb40d7b19fe5-25011cb5f92e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/15222023.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/15222023.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206231520.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-152220-682090bf3193-95fc6ac62926.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-152220-682090bf3193-95fc6ac62926.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/23/20220623-152220-682090bf3193-95fc6ac62926.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "The sun and heat is brutal in the late afternoon, but the team pushes on",
           "author": "Blake Dyer",
@@ -9186,13 +9186,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Steve Goldstein",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/23/15222023.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/23/20220623-152220-682090bf3193-95fc6ac62926.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/16021423.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/23/16021423.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206231614.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-160214-b9a545a7407d-ec8c4e87d676.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/23/20220623-160214-b9a545a7407d-ec8c4e87d676.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/23/20220623-160214-b9a545a7407d-ec8c4e87d676.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Billy collects a GPS point during the heat of the late afternoon",
           "author": "Blake Dyer",
@@ -9206,13 +9206,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Turks and Caicos"
           ],
-          "archive_path": "2022/06/23/16021423.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/23/20220623-160214-b9a545a7407d-ec8c4e87d676.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/08461525.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/08461525.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206250815.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-084615-40721e8a3f08-93cddd2ee7ef.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-084615-40721e8a3f08-93cddd2ee7ef.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-084615-40721e8a3f08-93cddd2ee7ef.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "These fossilized air bubbles formed as waves pushed air into the sand of this ancient beach",
           "author": "Blake Dyer",
@@ -9224,13 +9224,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "fenestrae"
           ],
-          "archive_path": "2022/06/25/08461525.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-084615-40721e8a3f08-93cddd2ee7ef.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/08013825.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/08013825.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206250838.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-080138-2a0ee6c86676-0ee5bd145f42.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-080138-2a0ee6c86676-0ee5bd145f42.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-080138-2a0ee6c86676-0ee5bd145f42.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A lively discussion of the last interglacial on West Caicos",
           "author": "Blake Dyer",
@@ -9241,13 +9241,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "captioned"
           ],
-          "archive_path": "2022/06/25/08013825.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-080138-2a0ee6c86676-0ee5bd145f42.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/08461525.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/08461525.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206250924.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-084615-40721e8a3f08-93cddd2ee7ef.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-084615-40721e8a3f08-93cddd2ee7ef.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-084615-40721e8a3f08-93cddd2ee7ef.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "These fossilized air bubbles formed as waves pushed air into the sand of this ancient beach",
           "author": "Blake Dyer",
@@ -9259,13 +9259,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "fenestrae"
           ],
-          "archive_path": "2022/06/25/08461525.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-084615-40721e8a3f08-93cddd2ee7ef.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/09573425.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/09573425.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206250934.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-095734-ebf1ca5a5334-85378cc1d070.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-095734-ebf1ca5a5334-85378cc1d070.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-095734-ebf1ca5a5334-85378cc1d070.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Oana and Steve exploring a fossilized last interglacial reef",
           "author": "Blake Dyer",
@@ -9278,13 +9278,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Oana Dumitru",
             "Steve Goldstein"
           ],
-          "archive_path": "2022/06/25/09573425.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-095734-ebf1ca5a5334-85378cc1d070.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/11285325.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/11285325.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206251153.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-112853-a5410de53c36-48f955351699.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-112853-a5410de53c36-48f955351699.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-112853-a5410de53c36-48f955351699.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Sand and coral rubble cover this ancient reef",
           "author": "Blake Dyer",
@@ -9295,13 +9295,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "captioned"
           ],
-          "archive_path": "2022/06/25/11285325.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-112853-a5410de53c36-48f955351699.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/12060625.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/12060625.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206251206.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-120606-3343bcce4808-ae283f64b15a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-120606-3343bcce4808-ae283f64b15a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-120606-3343bcce4808-ae283f64b15a.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A close up view of a Knobby Brain Coral",
           "author": "Blake Dyer",
@@ -9313,13 +9313,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "underwater"
           ],
-          "archive_path": "2022/06/25/12060625.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-120606-3343bcce4808-ae283f64b15a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/12061925.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/12061925.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206251219.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-120619-08639a852e81-8dca22e6aed3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-120619-08639a852e81-8dca22e6aed3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-120619-08639a852e81-8dca22e6aed3.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A close up view of a Knobby Brain Coral and a resident Christmas Tree Worm",
           "author": "Blake Dyer",
@@ -9331,13 +9331,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "underwater"
           ],
-          "archive_path": "2022/06/25/12061925.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-120619-08639a852e81-8dca22e6aed3.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/12105225.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/12105225.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206251252.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-121052-ad6bc269d958-c3c271583e61.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-121052-ad6bc269d958-c3c271583e61.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-121052-ad6bc269d958-c3c271583e61.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Differential weathering etches the limestone surrounding this fossilized Finger Coral colony",
           "author": "Blake Dyer",
@@ -9348,13 +9348,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "captioned"
           ],
-          "archive_path": "2022/06/25/12105225.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-121052-ad6bc269d958-c3c271583e61.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/14581725.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/14581725.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206251417.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-145817-eb900464196a-8454e4700ba5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-145817-eb900464196a-8454e4700ba5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-145817-eb900464196a-8454e4700ba5.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Some Fire Corals and Elkhorn Corals just getting started",
           "author": "Blake Dyer",
@@ -9366,13 +9366,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "underwater"
           ],
-          "archive_path": "2022/06/25/14581725.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-145817-eb900464196a-8454e4700ba5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/15081725.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/15081725.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206251517.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-150817-261775e20079-470cdce48d04.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-150817-261775e20079-470cdce48d04.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-150817-261775e20079-470cdce48d04.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger gets close for a better look at the Elkhorn Coral and Banded Butterflyfish",
           "author": "Blake Dyer",
@@ -9384,13 +9384,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "underwater"
           ],
-          "archive_path": "2022/06/25/15081725.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-150817-261775e20079-470cdce48d04.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/15143425.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/15143425.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206251534.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-151434-a9fd83797148-08b1575e517d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-151434-a9fd83797148-08b1575e517d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-151434-a9fd83797148-08b1575e517d.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Algae colonize most rocky surfaces underwater in the tropics",
           "author": "Blake Dyer",
@@ -9402,13 +9402,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "underwater"
           ],
-          "archive_path": "2022/06/25/15143425.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-151434-a9fd83797148-08b1575e517d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/15003725.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/15003725.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206251537.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-150037-bac9526af7e8-3596898d107c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-150037-bac9526af7e8-3596898d107c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-150037-bac9526af7e8-3596898d107c.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger exploring the deep",
           "author": "Blake Dyer",
@@ -9420,13 +9420,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "underwater"
           ],
-          "archive_path": "2022/06/25/15003725.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-150037-bac9526af7e8-3596898d107c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/15073925.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/15073925.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206251539.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-150739-3f92e85bc8be-f72ec74f8d9c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-150739-3f92e85bc8be-f72ec74f8d9c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-150739-3f92e85bc8be-f72ec74f8d9c.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A few small Elkhorn Coral colonies",
           "author": "Blake Dyer",
@@ -9438,13 +9438,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "underwater"
           ],
-          "archive_path": "2022/06/25/15073925.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-150739-3f92e85bc8be-f72ec74f8d9c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/15124025.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2022/06/25/15124025.jpg",
-          "thumb": "Gallery/turks_and_caicos_2022/thumb/202206251540.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-151240-f27559e969c9-40cca41dcc29.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2022/06/25/20220625-151240-f27559e969c9-40cca41dcc29.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2022/06/25/20220625-151240-f27559e969c9-40cca41dcc29.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A sand filled groove in the reef surface",
           "author": "Blake Dyer",
@@ -9456,7 +9456,7 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "underwater"
           ],
-          "archive_path": "2022/06/25/15124025.jpg"
+          "archive_path": "web/photo-system/v1/full/2022/06/25/20220625-151240-f27559e969c9-40cca41dcc29.jpg"
         }
       ]
     },
@@ -9470,13 +9470,13 @@ window.EARTH_HISTORY_GALLERIES = {
       ],
       "meta": "August 2021 \u00b7 31 photos",
       "dateRange": "August 2021",
-      "heroImage": "Gallery/thumb_canadian_rockies_2021/2021-08-08_21_00_23.jpg",
+      "heroImage": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/08/20210808-210023-e2215525093d-adf2246191ff.jpg",
       "filename": "canadian_rockies_2021.html",
       "photos": [
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/08/21002308.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/08/21002308.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-08_21_00_23.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/08/20210808-210023-e2215525093d-adf2246191ff.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/08/20210808-210023-e2215525093d-adf2246191ff.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/08/20210808-210023-e2215525093d-adf2246191ff.jpg",
           "width": 8000,
           "height": 6000,
           "caption": "Scouting the Miette thrust, Jasper National Park",
@@ -9489,12 +9489,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Canadian Rockies",
             "captioned"
           ],
-          "archive_path": "2021/08/08/21002308.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/08/20210808-210023-e2215525093d-adf2246191ff.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/11/21094211.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/11/21094211.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-11_21_09_42.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/11/20210811-210942-1ce2c475a713-a3b5e76b14da.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/11/20210811-210942-1ce2c475a713-a3b5e76b14da.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/11/20210811-210942-1ce2c475a713-a3b5e76b14da.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Setting up camp near Slide Mountain, Jasper National Park",
@@ -9509,12 +9509,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Overturn"
           ],
-          "archive_path": "2021/08/11/21094211.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/11/20210811-210942-1ce2c475a713-a3b5e76b14da.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/11/21244611.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/11/21244611.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-11_21_24_46.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/11/20210811-212446-557304a6c270-0a3025914498.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/11/20210811-212446-557304a6c270-0a3025914498.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/11/20210811-212446-557304a6c270-0a3025914498.jpg",
           "width": 4000,
           "height": 1800,
           "caption": "Camping near the Slide Mountain section, Miette thrust, Jasper National Park",
@@ -9529,12 +9529,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "Overturn"
           ],
-          "archive_path": "2021/08/11/21244611.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/11/20210811-212446-557304a6c270-0a3025914498.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/12/12532912.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/12/12532912.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-12_12_53_29.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/12/20210812-125329-9079f9b21f99-67298393509f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/12/20210812-125329-9079f9b21f99-67298393509f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/12/20210812-125329-9079f9b21f99-67298393509f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Devonian stromatoporoids (reef-building, calcifying sea sponges) from the Miette carbonate buildup in Jasper National Park",
@@ -9552,12 +9552,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "OverturnSE",
             "stromatoporoid"
           ],
-          "archive_path": "2021/08/12/12532912.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/12/20210812-125329-9079f9b21f99-67298393509f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/12/13010312.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/12/13010312.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-12_13_01_03.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/12/20210812-130103-6eff9ca6794c-545455978110.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/12/20210812-130103-6eff9ca6794c-545455978110.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/12/20210812-130103-6eff9ca6794c-545455978110.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Well-preserved stromatoporoid (Devonian calcifying sea sponge); vertical structures are called 'pillars', while small chambers are called 'galleries'.",
@@ -9575,12 +9575,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "OverturnSE",
             "stromatoporoid"
           ],
-          "archive_path": "2021/08/12/13010312.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/12/20210812-130103-6eff9ca6794c-545455978110.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/12/16352112.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/12/16352112.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-12_16_35_21.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/12/20210812-163521-b51ace972ce9-414c3bc304a5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/12/20210812-163521-b51ace972ce9-414c3bc304a5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/12/20210812-163521-b51ace972ce9-414c3bc304a5.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Devonian reef buildup formed by stromatoporoids (calcifying sea sponges), with morphologies ranging from bulbous to branching (Amphipora).",
@@ -9599,12 +9599,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "OverturnSE",
             "stromatoporoid"
           ],
-          "archive_path": "2021/08/12/16352112.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/12/20210812-163521-b51ace972ce9-414c3bc304a5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/12/16423012.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/12/16423012.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-12_16_42_30.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/12/20210812-164230-0d83dd99b9e6-27f85cd933fa.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/12/20210812-164230-0d83dd99b9e6-27f85cd933fa.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/12/20210812-164230-0d83dd99b9e6-27f85cd933fa.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Well-preserved stromatoporoid (Devonian calcifying sponge) on Slide Mountain, Jasper National Park",
@@ -9622,12 +9622,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "OverturnSE",
             "stromatoporoid"
           ],
-          "archive_path": "2021/08/12/16423012.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/12/20210812-164230-0d83dd99b9e6-27f85cd933fa.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/12/16494412.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/12/16494412.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-12_16_49_44.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/12/20210812-164944-acc6661284a4-3795305b5d69.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/12/20210812-164944-acc6661284a4-3795305b5d69.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/12/20210812-164944-acc6661284a4-3795305b5d69.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Devonian stromatoporoiod framestone in the Slide Mountain section, Jasper National Park",
@@ -9645,12 +9645,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "OverturnSE",
             "stromatoporoid"
           ],
-          "archive_path": "2021/08/12/16494412.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/12/20210812-164944-acc6661284a4-3795305b5d69.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/14/10243814.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/14/10243814.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-14_10_24_38.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/14/20210814-102438-29978785629c-791485f31f69.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/14/20210814-102438-29978785629c-791485f31f69.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/14/20210814-102438-29978785629c-791485f31f69.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Devonian branching stromatoporoid (Amphipora) packstone, Miette carbonate buildup, Jasper National Park",
@@ -9669,12 +9669,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "OverturnSE",
             "stromatoporoid"
           ],
-          "archive_path": "2021/08/14/10243814.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/14/20210814-102438-29978785629c-791485f31f69.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/14/13511414.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/14/13511414.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-14_13_51_14.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/14/20210814-135114-ce07a63e7f2e-33490ae656a0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/14/20210814-135114-ce07a63e7f2e-33490ae656a0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/14/20210814-135114-ce07a63e7f2e-33490ae656a0.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Large (40 cm diameter) stromatoporoid, Miette carbonate buildup, Jasper National Park",
@@ -9693,12 +9693,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "stromatolite",
             "stromatoporoid"
           ],
-          "archive_path": "2021/08/14/13511414.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/14/20210814-135114-ce07a63e7f2e-33490ae656a0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/15/15505415.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/15/15505415.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-15_15_50_54.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/15/20210815-155054-4b4b428174fb-ff68d36f57c4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/15/20210815-155054-4b4b428174fb-ff68d36f57c4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/15/20210815-155054-4b4b428174fb-ff68d36f57c4.jpg",
           "width": 3937,
           "height": 2996,
           "caption": "Kristyn inspects a Devonian reef buildup, Slide Mountain, Jasper National Park",
@@ -9714,12 +9714,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Kristyn",
             "People"
           ],
-          "archive_path": "2021/08/15/15505415.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/15/20210815-155054-4b4b428174fb-ff68d36f57c4.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/16/12474916.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/16/12474916.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-16_12_47_49.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/16/20210816-124749-0fce358e910e-7bdc7a4af80c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/16/20210816-124749-0fce358e910e-7bdc7a4af80c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/16/20210816-124749-0fce358e910e-7bdc7a4af80c.jpg",
           "width": 5472,
           "height": 3648,
           "caption": "Aerial view of the Slide Mountain section, Miette thrust, Jasper National Park",
@@ -9735,12 +9735,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Overturn"
           ],
-          "archive_path": "2021/08/16/12474916.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/16/20210816-124749-0fce358e910e-7bdc7a4af80c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/17/18121917.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/17/18121917.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-17_18_12_19.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/17/20210817-181219-89ac2db09085-38a034e7c8c4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/17/20210817-181219-89ac2db09085-38a034e7c8c4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/17/20210817-181219-89ac2db09085-38a034e7c8c4.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Stromatoporoids tumble over one another in a Devonian reef buildup",
@@ -9760,12 +9760,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "stromatoporoid"
           ],
-          "archive_path": "2021/08/17/18121917.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/17/20210817-181219-89ac2db09085-38a034e7c8c4.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/22/12021622.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/22/12021622.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-22_12_02_16.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/22/20210822-120216-71ed4c8c9940-67cca970a8c2.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/22/20210822-120216-71ed4c8c9940-67cca970a8c2.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/22/20210822-120216-71ed4c8c9940-67cca970a8c2.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Hiking through Cambrian strata on Roche Miette, Jasper National Park",
@@ -9782,12 +9782,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Roche Miette"
           ],
-          "archive_path": "2021/08/22/12021622.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/22/20210822-120216-71ed4c8c9940-67cca970a8c2.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/11122226.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/11122226.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-26_11_12_22.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-111222-12e6e010bc76-55f4b2eb83c5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-111222-12e6e010bc76-55f4b2eb83c5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/26/20210826-111222-12e6e010bc76-55f4b2eb83c5.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Horn coral in the Mount Head Formation, Mount Gass",
@@ -9807,12 +9807,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Pennsylvanian",
             "Solitary coral"
           ],
-          "archive_path": "2021/08/26/11122226.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/26/20210826-111222-12e6e010bc76-55f4b2eb83c5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/11412726.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/11412726.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-26_11_41_27.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-114127-2f6fad6099c6-5c66259015f7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-114127-2f6fad6099c6-5c66259015f7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/26/20210826-114127-2f6fad6099c6-5c66259015f7.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Missippian tabulate 'honeycomb' coral (Lithostrotionella), Mount Head Formation, Mount Gass.",
@@ -9832,12 +9832,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "MountGass",
             "Pennsylvanian"
           ],
-          "archive_path": "2021/08/26/11412726.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/26/20210826-114127-2f6fad6099c6-5c66259015f7.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/13371526.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/13371526.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-26_13_37_15.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-133715-30fe73a8aac3-5fe6e773a98c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-133715-30fe73a8aac3-5fe6e773a98c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/26/20210826-133715-30fe73a8aac3-5fe6e773a98c.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Sabkha facies (supratidal flats with evaporites) with pseudomorphs of gypsum, Etherington Formation, Mount Gass.",
@@ -9854,12 +9854,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "MountGass",
             "Pennsylvanian"
           ],
-          "archive_path": "2021/08/26/13371526.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/26/20210826-133715-30fe73a8aac3-5fe6e773a98c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/14281426.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/14281426.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-26_14_28_14.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-142814-3f1763cc989e-5b8c4679c201.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-142814-3f1763cc989e-5b8c4679c201.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/26/20210826-142814-3f1763cc989e-5b8c4679c201.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Rip-up clast in the Etherington Formation, Mount Gass",
@@ -9875,12 +9875,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "MountGass",
             "Pennsylvanian"
           ],
-          "archive_path": "2021/08/26/14281426.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/26/20210826-142814-3f1763cc989e-5b8c4679c201.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/15490726.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/15490726.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-26_15_49_07.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-154907-6ed5c70b88df-16a100291b55.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-154907-6ed5c70b88df-16a100291b55.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/26/20210826-154907-6ed5c70b88df-16a100291b55.jpg",
           "width": 5472,
           "height": 3648,
           "caption": "Aerial view of the Etherington Formation outcropping on Mount Gass",
@@ -9896,12 +9896,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Locations",
             "Mount Gass"
           ],
-          "archive_path": "2021/08/26/15490726.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/26/20210826-154907-6ed5c70b88df-16a100291b55.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/22235726.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/26/22235726.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-26_22_23_57.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-222357-b4f02842da25-785d4e61b09c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/26/20210826-222357-b4f02842da25-785d4e61b09c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/26/20210826-222357-b4f02842da25-785d4e61b09c.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Blake and Stacey look out over Mount Gass while scouting out sections",
@@ -9918,12 +9918,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "People",
             "Stacey"
           ],
-          "archive_path": "2021/08/26/22235726.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/26/20210826-222357-b4f02842da25-785d4e61b09c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/27/11474327.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/27/11474327.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-27_11_47_43.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/27/20210827-114743-d7488b5a264b-d5599f0c2079.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/27/20210827-114743-d7488b5a264b-d5599f0c2079.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/27/20210827-114743-d7488b5a264b-d5599f0c2079.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Cross-section through bryozoans in the Mount Head Formation, Mount Gass",
@@ -9940,12 +9940,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mississippian",
             "MountGass"
           ],
-          "archive_path": "2021/08/27/11474327.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/27/20210827-114743-d7488b5a264b-d5599f0c2079.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/27/12204527.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/27/12204527.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-27_12_20_45.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/27/20210827-122045-1d0731caedcf-608f3b5aadb9.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/27/20210827-122045-1d0731caedcf-608f3b5aadb9.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/27/20210827-122045-1d0731caedcf-608f3b5aadb9.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Anne-Sofie and Blake hiking up to the section at Mount Gass",
@@ -9962,12 +9962,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "MountGass",
             "People"
           ],
-          "archive_path": "2021/08/27/12204527.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/27/20210827-122045-1d0731caedcf-608f3b5aadb9.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/27/13020327.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/27/13020327.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-27_13_02_03.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/27/20210827-130203-931f7fceb3a1-b997b2ad2f1f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/27/20210827-130203-931f7fceb3a1-b997b2ad2f1f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/27/20210827-130203-931f7fceb3a1-b997b2ad2f1f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Colonial/branching (left) and solitary (right) bryozoa in the Mount Head Formation, Mount Gass",
@@ -9984,12 +9984,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Mississippian",
             "MountGass"
           ],
-          "archive_path": "2021/08/27/13020327.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/27/20210827-130203-931f7fceb3a1-b997b2ad2f1f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/27/17072627.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/27/17072627.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-27_17_07_26.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/27/20210827-170726-db8489ed6342-ff100eea2507.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/27/20210827-170726-db8489ed6342-ff100eea2507.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/27/20210827-170726-db8489ed6342-ff100eea2507.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Traversing back to camp at Mount Gass",
@@ -10006,12 +10006,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "MountGass",
             "People"
           ],
-          "archive_path": "2021/08/27/17072627.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/27/20210827-170726-db8489ed6342-ff100eea2507.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/28/11283928.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/28/11283928.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-28_11_28_39.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/28/20210828-112839-a707a545b95f-609119c99d5c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/28/20210828-112839-a707a545b95f-609119c99d5c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/28/20210828-112839-a707a545b95f-609119c99d5c.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Mississippian tabulate coral (Syringopora), Mount Head Formation, Mount Gass",
@@ -10031,12 +10031,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "syringopora"
           ],
-          "archive_path": "2021/08/28/11283928.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/28/20210828-112839-a707a545b95f-609119c99d5c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/28/11433128.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/28/11433128.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-28_11_43_31.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/28/20210828-114331-e7afc279ecee-26cb9f6a01e5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/28/20210828-114331-e7afc279ecee-26cb9f6a01e5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/28/20210828-114331-e7afc279ecee-26cb9f6a01e5.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Fossils in the Mount Head Formation, Mount Gass",
@@ -10055,12 +10055,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "star"
           ],
-          "archive_path": "2021/08/28/11433128.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/28/20210828-114331-e7afc279ecee-26cb9f6a01e5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/28/16222128.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/28/16222128.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-28_16_22_21.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/28/20210828-162221-80775d589457-473c72d21658.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/28/20210828-162221-80775d589457-473c72d21658.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/28/20210828-162221-80775d589457-473c72d21658.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Bryozoan in the Mount Head Formation, Mount Gass",
@@ -10079,12 +10079,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "S206",
             "Sections"
           ],
-          "archive_path": "2021/08/28/16222128.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/28/20210828-162221-80775d589457-473c72d21658.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/28/20271128.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/28/20271128.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-28_20_27_11.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/28/20210828-202711-b07f35deb3c1-fb32dcd49961.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/28/20210828-202711-b07f35deb3c1-fb32dcd49961.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/28/20210828-202711-b07f35deb3c1-fb32dcd49961.jpg",
           "width": 8000,
           "height": 6000,
           "caption": "View of the sunset from our campsite at Mount Gass",
@@ -10098,12 +10098,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "captioned",
             "MountGass"
           ],
-          "archive_path": "2021/08/28/20271128.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/28/20210828-202711-b07f35deb3c1-fb32dcd49961.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/29/12241129.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/29/12241129.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-29_12_24_11.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/29/20210829-122411-e705bba0b6f0-f57dadff2b4d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/29/20210829-122411-e705bba0b6f0-f57dadff2b4d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/29/20210829-122411-e705bba0b6f0-f57dadff2b4d.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Mississippian tabulate coral (Syringopora), Mount Head Formation, Mount Gass",
@@ -10123,12 +10123,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Sections",
             "syringopora"
           ],
-          "archive_path": "2021/08/29/12241129.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/29/20210829-122411-e705bba0b6f0-f57dadff2b4d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/29/13524229.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/29/13524229.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-29_13_52_42.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/29/20210829-135242-8a9b522e840b-01796c1bdf2f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/29/20210829-135242-8a9b522e840b-01796c1bdf2f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/29/20210829-135242-8a9b522e840b-01796c1bdf2f.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Large Mississippian 'honeycomb' tabulate coral (Lithostrotionella) in growth position. The coral is growing up and out, and then over topography (intersecting a pocket of wackestone).",
@@ -10149,12 +10149,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "S207",
             "Sections"
           ],
-          "archive_path": "2021/08/29/13524229.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/29/20210829-135242-8a9b522e840b-01796c1bdf2f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/29/13554529.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2021/08/29/13554529.jpg",
-          "thumb": "Gallery/thumb_canadian_rockies_2021/2021-08-29_13_55_45.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/29/20210829-135545-e368345f6167-724f4d4b1183.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2021/08/29/20210829-135545-e368345f6167-724f4d4b1183.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2021/08/29/20210829-135545-e368345f6167-724f4d4b1183.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "Missippian tabulate 'honeycomb' coral (Lithostrotionella), Mount Head Formation, Mount Gass.",
@@ -10175,7 +10175,7 @@ window.EARTH_HISTORY_GALLERIES = {
             "S207",
             "Sections"
           ],
-          "archive_path": "2021/08/29/13554529.jpg"
+          "archive_path": "web/photo-system/v1/full/2021/08/29/20210829-135545-e368345f6167-724f4d4b1183.jpg"
         }
       ]
     },
@@ -10189,13 +10189,13 @@ window.EARTH_HISTORY_GALLERIES = {
       ],
       "meta": "March 2018 \u00b7 21 photos",
       "dateRange": "March 2018",
-      "heroImage": "Gallery/thumb_barbados/DSC_0945.jpg",
+      "heroImage": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/06/20180306-112534-92b5f99a5853-937481c38c59.jpg",
       "filename": "barbados.html",
       "photos": [
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/11253406.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/11253406.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_0945.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-112534-92b5f99a5853-937481c38c59.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-112534-92b5f99a5853-937481c38c59.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/06/20180306-112534-92b5f99a5853-937481c38c59.jpg",
           "width": 6030,
           "height": 4028,
           "caption": "The team checking out a sea cave or tidal notch from ~80 thousand years ago",
@@ -10205,12 +10205,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2018-03-06T11:25:34",
           "id": 3003,
           "tags": [],
-          "archive_path": "2018/03/06/11253406.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/06/20180306-112534-92b5f99a5853-937481c38c59.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/11260106.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/11260106.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_0947.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-112601-bdd255a03671-aa04ea9e5292.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-112601-bdd255a03671-aa04ea9e5292.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/06/20180306-112601-bdd255a03671-aa04ea9e5292.jpg",
           "width": 6030,
           "height": 4028,
           "caption": "The forest obscures many tidal notches and sea caves from the past",
@@ -10220,13 +10220,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2018-03-06T11:26:01",
           "id": 3005,
           "tags": [],
-          "archive_path": "2018/03/06/11260106.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/06/20180306-112601-bdd255a03671-aa04ea9e5292.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/11335006.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/11335006.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_0949.jpg",
-          "width": 6030,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-113350-e0a9fc2b0d1e-8a8e4d486c41.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-113350-e0a9fc2b0d1e-8a8e4d486c41.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/06/20180306-113350-e0a9fc2b0d1e-8a8e4d486c41.jpg",
+          "width": 6080,
           "height": 4028,
           "caption": "The team consults a paper over lunch",
           "author": "Blake Dyer",
@@ -10235,13 +10235,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2018-03-06T11:33:50",
           "id": 3007,
           "tags": [],
-          "archive_path": "2018/03/06/11335006.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/06/20180306-113350-e0a9fc2b0d1e-8a8e4d486c41.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/11535506.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/11535506.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_0955.jpg",
-          "width": 6030,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-115355-8f13bc60e42e-114feaf64496.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-115355-8f13bc60e42e-114feaf64496.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/06/20180306-115355-8f13bc60e42e-114feaf64496.jpg",
+          "width": 6080,
           "height": 4028,
           "caption": "\"Play your part. Let's make Barbados 166 square miles of art.\"",
           "author": "Blake Dyer",
@@ -10250,13 +10250,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2018-03-06T11:53:55",
           "id": 3013,
           "tags": [],
-          "archive_path": "2018/03/06/11535506.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/06/20180306-115355-8f13bc60e42e-114feaf64496.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/12143006.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/12143006.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_0960.jpg",
-          "width": 6030,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-121430-9a21657b80bd-74403845d26e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-121430-9a21657b80bd-74403845d26e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/06/20180306-121430-9a21657b80bd-74403845d26e.jpg",
+          "width": 6080,
           "height": 4028,
           "caption": "Kevin takes a closer look the internal stratigraphy of an ancient reef",
           "author": "Blake Dyer",
@@ -10265,12 +10265,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2018-03-06T12:14:30",
           "id": 3018,
           "tags": [],
-          "archive_path": "2018/03/06/12143006.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/06/20180306-121430-9a21657b80bd-74403845d26e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/15310106.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/15310106.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_0979.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-153101-be27b177710a-3606405848d0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-153101-be27b177710a-3606405848d0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/06/20180306-153101-be27b177710a-3606405848d0.jpg",
           "width": 6030,
           "height": 4028,
           "caption": "Worm snails (vermetids) are quite happy on the high energy coastline where they form massive constructional terraces in the lower tidal zone",
@@ -10280,12 +10280,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2018-03-06T15:31:01",
           "id": 3044,
           "tags": [],
-          "archive_path": "2018/03/06/15310106.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/06/20180306-153101-be27b177710a-3606405848d0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/14164806.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/14164806.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_0988.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-141648-223e468de11b-bdc37bb71c79.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-141648-223e468de11b-bdc37bb71c79.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/06/20180306-141648-223e468de11b-bdc37bb71c79.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "The cliffy northern coast of Barbados experiences the full force of the Atlantic ocean",
@@ -10297,12 +10297,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Barbados2018"
           ],
-          "archive_path": "2018/03/06/14164806.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/06/20180306-141648-223e468de11b-bdc37bb71c79.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/14164806.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/06/14164806.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_0990.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-141648-223e468de11b-bdc37bb71c79.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/06/20180306-141648-223e468de11b-bdc37bb71c79.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/06/20180306-141648-223e468de11b-bdc37bb71c79.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "The cliffy northern coast of Barbados experiences the full force of the Atlantic ocean",
@@ -10314,12 +10314,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Barbados2018"
           ],
-          "archive_path": "2018/03/06/14164806.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/06/20180306-141648-223e468de11b-bdc37bb71c79.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/07/16052307.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/07/16052307.jpg",
-          "thumb": "Gallery/thumb_barbados/IMG_3222.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/07/20180307-160523-24bdcd9c1e75-47fb3fd3003d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/07/20180307-160523-24bdcd9c1e75-47fb3fd3003d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/07/20180307-160523-24bdcd9c1e75-47fb3fd3003d.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "This boulder fell into the sea ~125 thousand years ago, and the notch around the boulder was carved by the tides. This geologic feature is above sea level today because the island is being pushed upwards as the Caribbean plate subducts to the east",
@@ -10332,12 +10332,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Barbados2018",
             "Web"
           ],
-          "archive_path": "2018/03/07/16052307.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/07/20180307-160523-24bdcd9c1e75-47fb3fd3003d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/07/16083807.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/07/16083807.jpg",
-          "thumb": "Gallery/thumb_barbados/IMG_3223.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/07/20180307-160838-f8636129d938-7ce6b1b2f82e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/07/20180307-160838-f8636129d938-7ce6b1b2f82e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/07/20180307-160838-f8636129d938-7ce6b1b2f82e.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "Today, cows graze on the grass the grows in what was once a shallow marine sand flat",
@@ -10350,13 +10350,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Barbados2018",
             "Web"
           ],
-          "archive_path": "2018/03/07/16083807.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/07/20180307-160838-f8636129d938-7ce6b1b2f82e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/07/16091907.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/07/16091907.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_1285.jpg",
-          "width": 6030,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/07/20180307-160919-2de16ef70cbe-3ef53b0d2f81.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/07/20180307-160919-2de16ef70cbe-3ef53b0d2f81.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/07/20180307-160919-2de16ef70cbe-3ef53b0d2f81.jpg",
+          "width": 6080,
           "height": 4028,
           "caption": "The team hiking through the complex tectonic terrain on the eastern flank of Barbados",
           "author": "Blake Dyer",
@@ -10365,13 +10365,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2018-03-07T16:09:19",
           "id": 3329,
           "tags": [],
-          "archive_path": "2018/03/07/16091907.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/07/20180307-160919-2de16ef70cbe-3ef53b0d2f81.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/07/16122107.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/07/16122107.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_1287.jpg",
-          "width": 6030,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/07/20180307-161221-6dbdd2b5c2e4-580f9af04bce.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/07/20180307-161221-6dbdd2b5c2e4-580f9af04bce.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/07/20180307-161221-6dbdd2b5c2e4-580f9af04bce.jpg",
+          "width": 6080,
           "height": 4028,
           "caption": "The team hiking through the complex tectonic terrain on the eastern flank of Barbados",
           "author": "Blake Dyer",
@@ -10380,12 +10380,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2018-03-07T16:12:21",
           "id": 3331,
           "tags": [],
-          "archive_path": "2018/03/07/16122107.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/07/20180307-161221-6dbdd2b5c2e4-580f9af04bce.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/07/16231607.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/07/16231607.jpg",
-          "thumb": "Gallery/thumb_barbados/IMG_3227.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/07/20180307-162316-9f4a649855e1-3a93575bfa67.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/07/20180307-162316-9f4a649855e1-3a93575bfa67.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/07/20180307-162316-9f4a649855e1-3a93575bfa67.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "The cliffs of the far side of this bay offer a beautiful look at an angular uncornformity",
@@ -10398,12 +10398,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Barbados2018",
             "Web"
           ],
-          "archive_path": "2018/03/07/16231607.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/07/20180307-162316-9f4a649855e1-3a93575bfa67.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/08/12174308.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/08/12174308.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_2186.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/08/20180308-121743-a0c288f75f90-09b364a8e2c0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/08/20180308-121743-a0c288f75f90-09b364a8e2c0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/08/20180308-121743-a0c288f75f90-09b364a8e2c0.jpg",
           "width": 6016,
           "height": 4016,
           "caption": "Robert and Mike discussing an ancient coral",
@@ -10416,12 +10416,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Barbados2018",
             "Web"
           ],
-          "archive_path": "2018/03/08/12174308.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/08/20180308-121743-a0c288f75f90-09b364a8e2c0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/10/14093910.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/10/14093910.jpg",
-          "thumb": "Gallery/thumb_barbados/IMG_3316.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/10/20180310-140939-7ae6f3adbb03-50dd46ddb9d7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/10/20180310-140939-7ae6f3adbb03-50dd46ddb9d7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/10/20180310-140939-7ae6f3adbb03-50dd46ddb9d7.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "As corals break apart and fall to the seafloor, many organisms take advantage of the new furniture. In this photo you can see the carbonate remains of many of these new organisms above the coral clast",
@@ -10434,12 +10434,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Barbados2018",
             "Web"
           ],
-          "archive_path": "2018/03/10/14093910.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/10/20180310-140939-7ae6f3adbb03-50dd46ddb9d7.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/10/14095310.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/10/14095310.jpg",
-          "thumb": "Gallery/thumb_barbados/IMG_3317.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/10/20180310-140953-02940511d6e6-938d82b8933e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/10/20180310-140953-02940511d6e6-938d82b8933e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/10/20180310-140953-02940511d6e6-938d82b8933e.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "As corals break apart and fall to the seafloor, many organisms take advantage of the new furniture. In this photo you can see the carbonate remains of many of these new organisms above the coral clast",
@@ -10452,12 +10452,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Barbados2018",
             "Web"
           ],
-          "archive_path": "2018/03/10/14095310.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/10/20180310-140953-02940511d6e6-938d82b8933e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/11/13300711.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/11/13300711.jpg",
-          "thumb": "Gallery/thumb_barbados/IMG_3392.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/11/20180311-133007-e93f48589d43-84803160a360.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/11/20180311-133007-e93f48589d43-84803160a360.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/11/20180311-133007-e93f48589d43-84803160a360.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "Reddish foraminifera grew on the surface of this lesser starlet coral (Siderastrea Radians) during MIS 5a (~80 thousand years ago)",
@@ -10470,12 +10470,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Barbados2018",
             "Web"
           ],
-          "archive_path": "2018/03/11/13300711.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/11/20180311-133007-e93f48589d43-84803160a360.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/12/08241512.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/12/08241512.jpg",
-          "thumb": "Gallery/thumb_barbados/IMG_3420.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/12/20180312-082415-1e5c35ec9b64-c8d0b925733e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/12/20180312-082415-1e5c35ec9b64-c8d0b925733e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/12/20180312-082415-1e5c35ec9b64-c8d0b925733e.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "Some Serpulid worms, such as Christmas tree worms, bore into living massive corals",
@@ -10488,12 +10488,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Barbados2018",
             "Web"
           ],
-          "archive_path": "2018/03/12/08241512.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/12/20180312-082415-1e5c35ec9b64-c8d0b925733e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/12/08242312.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/12/08242312.jpg",
-          "thumb": "Gallery/thumb_barbados/IMG_3421.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/12/20180312-082423-49288618f26b-afef8f2573bc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/12/20180312-082423-49288618f26b-afef8f2573bc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/12/20180312-082423-49288618f26b-afef8f2573bc.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "Some Serpulid worms, such as Christmas tree worms, bore into living massive corals",
@@ -10506,13 +10506,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Barbados2018",
             "Web"
           ],
-          "archive_path": "2018/03/12/08242312.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/12/20180312-082423-49288618f26b-afef8f2573bc.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/12/15195512.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/12/15195512.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_1551.jpg",
-          "width": 6030,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/12/20180312-151955-c14823899c90-90acd6a22109.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/12/20180312-151955-c14823899c90-90acd6a22109.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/12/20180312-151955-c14823899c90-90acd6a22109.jpg",
+          "width": 6080,
           "height": 4028,
           "caption": "Believe it or not, there are carbonates hiding in tropical forests",
           "author": "Blake Dyer",
@@ -10521,12 +10521,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2018-03-12T15:19:55",
           "id": 18846,
           "tags": [],
-          "archive_path": "2018/03/12/15195512.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/12/20180312-151955-c14823899c90-90acd6a22109.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/13/16053213.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2018/03/13/16053213.jpg",
-          "thumb": "Gallery/thumb_barbados/DSC_3060.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/13/20180313-160532-4cd1a2da9498-a8ec98545e16.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2018/03/13/20180313-160532-4cd1a2da9498-a8ec98545e16.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2018/03/13/20180313-160532-4cd1a2da9498-a8ec98545e16.jpg",
           "width": 6016,
           "height": 4016,
           "caption": "Worms and other organisms colonized the upper surface of this transported Elkhorn coral (A. Palmata) fragment",
@@ -10539,7 +10539,7 @@ window.EARTH_HISTORY_GALLERIES = {
             "Barbados2018",
             "Web"
           ],
-          "archive_path": "2018/03/13/16053213.jpg"
+          "archive_path": "web/photo-system/v1/full/2018/03/13/20180313-160532-4cd1a2da9498-a8ec98545e16.jpg"
         }
       ]
     },
@@ -10553,13 +10553,13 @@ window.EARTH_HISTORY_GALLERIES = {
       ],
       "meta": "June 2019 \u00b7 161 photos",
       "dateRange": "June 2019",
-      "heroImage": "Gallery/thumb_bahamas/20190606-11-01-49.jpg",
+      "heroImage": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-110149-818bc1065f45-5bc623cb7d92.jpg",
       "filename": "bahamas.html",
       "photos": [
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/11014906.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/11014906.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-11-01-49.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-110149-818bc1065f45-5bc623cb7d92.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-110149-818bc1065f45-5bc623cb7d92.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-110149-818bc1065f45-5bc623cb7d92.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "A little rain doesn't bother Jacky",
@@ -10569,14 +10569,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T11:01:49",
           "id": 6567,
           "tags": [],
-          "archive_path": "2019/06/06/11014906.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-110149-818bc1065f45-5bc623cb7d92.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/11212806.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/11212806.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-11-21-28.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-112128-2a6220b430d0-20ca5b14fa46.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-112128-2a6220b430d0-20ca5b14fa46.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-112128-2a6220b430d0-20ca5b14fa46.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "A small cave offers shelter from the rain and a glimpse at ancient ripples",
           "author": "Blake Dyer",
           "alt": "A small cave offers shelter from the rain and a glimpse at ancient ripples",
@@ -10584,14 +10584,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T11:21:28",
           "id": 6575,
           "tags": [],
-          "archive_path": "2019/06/06/11212806.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-112128-2a6220b430d0-20ca5b14fa46.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/11364606.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/11364606.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-11-36-46.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-113646-3bfb5d5c2952-da4eca312283.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-113646-3bfb5d5c2952-da4eca312283.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-113646-3bfb5d5c2952-da4eca312283.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "These shallow seas swallow up old dunes",
           "author": "Blake Dyer",
           "alt": "These shallow seas swallow up old dunes",
@@ -10599,14 +10599,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T11:36:46",
           "id": 6577,
           "tags": [],
-          "archive_path": "2019/06/06/11364606.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-113646-3bfb5d5c2952-da4eca312283.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/11464606.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/11464606.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-11-46-46.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-114646-e7374fee04bb-d7e44d970e9a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-114646-e7374fee04bb-d7e44d970e9a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-114646-e7374fee04bb-d7e44d970e9a.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Roger and Billy hike along the margins of a fossilized dune",
           "author": "Blake Dyer",
           "alt": "Roger and Billy hike along the margins of a fossilized dune",
@@ -10614,14 +10614,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T11:46:46",
           "id": 6581,
           "tags": [],
-          "archive_path": "2019/06/06/11464606.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-114646-e7374fee04bb-d7e44d970e9a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/12505406.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/12505406.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-12-50-54.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-125054-749226bb8348-4beb4f0f2db4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-125054-749226bb8348-4beb4f0f2db4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-125054-749226bb8348-4beb4f0f2db4.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The surface of a dead Elkhorn coral is the perfect place for many encrusting organisms to make homes",
           "author": "Blake Dyer",
           "alt": "The surface of a dead Elkhorn coral is the perfect place for many encrusting organisms to make homes",
@@ -10629,14 +10629,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T12:50:54",
           "id": 6594,
           "tags": [],
-          "archive_path": "2019/06/06/12505406.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-125054-749226bb8348-4beb4f0f2db4.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/12510806.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/12510806.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-12-51-08.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-125108-09c1e9cd997a-f928e28d3c00.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-125108-09c1e9cd997a-f928e28d3c00.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-125108-09c1e9cd997a-f928e28d3c00.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Serpulid worms colonize the surface of a dead elkhorn coral",
           "author": "Blake Dyer",
           "alt": "Serpulid worms colonize the surface of a dead elkhorn coral",
@@ -10644,14 +10644,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T12:51:08",
           "id": 6595,
           "tags": [],
-          "archive_path": "2019/06/06/12510806.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-125108-09c1e9cd997a-f928e28d3c00.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/12513306.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/12513306.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-12-51-33.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-125133-2733eb1dd44b-635c68e043c8.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-125133-2733eb1dd44b-635c68e043c8.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-125133-2733eb1dd44b-635c68e043c8.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Some organisms bore deep vertical chambers into the dead corals",
           "author": "Blake Dyer",
           "alt": "Some organisms bore deep vertical chambers into the dead corals",
@@ -10659,14 +10659,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T12:51:33",
           "id": 6596,
           "tags": [],
-          "archive_path": "2019/06/06/12513306.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-125133-2733eb1dd44b-635c68e043c8.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/13493806.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/13493806.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-13-49-38.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-134938-a383a1cc88ed-2c6f19e00013.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-134938-a383a1cc88ed-2c6f19e00013.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-134938-a383a1cc88ed-2c6f19e00013.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Roger takes a moment to enjoy the hike",
           "author": "Blake Dyer",
           "alt": "Roger takes a moment to enjoy the hike",
@@ -10674,13 +10674,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T13:49:38",
           "id": 6603,
           "tags": [],
-          "archive_path": "2019/06/06/13493806.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-134938-a383a1cc88ed-2c6f19e00013.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/15565506.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/15565506.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-15-56-55.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-155655-107fcb1db3e6-7abf41230515.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-155655-107fcb1db3e6-7abf41230515.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-155655-107fcb1db3e6-7abf41230515.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Lesser starlet coral (Siderastrea radians) establishes a foothold in a shallow sandy environement",
           "author": "Blake Dyer",
@@ -10689,12 +10689,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T15:56:55",
           "id": 6633,
           "tags": [],
-          "archive_path": "2019/06/06/15565506.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-155655-107fcb1db3e6-7abf41230515.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/15571206.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/15571206.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-15-57-12.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-155712-f1191e98fe5b-7a4b8379020e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-155712-f1191e98fe5b-7a4b8379020e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-155712-f1191e98fe5b-7a4b8379020e.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "Green algae and sea grass are common in these shallow environments",
@@ -10704,13 +10704,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T15:57:12",
           "id": 6635,
           "tags": [],
-          "archive_path": "2019/06/06/15571206.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-155712-f1191e98fe5b-7a4b8379020e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/16085406.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/06/16085406.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190606-16-08-54.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-160854-803a19dd9a7e-7e2c97ca32d3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/06/20190606-160854-803a19dd9a7e-7e2c97ca32d3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/06/20190606-160854-803a19dd9a7e-7e2c97ca32d3.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "A cushion sea star (Oreaster reticulatus) makes its way across the algal flats",
           "author": "Blake Dyer",
@@ -10719,14 +10719,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-06T16:08:54",
           "id": 6652,
           "tags": [],
-          "archive_path": "2019/06/06/16085406.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/06/20190606-160854-803a19dd9a7e-7e2c97ca32d3.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/09080107.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/09080107.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190607-09-08-01.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-090801-9853a10e404f-c13692dfb86d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-090801-9853a10e404f-c13692dfb86d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/07/20190607-090801-9853a10e404f-c13692dfb86d.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Another rocky hike for the team",
           "author": "Blake Dyer",
           "alt": "Another rocky hike for the team",
@@ -10734,14 +10734,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-07T09:08:01",
           "id": 6686,
           "tags": [],
-          "archive_path": "2019/06/07/09080107.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/07/20190607-090801-9853a10e404f-c13692dfb86d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/10192407.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/10192407.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190607-10-19-24.jpg",
-          "width": 1500,
-          "height": 2000,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-101924-d69a7ce8d8db-3124087ef192.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-101924-d69a7ce8d8db-3124087ef192.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/07/20190607-101924-d69a7ce8d8db-3124087ef192.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The team takes a closer look at carbonate cements that seem to drip downwards from an interesting layer",
           "author": "Billy D'Andrea",
           "alt": "The team takes a closer look at carbonate cements that seem to drip downwards from an interesting layer",
@@ -10749,14 +10749,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-07T10:19:24",
           "id": 6703,
           "tags": [],
-          "archive_path": "2019/06/07/10192407.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/07/20190607-101924-d69a7ce8d8db-3124087ef192.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/11543007.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/11543007.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190607-11-54-30.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-115430-7dc1169552cb-f284d5c4a74b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-115430-7dc1169552cb-f284d5c4a74b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/07/20190607-115430-7dc1169552cb-f284d5c4a74b.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Crossbedded sands cover up an extensively burrowed unit",
           "author": "Blake Dyer",
           "alt": "Crossbedded sands cover up an extensively burrowed unit",
@@ -10764,14 +10764,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-07T11:54:30",
           "id": 6749,
           "tags": [],
-          "archive_path": "2019/06/07/11543007.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/07/20190607-115430-7dc1169552cb-f284d5c4a74b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/13303707.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/13303707.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190607-13-30-37.jpg",
-          "width": 1500,
-          "height": 2000,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-133037-398fdc07f9a4-978330c40775.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-133037-398fdc07f9a4-978330c40775.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/07/20190607-133037-398fdc07f9a4-978330c40775.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Burrows with fecal pellet lined walls (Ophiomorpha)",
           "author": "Blake Dyer",
           "alt": "Burrows with fecal pellet lined walls (Ophiomorpha)",
@@ -10779,14 +10779,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-07T13:30:37",
           "id": 6754,
           "tags": [],
-          "archive_path": "2019/06/07/13303707.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/07/20190607-133037-398fdc07f9a4-978330c40775.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/15085407.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/15085407.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190607-15-08-54.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-150854-9369b49bf8d5-d5104ac8f91d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-150854-9369b49bf8d5-d5104ac8f91d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/07/20190607-150854-9369b49bf8d5-d5104ac8f91d.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Roger flies the drone while Jacky serves as spotter",
           "author": "Blake Dyer",
           "alt": "Roger flies the drone while Jacky serves as spotter",
@@ -10794,14 +10794,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-07T15:08:54",
           "id": 6756,
           "tags": [],
-          "archive_path": "2019/06/07/15085407.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/07/20190607-150854-9369b49bf8d5-d5104ac8f91d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/17290007.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/17290007.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190607-17-29-00.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-172900-952703440965-b80262f09060.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-172900-952703440965-b80262f09060.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/07/20190607-172900-952703440965-b80262f09060.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Spectacular light from the evening sun shines on rocks that formed when sea level was higher than today",
           "author": "Blake Dyer",
           "alt": "Spectacular light from the evening sun shines on rocks that formed when sea level was higher than today",
@@ -10809,14 +10809,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-07T17:29:00",
           "id": 6773,
           "tags": [],
-          "archive_path": "2019/06/07/17290007.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/07/20190607-172900-952703440965-b80262f09060.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/18110707.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/18110707.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190607-18-11-07.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-181107-757b6ce4c0ae-deaa03c53c8d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-181107-757b6ce4c0ae-deaa03c53c8d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/07/20190607-181107-757b6ce4c0ae-deaa03c53c8d.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Still having a good time after a long day of hiking and work",
           "author": "Blake Dyer",
           "alt": "Still having a good time after a long day of hiking and work",
@@ -10824,12 +10824,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-07T18:11:07",
           "id": 6775,
           "tags": [],
-          "archive_path": "2019/06/07/18110707.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/07/20190607-181107-757b6ce4c0ae-deaa03c53c8d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/22255107.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/22255107.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190607-22-25-51.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-222551-5176042e53af-76b69b758578.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-222551-5176042e53af-76b69b758578.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/07/20190607-222551-5176042e53af-76b69b758578.jpg",
           "width": 5472,
           "height": 3078,
           "caption": "A drone captures the team surveying an ancient shoreline",
@@ -10837,12 +10837,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "alt": "A drone captures the team surveying an ancient shoreline",
           "file": "22255107.jpg",
           "captured_at": "2019-06-07T22:25:51",
-          "archive_path": "2019/06/07/22255107.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/07/20190607-222551-5176042e53af-76b69b758578.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/23285607.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/23285607.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190607-23-28-56.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-232856-59832ee8d84b-9a0ae8771077.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-232856-59832ee8d84b-9a0ae8771077.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/07/20190607-232856-59832ee8d84b-9a0ae8771077.jpg",
           "width": 5472,
           "height": 3078,
           "caption": "A drone captures the team surveying an ancient shoreline",
@@ -10850,12 +10850,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "alt": "A drone captures the team surveying an ancient shoreline",
           "file": "23285607.jpg",
           "captured_at": "2019-06-07T23:28:56",
-          "archive_path": "2019/06/07/23285607.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/07/20190607-232856-59832ee8d84b-9a0ae8771077.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/23310807.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/07/23310807.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190607-23-31-08.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-233108-1aee60e5fae9-168dec6705a5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/07/20190607-233108-1aee60e5fae9-168dec6705a5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/07/20190607-233108-1aee60e5fae9-168dec6705a5.jpg",
           "width": 5472,
           "height": 3078,
           "caption": "A drone captures the team surveying an ancient shoreline",
@@ -10863,13 +10863,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "alt": "A drone captures the team surveying an ancient shoreline",
           "file": "23310807.jpg",
           "captured_at": "2019-06-07T23:31:08",
-          "archive_path": "2019/06/07/23310807.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/07/20190607-233108-1aee60e5fae9-168dec6705a5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/12142408.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/12142408.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190608-12-14-24.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-121424-db82882bb505-acd844b14eaa.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-121424-db82882bb505-acd844b14eaa.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/08/20190608-121424-db82882bb505-acd844b14eaa.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Large caves form inside fossilized dunes",
           "author": "Blake Dyer",
@@ -10878,13 +10878,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-08T12:14:24",
           "id": 6794,
           "tags": [],
-          "archive_path": "2019/06/08/12142408.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/08/20190608-121424-db82882bb505-acd844b14eaa.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/12144108.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/12144108.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190608-12-14-41.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-121441-95bd4a4dd636-eb035a42ea61.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-121441-95bd4a4dd636-eb035a42ea61.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/08/20190608-121441-95bd4a4dd636-eb035a42ea61.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Rainwater bypasses the roof of this cave",
           "author": "Blake Dyer",
@@ -10893,14 +10893,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-08T12:14:41",
           "id": 6797,
           "tags": [],
-          "archive_path": "2019/06/08/12144108.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/08/20190608-121441-95bd4a4dd636-eb035a42ea61.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/12414308.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/12414308.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190608-12-41-43.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-124143-e0953989f3f5-d3ab86f83cae.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-124143-e0953989f3f5-d3ab86f83cae.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/08/20190608-124143-e0953989f3f5-d3ab86f83cae.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "In a sudden chilly downpour, the ocean provides warmth",
           "author": "Blake Dyer",
           "alt": "In a sudden chilly downpour, the ocean provides warmth",
@@ -10908,14 +10908,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-08T12:41:43",
           "id": 6807,
           "tags": [],
-          "archive_path": "2019/06/08/12414308.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/08/20190608-124143-e0953989f3f5-d3ab86f83cae.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/13434908.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/13434908.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190608-13-43-49.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-134349-2adb7c5724e7-15bba3fd8a40.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-134349-2adb7c5724e7-15bba3fd8a40.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/08/20190608-134349-2adb7c5724e7-15bba3fd8a40.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The colors are unreal just as the rainstorm passes",
           "author": "Blake Dyer",
           "alt": "The colors are unreal just as the rainstorm passes",
@@ -10923,12 +10923,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-08T13:43:49",
           "id": 6816,
           "tags": [],
-          "archive_path": "2019/06/08/13434908.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/08/20190608-134349-2adb7c5724e7-15bba3fd8a40.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/14392908.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/14392908.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190608-14-39-29.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-143929-f45f5de86f1c-58be0a709297.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-143929-f45f5de86f1c-58be0a709297.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/08/20190608-143929-f45f5de86f1c-58be0a709297.jpg",
           "width": 2000,
           "height": 1500,
           "caption": "Brain coral (Pseudodiploria sp.) from a time with higher sea level",
@@ -10938,14 +10938,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-08T14:39:29",
           "id": 6823,
           "tags": [],
-          "archive_path": "2019/06/08/14392908.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/08/20190608-143929-f45f5de86f1c-58be0a709297.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/17132308.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/17132308.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190608-17-13-23.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-171323-2a13ae8b023c-32d23070eb49.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-171323-2a13ae8b023c-32d23070eb49.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/08/20190608-171323-2a13ae8b023c-32d23070eb49.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Brain coral (Pseudodiploria sp.) from a time with higher sea level",
           "author": "Blake Dyer",
           "alt": "Brain coral (Pseudodiploria sp.) from a time with higher sea level",
@@ -10953,14 +10953,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-08T17:13:23",
           "id": 6845,
           "tags": [],
-          "archive_path": "2019/06/08/17132308.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/08/20190608-171323-2a13ae8b023c-32d23070eb49.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/18040808.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/18040808.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190608-18-04-08.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-180408-3706e5e8f8f3-52bff9fe55d2.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-180408-3706e5e8f8f3-52bff9fe55d2.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/08/20190608-180408-3706e5e8f8f3-52bff9fe55d2.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The team finishes collecting data as the sun sets (and the mosquitos swarm)",
           "author": "Blake Dyer",
           "alt": "The team finishes collecting data as the sun sets (and the mosquitos swarm)",
@@ -10968,14 +10968,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-08T18:04:08",
           "id": 6851,
           "tags": [],
-          "archive_path": "2019/06/08/18040808.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/08/20190608-180408-3706e5e8f8f3-52bff9fe55d2.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/18061108.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/18061108.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190608-18-06-11.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-180611-aa366656b09b-4f3a20f0d81e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-180611-aa366656b09b-4f3a20f0d81e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/08/20190608-180611-aa366656b09b-4f3a20f0d81e.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "A coarse sand wave marches slowly over the algal flats",
           "author": "Blake Dyer",
           "alt": "A coarse sand wave marches slowly over the algal flats",
@@ -10983,12 +10983,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-08T18:06:11",
           "id": 6853,
           "tags": [],
-          "archive_path": "2019/06/08/18061108.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/08/20190608-180611-aa366656b09b-4f3a20f0d81e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/19392808.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/08/19392808.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190608-19-39-28.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-193928-6368c7508f4b-1688629eaebd.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/08/20190608-193928-6368c7508f4b-1688629eaebd.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/08/20190608-193928-6368c7508f4b-1688629eaebd.jpg",
           "width": 6016,
           "height": 4016,
           "caption": "A very very buggy sunset",
@@ -11001,14 +11001,14 @@ window.EARTH_HISTORY_GALLERIES = {
             "Bahamas2019",
             "Web"
           ],
-          "archive_path": "2019/06/08/19392808.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/08/20190608-193928-6368c7508f4b-1688629eaebd.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/10021009.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/10021009.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-10-02-10.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-100210-ff8262ae6930-6346f2f2d3e3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-100210-ff8262ae6930-6346f2f2d3e3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-100210-ff8262ae6930-6346f2f2d3e3.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Roger and Jacky enjoying a morning boat ride",
           "author": "Blake Dyer",
           "alt": "Roger and Jacky enjoying a morning boat ride",
@@ -11016,14 +11016,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-09T10:02:10",
           "id": 7090,
           "tags": [],
-          "archive_path": "2019/06/09/10021009.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-100210-ff8262ae6930-6346f2f2d3e3.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/10565709.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/10565709.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-10-56-57.jpg",
-          "width": 1500,
-          "height": 2000,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-105657-b7a6231d59d4-b5063fbabebf.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-105657-b7a6231d59d4-b5063fbabebf.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-105657-b7a6231d59d4-b5063fbabebf.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Jacky takes some notes while standing on a deposit of rounded cobbles",
           "author": "Blake Dyer",
           "alt": "Jacky takes some notes while standing on a deposit of rounded cobbles",
@@ -11031,14 +11031,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-09T10:56:57",
           "id": 7100,
           "tags": [],
-          "archive_path": "2019/06/09/10565709.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-105657-b7a6231d59d4-b5063fbabebf.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/11192509.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/11192509.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-11-19-25.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-111925-50fd90bf4904-4171de55e60e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-111925-50fd90bf4904-4171de55e60e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-111925-50fd90bf4904-4171de55e60e.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Billy and Jacky taking notes while standing on an ancient beach in front of an ancient dune",
           "author": "Blake Dyer",
           "alt": "Billy and Jacky taking notes while standing on an ancient beach in front of an ancient dune",
@@ -11046,14 +11046,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-09T11:19:25",
           "id": 7103,
           "tags": [],
-          "archive_path": "2019/06/09/11192509.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-111925-50fd90bf4904-4171de55e60e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/12523809.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/12523809.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-12-52-38.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-125238-cbde117a7169-8c43bf6d4aa3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-125238-cbde117a7169-8c43bf6d4aa3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-125238-cbde117a7169-8c43bf6d4aa3.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Billy operating the GPS",
           "author": "Blake Dyer",
           "alt": "Billy operating the GPS",
@@ -11061,14 +11061,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-09T12:52:38",
           "id": 7113,
           "tags": [],
-          "archive_path": "2019/06/09/12523809.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-125238-cbde117a7169-8c43bf6d4aa3.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/13233309.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/13233309.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-13-23-33.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-132333-505006869358-046b3959d1a0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-132333-505006869358-046b3959d1a0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-132333-505006869358-046b3959d1a0.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The team stands on top of an old coral reef",
           "author": "Blake Dyer",
           "alt": "The team stands on top of an old coral reef",
@@ -11076,14 +11076,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-09T13:23:33",
           "id": 7359,
           "tags": [],
-          "archive_path": "2019/06/09/13233309.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-132333-505006869358-046b3959d1a0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/13325309.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/13325309.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-13-32-53.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-133253-cfebbbb8cdb9-73e64dc6a0c5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-133253-cfebbbb8cdb9-73e64dc6a0c5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-133253-cfebbbb8cdb9-73e64dc6a0c5.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Carbonate sands buried this ancient reef",
           "author": "Blake Dyer",
           "alt": "Carbonate sands buried this ancient reef",
@@ -11091,14 +11091,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-09T13:32:53",
           "id": 7370,
           "tags": [],
-          "archive_path": "2019/06/09/13325309.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-133253-cfebbbb8cdb9-73e64dc6a0c5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/13395109.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/13395109.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-13-39-51.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-133951-d1b3a4cf047f-314f30bc348d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-133951-d1b3a4cf047f-314f30bc348d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-133951-d1b3a4cf047f-314f30bc348d.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "A finger coral (Porites sp.) colony pokes out of the sand",
           "author": "Blake Dyer",
           "alt": "A finger coral (Porites sp.) colony pokes out of the sand",
@@ -11106,12 +11106,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-09T13:39:51",
           "id": 7371,
           "tags": [],
-          "archive_path": "2019/06/09/13395109.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-133951-d1b3a4cf047f-314f30bc348d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/13424909.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/13424909.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-13-42-49.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-134249-7db879113275-bbf3768a7d39.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-134249-7db879113275-bbf3768a7d39.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-134249-7db879113275-bbf3768a7d39.jpg",
           "width": 6016,
           "height": 4016,
           "caption": "Roger manages the GPS while Billy takes some notes",
@@ -11125,14 +11125,14 @@ window.EARTH_HISTORY_GALLERIES = {
             "Bahamas2019",
             "Web"
           ],
-          "archive_path": "2019/06/09/13424909.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-134249-7db879113275-bbf3768a7d39.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/15195509.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/15195509.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-15-19-55.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-151955-0a2d365e5eb7-23cf0822f12f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-151955-0a2d365e5eb7-23cf0822f12f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-151955-0a2d365e5eb7-23cf0822f12f.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The dissolution and precipiation of calcite cements paints the surface of the rock red",
           "author": "Blake Dyer",
           "alt": "The dissolution and precipiation of calcite cements paints the surface of the rock red",
@@ -11140,12 +11140,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-09T15:19:55",
           "id": 7488,
           "tags": [],
-          "archive_path": "2019/06/09/15195509.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-151955-0a2d365e5eb7-23cf0822f12f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/19175109.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/19175109.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-19-17-51.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-191751-22633e39f8d2-17bce58a0606.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-191751-22633e39f8d2-17bce58a0606.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-191751-22633e39f8d2-17bce58a0606.jpg",
           "width": 5472,
           "height": 3078,
           "caption": "DCIM\\102MEDIA\\DJI_0250.JPG",
@@ -11153,12 +11153,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "alt": "DCIM\\102MEDIA\\DJI_0250.JPG",
           "file": "19175109.jpg",
           "captured_at": "2019-06-09T19:17:51",
-          "archive_path": "2019/06/09/19175109.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-191751-22633e39f8d2-17bce58a0606.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/19194309.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/19194309.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-19-19-43.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-191943-6c540c40530b-c0246025ac5d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-191943-6c540c40530b-c0246025ac5d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-191943-6c540c40530b-c0246025ac5d.jpg",
           "width": 5472,
           "height": 3078,
           "caption": "DCIM\\102MEDIA\\DJI_0306.JPG",
@@ -11166,12 +11166,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "alt": "DCIM\\102MEDIA\\DJI_0306.JPG",
           "file": "19194309.jpg",
           "captured_at": "2019-06-09T19:19:43",
-          "archive_path": "2019/06/09/19194309.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-191943-6c540c40530b-c0246025ac5d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/21360409.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/09/21360409.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190609-21-36-04.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-213604-eb3c1ddd132d-b8679a4081a7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/09/20190609-213604-eb3c1ddd132d-b8679a4081a7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/09/20190609-213604-eb3c1ddd132d-b8679a4081a7.jpg",
           "width": 5472,
           "height": 3078,
           "caption": "DCIM\\102MEDIA\\DJI_0553.JPG",
@@ -11179,14 +11179,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "alt": "DCIM\\102MEDIA\\DJI_0553.JPG",
           "file": "21360409.jpg",
           "captured_at": "2019-06-09T21:36:04",
-          "archive_path": "2019/06/09/21360409.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/09/20190609-213604-eb3c1ddd132d-b8679a4081a7.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/10/10582210.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/10/10582210.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190610-10-58-22.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/10/20190610-105822-051849d0a97c-22f1ec649221.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/10/20190610-105822-051849d0a97c-22f1ec649221.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/10/20190610-105822-051849d0a97c-22f1ec649221.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Ancient dunes tower over the the tidal channels of Turtle Sound",
           "author": "Blake Dyer",
           "alt": "Ancient dunes tower over the the tidal channels of Turtle Sound",
@@ -11194,13 +11194,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-10T10:58:22",
           "id": 7525,
           "tags": [],
-          "archive_path": "2019/06/10/10582210.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/10/20190610-105822-051849d0a97c-22f1ec649221.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/10/14581210.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/10/14581210.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190610-14-58-12.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/10/20190610-145812-53a0299a5a0f-b0b3d8785d6d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/10/20190610-145812-53a0299a5a0f-b0b3d8785d6d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/10/20190610-145812-53a0299a5a0f-b0b3d8785d6d.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Billy and Jacky standing in the entrance to a large series of caves",
           "author": "Blake Dyer",
@@ -11209,12 +11209,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-10T14:58:12",
           "id": 7837,
           "tags": [],
-          "archive_path": "2019/06/10/14581210.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/10/20190610-145812-53a0299a5a0f-b0b3d8785d6d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/10/15261610.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/10/15261610.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190610-15-26-16.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/10/20190610-152616-0544e1ddc214-fb47877f85fc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/10/20190610-152616-0544e1ddc214-fb47877f85fc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/10/20190610-152616-0544e1ddc214-fb47877f85fc.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "The professor deep in thought",
@@ -11224,14 +11224,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-10T15:26:16",
           "id": 7840,
           "tags": [],
-          "archive_path": "2019/06/10/15261610.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/10/20190610-152616-0544e1ddc214-fb47877f85fc.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/11470711.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/11470711.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190611-11-47-07.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-114707-ac7ab6293516-1ce0324f2582.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-114707-ac7ab6293516-1ce0324f2582.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/11/20190611-114707-ac7ab6293516-1ce0324f2582.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 46",
@@ -11239,14 +11239,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-11T11:47:07",
           "id": 8158,
           "tags": [],
-          "archive_path": "2019/06/11/11470711.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/11/20190611-114707-ac7ab6293516-1ce0324f2582.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/11541411.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/11541411.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190611-11-54-14.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-115414-e0d0a17a37fc-4772a9a6a0a1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-115414-e0d0a17a37fc-4772a9a6a0a1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/11/20190611-115414-e0d0a17a37fc-4772a9a6a0a1.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Billy returns from a short scouting trip",
           "author": "Blake Dyer",
           "alt": "Billy returns from a short scouting trip",
@@ -11254,14 +11254,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-11T11:54:14",
           "id": 8222,
           "tags": [],
-          "archive_path": "2019/06/11/11541411.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/11/20190611-115414-e0d0a17a37fc-4772a9a6a0a1.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/12061111.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/12061111.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190611-12-06-11.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-120611-0e08e15ba6fd-883f10fa62dc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-120611-0e08e15ba6fd-883f10fa62dc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/11/20190611-120611-0e08e15ba6fd-883f10fa62dc.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The team scrambles to protect the electronics as a sudden downpour begins",
           "author": "Blake Dyer",
           "alt": "The team scrambles to protect the electronics as a sudden downpour begins",
@@ -11269,14 +11269,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-11T12:06:11",
           "id": 8225,
           "tags": [],
-          "archive_path": "2019/06/11/12061111.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/11/20190611-120611-0e08e15ba6fd-883f10fa62dc.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/12113411.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/12113411.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190611-12-11-34.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-121134-a754c7c6b76f-24d8545e8845.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-121134-a754c7c6b76f-24d8545e8845.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/11/20190611-121134-a754c7c6b76f-24d8545e8845.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The team wades through sandflats to get to the outcrop",
           "author": "Blake Dyer",
           "alt": "The team wades through sandflats to get to the outcrop",
@@ -11284,12 +11284,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-11T12:11:34",
           "id": 8227,
           "tags": [],
-          "archive_path": "2019/06/11/12113411.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/11/20190611-121134-a754c7c6b76f-24d8545e8845.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/15371211.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/15371211.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190611-15-37-12.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-153712-3b7d30905b53-58e65e1cb38b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-153712-3b7d30905b53-58e65e1cb38b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/11/20190611-153712-3b7d30905b53-58e65e1cb38b.jpg",
           "width": 6016,
           "height": 4016,
           "caption": "The team surveying a small coral reef that grew on the flanks of an ancient dune",
@@ -11302,14 +11302,14 @@ window.EARTH_HISTORY_GALLERIES = {
             "Bahamas2019",
             "Web"
           ],
-          "archive_path": "2019/06/11/15371211.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/11/20190611-153712-3b7d30905b53-58e65e1cb38b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/16310411.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/11/16310411.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190611-16-31-04.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-163104-2fb0de7a1b53-e8551067e75f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/11/20190611-163104-2fb0de7a1b53-e8551067e75f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/11/20190611-163104-2fb0de7a1b53-e8551067e75f.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "These rocks were once an old sand dune. Caves that formed in the rock are exposed today along the coastal cliffs",
           "author": "Blake Dyer",
           "alt": "These rocks were once an old sand dune. Caves that formed in the rock are exposed today along the coastal cliffs",
@@ -11317,14 +11317,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-11T16:31:04",
           "id": 8722,
           "tags": [],
-          "archive_path": "2019/06/11/16310411.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/11/20190611-163104-2fb0de7a1b53-e8551067e75f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/08331013.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/08331013.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190613-08-33-10.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-083310-8c2dfbbac2c3-2065009f5c53.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-083310-8c2dfbbac2c3-2065009f5c53.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/13/20190613-083310-8c2dfbbac2c3-2065009f5c53.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "If you plan to hike along the coastline, bring good boots for the sharp rocks",
           "author": "Blake Dyer",
           "alt": "If you plan to hike along the coastline, bring good boots for the sharp rocks",
@@ -11332,14 +11332,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-13T08:33:10",
           "id": 8742,
           "tags": [],
-          "archive_path": "2019/06/13/08331013.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/13/20190613-083310-8c2dfbbac2c3-2065009f5c53.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/09261613.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/09261613.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190613-09-26-16.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-092616-737fa949f640-304aefc3b2ef.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-092616-737fa949f640-304aefc3b2ef.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/13/20190613-092616-737fa949f640-304aefc3b2ef.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Jacky hikes along the top of an old coral reef",
           "author": "Blake Dyer",
           "alt": "Jacky hikes along the top of an old coral reef",
@@ -11347,12 +11347,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-13T09:26:16",
           "id": 8761,
           "tags": [],
-          "archive_path": "2019/06/13/09261613.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/13/20190613-092616-737fa949f640-304aefc3b2ef.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/10423813.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/10423813.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190613-10-42-38.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-104238-7788be82e6ae-c4af1a1c22af.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-104238-7788be82e6ae-c4af1a1c22af.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/13/20190613-104238-7788be82e6ae-c4af1a1c22af.jpg",
           "width": 2000,
           "height": 1500,
           "caption": "",
@@ -11362,14 +11362,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-13T10:42:38",
           "id": 8767,
           "tags": [],
-          "archive_path": "2019/06/13/10423813.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/13/20190613-104238-7788be82e6ae-c4af1a1c22af.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/12125613.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/12125613.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190613-12-12-56.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-121256-49f953444d38-4682a4e01f7d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-121256-49f953444d38-4682a4e01f7d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/13/20190613-121256-49f953444d38-4682a4e01f7d.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Worm snails (Vermetids) and other encrusting organisms growing together",
           "author": "Blake Dyer",
           "alt": "Worm snails (Vermetids) and other encrusting organisms growing together",
@@ -11377,12 +11377,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-13T12:12:56",
           "id": 8772,
           "tags": [],
-          "archive_path": "2019/06/13/12125613.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/13/20190613-121256-49f953444d38-4682a4e01f7d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/13253113.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/13253113.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190613-13-25-31.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-132531-c926cc896791-40a4bf2d01d5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-132531-c926cc896791-40a4bf2d01d5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/13/20190613-132531-c926cc896791-40a4bf2d01d5.jpg",
           "width": 2000,
           "height": 1500,
           "caption": "",
@@ -11392,13 +11392,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-13T13:25:31",
           "id": 9122,
           "tags": [],
-          "archive_path": "2019/06/13/13253113.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/13/20190613-132531-c926cc896791-40a4bf2d01d5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/14260313.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/14260313.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190613-14-26-03.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-142603-3ce6830c8f27-e4a6bd170276.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-142603-3ce6830c8f27-e4a6bd170276.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/13/20190613-142603-3ce6830c8f27-e4a6bd170276.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "An Elkhorn coral (Acropora palmata) tries again and an Atlantic Blue Tang (Acanthurus coeruleus) keeps watch",
           "author": "Blake Dyer",
@@ -11407,13 +11407,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-13T14:26:03",
           "id": 9322,
           "tags": [],
-          "archive_path": "2019/06/13/14260313.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/13/20190613-142603-3ce6830c8f27-e4a6bd170276.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/14291913.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/14291913.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190613-14-29-19.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-142919-e5f1bd1882b5-7bd54ca00d08.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-142919-e5f1bd1882b5-7bd54ca00d08.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/13/20190613-142919-e5f1bd1882b5-7bd54ca00d08.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Symmetric brain coral (Pseudodiploria strigosa)",
           "author": "Blake Dyer",
@@ -11422,14 +11422,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-13T14:29:19",
           "id": 9333,
           "tags": [],
-          "archive_path": "2019/06/13/14291913.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/13/20190613-142919-e5f1bd1882b5-7bd54ca00d08.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/16371513.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/13/16371513.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190613-16-37-15.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-163715-d63c92129961-32b114dc1e42.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/13/20190613-163715-d63c92129961-32b114dc1e42.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/13/20190613-163715-d63c92129961-32b114dc1e42.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Relatively recent (early Holocene) dunes sinking into the sea",
           "author": "Blake Dyer",
           "alt": "Relatively recent (early Holocene) dunes sinking into the sea",
@@ -11437,14 +11437,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-13T16:37:15",
           "id": 9375,
           "tags": [],
-          "archive_path": "2019/06/13/16371513.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/13/20190613-163715-d63c92129961-32b114dc1e42.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/11185214.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/11185214.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190614-11-18-52.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-111852-d382b2784b49-4cb595bdbe2b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-111852-d382b2784b49-4cb595bdbe2b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/14/20190614-111852-d382b2784b49-4cb595bdbe2b.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Bubbles nucleate as waves on this beach drive air into the sand",
           "author": "Blake Dyer",
           "alt": "Bubbles nucleate as waves on this beach drive air into the sand",
@@ -11452,14 +11452,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-14T11:18:52",
           "id": 9386,
           "tags": [],
-          "archive_path": "2019/06/14/11185214.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/14/20190614-111852-d382b2784b49-4cb595bdbe2b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/11292114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/11292114.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190614-11-29-21.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-112921-a0b0247e815a-92bfa2e510e5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-112921-a0b0247e815a-92bfa2e510e5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/14/20190614-112921-a0b0247e815a-92bfa2e510e5.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Large constructional terraces form in the surf zone",
           "author": "Blake Dyer",
           "alt": "Large constructional terraces form in the surf zone",
@@ -11467,14 +11467,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-14T11:29:21",
           "id": 9391,
           "tags": [],
-          "archive_path": "2019/06/14/11292114.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/14/20190614-112921-a0b0247e815a-92bfa2e510e5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/11391414.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/11391414.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190614-11-39-14.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-113914-5d72783c1da8-60e481699f97.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-113914-5d72783c1da8-60e481699f97.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/14/20190614-113914-5d72783c1da8-60e481699f97.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Most of the terrace is constructed by worm snails (vermetids)",
           "author": "Blake Dyer",
           "alt": "Most of the terrace is constructed by worm snails (vermetids)",
@@ -11482,14 +11482,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-14T11:39:14",
           "id": 9394,
           "tags": [],
-          "archive_path": "2019/06/14/11391414.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/14/20190614-113914-5d72783c1da8-60e481699f97.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/11463114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/11463114.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190614-11-46-31.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-114631-766ec5a6270c-f42e7c4a53a9.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-114631-766ec5a6270c-f42e7c4a53a9.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/14/20190614-114631-766ec5a6270c-f42e7c4a53a9.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Roger Creel standing on a terrace that has been constructed by countless worm snails (Vermetids)",
           "author": "Blake Dyer",
           "alt": "Roger Creel standing on a terrace that has been constructed by countless worm snails (Vermetids)",
@@ -11497,14 +11497,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-14T11:46:31",
           "id": 9395,
           "tags": [],
-          "archive_path": "2019/06/14/11463114.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/14/20190614-114631-766ec5a6270c-f42e7c4a53a9.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/12031814.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/12031814.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190614-12-03-18.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-120318-e01924ac2592-53a8ac158c7a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-120318-e01924ac2592-53a8ac158c7a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/14/20190614-120318-e01924ac2592-53a8ac158c7a.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Constructional terraces beneath a modern tidal notch in a fossilized coastal dune",
           "author": "Blake Dyer",
           "alt": "Constructional terraces beneath a modern tidal notch in a fossilized coastal dune",
@@ -11512,14 +11512,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-14T12:03:18",
           "id": 9400,
           "tags": [],
-          "archive_path": "2019/06/14/12031814.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/14/20190614-120318-e01924ac2592-53a8ac158c7a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/12035614.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/12035614.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190614-12-03-56.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-120356-7a7070572d5d-e262d1984a6d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-120356-7a7070572d5d-e262d1984a6d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/14/20190614-120356-7a7070572d5d-e262d1984a6d.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Constructional terraces beneath a modern tidal notch in a fossilized coastal dune",
           "author": "Blake Dyer",
           "alt": "Constructional terraces beneath a modern tidal notch in a fossilized coastal dune",
@@ -11527,14 +11527,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-14T12:03:56",
           "id": 9402,
           "tags": [],
-          "archive_path": "2019/06/14/12035614.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/14/20190614-120356-7a7070572d5d-e262d1984a6d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/13260814.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/13260814.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190614-13-26-08.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-132608-09ae6cbd7024-79a43eb129ba.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-132608-09ae6cbd7024-79a43eb129ba.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/14/20190614-132608-09ae6cbd7024-79a43eb129ba.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Constructional terraces beneath a modern tidal notch in an fossilized coastal dune",
           "author": "Blake Dyer",
           "alt": "Constructional terraces beneath a modern tidal notch in an fossilized coastal dune",
@@ -11542,14 +11542,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-14T13:26:08",
           "id": 9409,
           "tags": [],
-          "archive_path": "2019/06/14/13260814.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/14/20190614-132608-09ae6cbd7024-79a43eb129ba.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/13360114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/13360114.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190614-13-36-01.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-133601-2a8f60b2c59c-5533f528909e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-133601-2a8f60b2c59c-5533f528909e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/14/20190614-133601-2a8f60b2c59c-5533f528909e.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Constructional terraces beneath a modern tidal notch in an fossilized coastal dune",
           "author": "Blake Dyer",
           "alt": "Constructional terraces beneath a modern tidal notch in an fossilized coastal dune",
@@ -11557,12 +11557,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-14T13:36:01",
           "id": 9413,
           "tags": [],
-          "archive_path": "2019/06/14/13360114.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/14/20190614-133601-2a8f60b2c59c-5533f528909e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/13450014.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/13450014.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190614-13-45-00.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-134500-4464b92d769c-022b50ce496e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-134500-4464b92d769c-022b50ce496e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/14/20190614-134500-4464b92d769c-022b50ce496e.jpg",
           "width": 6016,
           "height": 4016,
           "caption": "The team at work",
@@ -11575,12 +11575,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Bahamas2019",
             "Web"
           ],
-          "archive_path": "2019/06/14/13450014.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/14/20190614-134500-4464b92d769c-022b50ce496e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/13463714.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/14/13463714.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190614-13-46-37.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-134637-f73aa0825c3c-f056e5bf326f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/14/20190614-134637-f73aa0825c3c-f056e5bf326f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/14/20190614-134637-f73aa0825c3c-f056e5bf326f.jpg",
           "width": 6016,
           "height": 4016,
           "caption": "Roger Creel piloting the drone",
@@ -11594,14 +11594,14 @@ window.EARTH_HISTORY_GALLERIES = {
             "Bahamas2019",
             "Web"
           ],
-          "archive_path": "2019/06/14/13463714.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/14/20190614-134637-f73aa0825c3c-f056e5bf326f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/15/09463815.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/15/09463815.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190615-09-46-38.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/15/20190615-094638-ae4708c9b33a-199c1b6e34b0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/15/20190615-094638-ae4708c9b33a-199c1b6e34b0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/15/20190615-094638-ae4708c9b33a-199c1b6e34b0.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Fossilized deposit of a constructional terrace from a time when sea level was higher",
           "author": "Blake Dyer",
           "alt": "Fossilized deposit of a constructional terrace from a time when sea level was higher",
@@ -11609,14 +11609,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-15T09:46:38",
           "id": 9510,
           "tags": [],
-          "archive_path": "2019/06/15/09463815.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/15/20190615-094638-ae4708c9b33a-199c1b6e34b0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/15/10481815.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/15/10481815.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190615-10-48-18.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/15/20190615-104818-19f3ec1b9769-27352cca7f7d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/15/20190615-104818-19f3ec1b9769-27352cca7f7d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/15/20190615-104818-19f3ec1b9769-27352cca7f7d.jpg",
+          "width": 4000,
+          "height": 3000,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 71",
@@ -11624,14 +11624,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-15T10:48:18",
           "id": 9526,
           "tags": [],
-          "archive_path": "2019/06/15/10481815.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/15/20190615-104818-19f3ec1b9769-27352cca7f7d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/16/15092916.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/16/15092916.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190616-15-09-29.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/16/20190616-150929-5dc2bbdf394a-d05e2b91cc68.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/16/20190616-150929-5dc2bbdf394a-d05e2b91cc68.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/16/20190616-150929-5dc2bbdf394a-d05e2b91cc68.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Large coastal dunes waiting to join their fossilized neighbors",
           "author": "Blake Dyer",
           "alt": "Large coastal dunes waiting to join their fossilized neighbors",
@@ -11639,14 +11639,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-16T15:09:29",
           "id": 10107,
           "tags": [],
-          "archive_path": "2019/06/16/15092916.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/16/20190616-150929-5dc2bbdf394a-d05e2b91cc68.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/16/16220216.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/16/16220216.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190616-16-22-02.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/16/20190616-162202-e5f6e4fe4e7f-53ded98aa547.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/16/20190616-162202-e5f6e4fe4e7f-53ded98aa547.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/16/20190616-162202-e5f6e4fe4e7f-53ded98aa547.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Billy and Roger in search of old tidal notches",
           "author": "Blake Dyer",
           "alt": "Billy and Roger in search of old tidal notches",
@@ -11654,12 +11654,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-16T16:22:02",
           "id": 10117,
           "tags": [],
-          "archive_path": "2019/06/16/16220216.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/16/20190616-162202-e5f6e4fe4e7f-53ded98aa547.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/16/16392716.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/16/16392716.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190616-16-39-27.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/16/20190616-163927-f6a709514f49-3ed43bf418fe.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/16/20190616-163927-f6a709514f49-3ed43bf418fe.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/16/20190616-163927-f6a709514f49-3ed43bf418fe.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "Water drips through this old sea cave and leaves behind some new carbonate",
@@ -11669,12 +11669,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-16T16:39:27",
           "id": 10125,
           "tags": [],
-          "archive_path": "2019/06/16/16392716.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/16/20190616-163927-f6a709514f49-3ed43bf418fe.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/16/16423116.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/16/16423116.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190616-16-42-31.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/16/20190616-164231-0333fd167144-2a2d7989afdc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/16/20190616-164231-0333fd167144-2a2d7989afdc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/16/20190616-164231-0333fd167144-2a2d7989afdc.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "Old sea caves are widespread throughout the Bahamas",
@@ -11684,14 +11684,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-16T16:42:31",
           "id": 10128,
           "tags": [],
-          "archive_path": "2019/06/16/16423116.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/16/20190616-164231-0333fd167144-2a2d7989afdc.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/09590017.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/09590017.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190617-09-59-00.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-095900-3984c177ecdb-2ad352a4eed0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-095900-3984c177ecdb-2ad352a4eed0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/17/20190617-095900-3984c177ecdb-2ad352a4eed0.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "As the dunes erode away, a reef forms on the left behind rocks",
           "author": "Blake Dyer",
           "alt": "As the dunes erode away, a reef forms on the left behind rocks",
@@ -11699,14 +11699,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-17T09:59:00",
           "id": 10135,
           "tags": [],
-          "archive_path": "2019/06/17/09590017.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/17/20190617-095900-3984c177ecdb-2ad352a4eed0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/10074717.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/10074717.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190617-10-07-47.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-100747-2f949cd006bf-446753539505.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-100747-2f949cd006bf-446753539505.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/17/20190617-100747-2f949cd006bf-446753539505.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "A sandy beach has transformed into these rocks in just a few thousand years",
           "author": "Blake Dyer",
           "alt": "A sandy beach has transformed into these rocks in just a few thousand years",
@@ -11714,14 +11714,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-17T10:07:47",
           "id": 10136,
           "tags": [],
-          "archive_path": "2019/06/17/10074717.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/17/20190617-100747-2f949cd006bf-446753539505.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/10251917.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/10251917.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190617-10-25-19.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-102519-b1b1f54c95f5-05f8365aef72.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-102519-b1b1f54c95f5-05f8365aef72.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/17/20190617-102519-b1b1f54c95f5-05f8365aef72.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Billy and Jacky climb to the top of a fossilized dune for a better view",
           "author": "Blake Dyer",
           "alt": "Billy and Jacky climb to the top of a fossilized dune for a better view",
@@ -11729,13 +11729,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-17T10:25:19",
           "id": 10140,
           "tags": [],
-          "archive_path": "2019/06/17/10251917.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/17/20190617-102519-b1b1f54c95f5-05f8365aef72.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/11170517.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/11170517.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190617-11-17-05.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-111705-0298e3a460bd-933f89951582.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-111705-0298e3a460bd-933f89951582.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/17/20190617-111705-0298e3a460bd-933f89951582.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "Roger eats a sandwich while the team crosses a broken bridge",
           "author": "Blake Dyer",
@@ -11744,14 +11744,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-17T11:17:05",
           "id": 10141,
           "tags": [],
-          "archive_path": "2019/06/17/11170517.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/17/20190617-111705-0298e3a460bd-933f89951582.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/13052217.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/13052217.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190617-13-05-22.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-130522-e0923401b7b1-519aa6fa2bfa.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-130522-e0923401b7b1-519aa6fa2bfa.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/17/20190617-130522-e0923401b7b1-519aa6fa2bfa.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The perfect beach?",
           "author": "Blake Dyer",
           "alt": "The perfect beach?",
@@ -11759,14 +11759,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-17T13:05:22",
           "id": 10150,
           "tags": [],
-          "archive_path": "2019/06/17/13052217.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/17/20190617-130522-e0923401b7b1-519aa6fa2bfa.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/14000117.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/17/14000117.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190617-14-00-01.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-140001-d2b7f0ba015b-b4dc05723514.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/17/20190617-140001-d2b7f0ba015b-b4dc05723514.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/17/20190617-140001-d2b7f0ba015b-b4dc05723514.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Making friends",
           "author": "Blake Dyer",
           "alt": "Making friends",
@@ -11774,14 +11774,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-17T14:00:01",
           "id": 10151,
           "tags": [],
-          "archive_path": "2019/06/17/14000117.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/17/20190617-140001-d2b7f0ba015b-b4dc05723514.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/15/09463815.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/15/09463815.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190617-16-31-41.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/15/20190615-094638-ae4708c9b33a-199c1b6e34b0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/15/20190615-094638-ae4708c9b33a-199c1b6e34b0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/15/20190615-094638-ae4708c9b33a-199c1b6e34b0.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Fossilized deposit of a constructional terrace from a time when sea level was higher",
           "author": "Blake Dyer",
           "alt": "Fossilized deposit of a constructional terrace from a time when sea level was higher",
@@ -11789,14 +11789,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-15T09:46:38",
           "id": 9510,
           "tags": [],
-          "archive_path": "2019/06/15/09463815.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/15/20190615-094638-ae4708c9b33a-199c1b6e34b0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/08065218.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/08065218.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190618-08-06-52.jpg",
-          "width": 2000,
-          "height": 2000,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-080652-cef4652a0de1-949b1f7be05f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-080652-cef4652a0de1-949b1f7be05f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/18/20190618-080652-cef4652a0de1-949b1f7be05f.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The start of a 2.5 mile (3.8 km) morning commute",
           "author": "Blake Dyer",
           "alt": "The start of a 2.5 mile (3.8 km) morning commute",
@@ -11804,14 +11804,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-18T08:06:52",
           "id": 10179,
           "tags": [],
-          "archive_path": "2019/06/18/08065218.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/18/20190618-080652-cef4652a0de1-949b1f7be05f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/09161518.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/09161518.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190618-09-16-15.jpg",
-          "width": 1500,
-          "height": 2000,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-091615-fa584e3062d6-d0ecf4260a94.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-091615-fa584e3062d6-d0ecf4260a94.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/18/20190618-091615-fa584e3062d6-d0ecf4260a94.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Jacky stands atop a fossilized dune while Roger blends into the boulders below",
           "author": "Blake Dyer",
           "alt": "Jacky stands atop a fossilized dune while Roger blends into the boulders below",
@@ -11819,14 +11819,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-18T09:16:15",
           "id": 10206,
           "tags": [],
-          "archive_path": "2019/06/18/09161518.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/18/20190618-091615-fa584e3062d6-d0ecf4260a94.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/09195718.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/09195718.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190618-09-19-57.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-091957-9aca85871f70-4b7a693106f7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-091957-9aca85871f70-4b7a693106f7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/18/20190618-091957-9aca85871f70-4b7a693106f7.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "The rocky southern point of Long Island, Bahamas",
           "author": "Blake Dyer",
           "alt": "The rocky southern point of Long Island, Bahamas",
@@ -11834,14 +11834,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-18T09:19:57",
           "id": 10209,
           "tags": [],
-          "archive_path": "2019/06/18/09195718.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/18/20190618-091957-9aca85871f70-4b7a693106f7.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/09261418.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/09261418.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190618-09-26-14.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-092614-3fb3d6e725ab-e05f81e6323d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-092614-3fb3d6e725ab-e05f81e6323d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/18/20190618-092614-3fb3d6e725ab-e05f81e6323d.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "A natural arch forms in this fossilized dune",
           "author": "Blake Dyer",
           "alt": "A natural arch forms in this fossilized dune",
@@ -11849,12 +11849,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-18T09:26:14",
           "id": 10213,
           "tags": [],
-          "archive_path": "2019/06/18/09261418.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/18/20190618-092614-3fb3d6e725ab-e05f81e6323d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/10240618.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/10240618.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190618-10-24-06.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-102406-9b9c8c3aeadc-0ce349a45808.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-102406-9b9c8c3aeadc-0ce349a45808.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/18/20190618-102406-9b9c8c3aeadc-0ce349a45808.jpg",
           "width": 2000,
           "height": 1500,
           "caption": "Ancient corals hide in the pocket between dune ridges",
@@ -11864,14 +11864,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-18T10:24:06",
           "id": 10226,
           "tags": [],
-          "archive_path": "2019/06/18/10240618.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/18/20190618-102406-9b9c8c3aeadc-0ce349a45808.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/11074618.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/11074618.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190618-11-07-46.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-110746-443f5aa08e3c-65e837a6f0e6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-110746-443f5aa08e3c-65e837a6f0e6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/18/20190618-110746-443f5aa08e3c-65e837a6f0e6.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "Clouds loom over the blue-green Caribbean and a pink-red salt pond",
           "author": "Blake Dyer",
           "alt": "Clouds loom over the blue-green Caribbean and a pink-red salt pond",
@@ -11879,14 +11879,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-18T11:07:46",
           "id": 10234,
           "tags": [],
-          "archive_path": "2019/06/18/11074618.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/18/20190618-110746-443f5aa08e3c-65e837a6f0e6.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/12330618.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/18/12330618.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190618-12-33-06.jpg",
-          "width": 2000,
-          "height": 1500,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-123306-17c1dabfbf00-b6d638837c80.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/18/20190618-123306-17c1dabfbf00-b6d638837c80.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/18/20190618-123306-17c1dabfbf00-b6d638837c80.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "A sample is collected as Jacky surveys the ancient reef",
           "author": "Blake Dyer",
           "alt": "A sample is collected as Jacky surveys the ancient reef",
@@ -11894,12 +11894,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-18T12:33:06",
           "id": 10236,
           "tags": [],
-          "archive_path": "2019/06/18/12330618.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/18/20190618-123306-17c1dabfbf00-b6d638837c80.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/19/14213319.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/19/14213319.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190619-14-21-33.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/19/20190619-142133-b2d6daf8db2d-2d4390a9f3e6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/19/20190619-142133-b2d6daf8db2d-2d4390a9f3e6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/19/20190619-142133-b2d6daf8db2d-2d4390a9f3e6.jpg",
           "width": 5472,
           "height": 3078,
           "caption": "DCIM\\100MEDIA\\DJI_0003.JPG",
@@ -11907,12 +11907,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "alt": "DCIM\\100MEDIA\\DJI_0003.JPG",
           "file": "14213319.jpg",
           "captured_at": "2019-06-19T14:21:33",
-          "archive_path": "2019/06/19/14213319.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/19/20190619-142133-b2d6daf8db2d-2d4390a9f3e6.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/19/14264119.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/19/14264119.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190619-14-26-41.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/19/20190619-142641-e19c4e4207c6-c279c3244a9e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/19/20190619-142641-e19c4e4207c6-c279c3244a9e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/19/20190619-142641-e19c4e4207c6-c279c3244a9e.jpg",
           "width": 5472,
           "height": 3078,
           "caption": "DCIM\\100MEDIA\\DJI_0157.JPG",
@@ -11920,12 +11920,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "alt": "DCIM\\100MEDIA\\DJI_0157.JPG",
           "file": "14264119.jpg",
           "captured_at": "2019-06-19T14:26:41",
-          "archive_path": "2019/06/19/14264119.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/19/20190619-142641-e19c4e4207c6-c279c3244a9e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/19/14544019.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/19/14544019.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190619-14-54-40.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/19/20190619-145440-d5faafe43255-25883e1339da.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/19/20190619-145440-d5faafe43255-25883e1339da.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/19/20190619-145440-d5faafe43255-25883e1339da.jpg",
           "width": 6016,
           "height": 4016,
           "caption": "Between two ridges of an ancient dune, a modern pocket beach sits on an ancient pocket beach",
@@ -11938,12 +11938,12 @@ window.EARTH_HISTORY_GALLERIES = {
             "Bahamas2019",
             "Web"
           ],
-          "archive_path": "2019/06/19/14544019.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/19/20190619-145440-d5faafe43255-25883e1339da.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/19/15115019.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/19/15115019.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190619-15-11-50.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/19/20190619-151150-c2e5dc08532f-bd5e82f7722a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/19/20190619-151150-c2e5dc08532f-bd5e82f7722a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/19/20190619-151150-c2e5dc08532f-bd5e82f7722a.jpg",
           "width": 6016,
           "height": 4016,
           "caption": "This horizontal notch in an ancient dune was carved by the tides when sea level was higher",
@@ -11957,13 +11957,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Bahamas2019",
             "Web"
           ],
-          "archive_path": "2019/06/19/15115019.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/19/20190619-151150-c2e5dc08532f-bd5e82f7722a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10151425.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10151425.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-10-15-14.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-101514-5e81e0d15156-602a2b38eede.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-101514-5e81e0d15156-602a2b38eede.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-101514-5e81e0d15156-602a2b38eede.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -11972,12 +11972,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T10:15:14",
           "id": 11096,
           "tags": [],
-          "archive_path": "2019/06/25/10151425.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-101514-5e81e0d15156-602a2b38eede.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10153025.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10153025.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-10-15-30.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-101530-0be3f63bb054-5f12ef82af8f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-101530-0be3f63bb054-5f12ef82af8f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-101530-0be3f63bb054-5f12ef82af8f.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -11987,13 +11987,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T10:15:30",
           "id": 11097,
           "tags": [],
-          "archive_path": "2019/06/25/10153025.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-101530-0be3f63bb054-5f12ef82af8f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10310125.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10310125.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-10-31-01.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-103101-798cfc2b83a0-64c98ff471d5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-103101-798cfc2b83a0-64c98ff471d5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-103101-798cfc2b83a0-64c98ff471d5.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12002,12 +12002,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T10:31:01",
           "id": 11116,
           "tags": [],
-          "archive_path": "2019/06/25/10310125.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-103101-798cfc2b83a0-64c98ff471d5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10313525.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10313525.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-10-31-35.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-103135-163345f8ee2f-c69ad8f76e4b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-103135-163345f8ee2f-c69ad8f76e4b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-103135-163345f8ee2f-c69ad8f76e4b.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12017,12 +12017,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T10:31:35",
           "id": 11118,
           "tags": [],
-          "archive_path": "2019/06/25/10313525.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-103135-163345f8ee2f-c69ad8f76e4b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10350625.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10350625.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-10-35-06.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-103506-fc7cc1dd8995-b87113879e46.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-103506-fc7cc1dd8995-b87113879e46.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-103506-fc7cc1dd8995-b87113879e46.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12032,12 +12032,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T10:35:06",
           "id": 11124,
           "tags": [],
-          "archive_path": "2019/06/25/10350625.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-103506-fc7cc1dd8995-b87113879e46.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10401025.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10401025.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-10-40-10.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-104010-7531b188026f-0ebb57c11ed0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-104010-7531b188026f-0ebb57c11ed0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-104010-7531b188026f-0ebb57c11ed0.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12047,12 +12047,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T10:40:10",
           "id": 11127,
           "tags": [],
-          "archive_path": "2019/06/25/10401025.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-104010-7531b188026f-0ebb57c11ed0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10412525.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10412525.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-10-41-25.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-104125-70766ea421c7-5bbeb1bfe027.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-104125-70766ea421c7-5bbeb1bfe027.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-104125-70766ea421c7-5bbeb1bfe027.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12062,13 +12062,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T10:41:25",
           "id": 11134,
           "tags": [],
-          "archive_path": "2019/06/25/10412525.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-104125-70766ea421c7-5bbeb1bfe027.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10445425.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10445425.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-10-44-54.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-104454-8089501d7515-6d5b550a4c9d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-104454-8089501d7515-6d5b550a4c9d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-104454-8089501d7515-6d5b550a4c9d.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12077,13 +12077,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T10:44:54",
           "id": 11139,
           "tags": [],
-          "archive_path": "2019/06/25/10445425.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-104454-8089501d7515-6d5b550a4c9d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10450125.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10450125.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-10-45-01.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-104501-e96d06c5a8b6-170ffabf764d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-104501-e96d06c5a8b6-170ffabf764d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-104501-e96d06c5a8b6-170ffabf764d.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12092,13 +12092,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T10:45:01",
           "id": 11140,
           "tags": [],
-          "archive_path": "2019/06/25/10450125.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-104501-e96d06c5a8b6-170ffabf764d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10503325.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/10503325.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-10-50-33.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-105033-f89dd24ec6ab-2ec2460b6173.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-105033-f89dd24ec6ab-2ec2460b6173.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-105033-f89dd24ec6ab-2ec2460b6173.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12107,12 +12107,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T10:50:33",
           "id": 11157,
           "tags": [],
-          "archive_path": "2019/06/25/10503325.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-105033-f89dd24ec6ab-2ec2460b6173.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/12041825.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/25/12041825.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190625-12-04-18.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-120418-5952c2b1ae6f-26fdf886c4bd.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/25/20190625-120418-5952c2b1ae6f-26fdf886c4bd.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/25/20190625-120418-5952c2b1ae6f-26fdf886c4bd.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12122,13 +12122,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-25T12:04:18",
           "id": 11202,
           "tags": [],
-          "archive_path": "2019/06/25/12041825.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/25/20190625-120418-5952c2b1ae6f-26fdf886c4bd.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14052226.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14052226.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-05-22.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-140522-e0dfb4e93978-574f30479d81.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-140522-e0dfb4e93978-574f30479d81.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-140522-e0dfb4e93978-574f30479d81.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12137,13 +12137,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:05:22",
           "id": 11241,
           "tags": [],
-          "archive_path": "2019/06/26/14052226.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-140522-e0dfb4e93978-574f30479d81.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14060726.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14060726.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-06-07.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-140607-f3c7a7c5ae85-6cebe82642b8.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-140607-f3c7a7c5ae85-6cebe82642b8.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-140607-f3c7a7c5ae85-6cebe82642b8.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12152,13 +12152,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:06:07",
           "id": 11245,
           "tags": [],
-          "archive_path": "2019/06/26/14060726.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-140607-f3c7a7c5ae85-6cebe82642b8.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14062426.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14062426.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-06-24.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-140624-bf7978bc7f94-7796207ee96b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-140624-bf7978bc7f94-7796207ee96b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-140624-bf7978bc7f94-7796207ee96b.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12167,13 +12167,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:06:24",
           "id": 11249,
           "tags": [],
-          "archive_path": "2019/06/26/14062426.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-140624-bf7978bc7f94-7796207ee96b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14084726.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14084726.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-08-47.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-140847-147df231d4f8-9cb68ed64235.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-140847-147df231d4f8-9cb68ed64235.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-140847-147df231d4f8-9cb68ed64235.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12182,12 +12182,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:08:47",
           "id": 11254,
           "tags": [],
-          "archive_path": "2019/06/26/14084726.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-140847-147df231d4f8-9cb68ed64235.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14112126.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14112126.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-11-21.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-141121-b212d6b2aa3b-32e292c0c3bb.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-141121-b212d6b2aa3b-32e292c0c3bb.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-141121-b212d6b2aa3b-32e292c0c3bb.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12197,12 +12197,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:11:21",
           "id": 11280,
           "tags": [],
-          "archive_path": "2019/06/26/14112126.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-141121-b212d6b2aa3b-32e292c0c3bb.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14222126.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14222126.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-22-21.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-142221-34b5e3b6abb7-24835260522a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-142221-34b5e3b6abb7-24835260522a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-142221-34b5e3b6abb7-24835260522a.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12212,13 +12212,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:22:21",
           "id": 11289,
           "tags": [],
-          "archive_path": "2019/06/26/14222126.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-142221-34b5e3b6abb7-24835260522a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14232826.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14232826.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-23-28.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-142328-a4c6b6c82200-0514b305e72e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-142328-a4c6b6c82200-0514b305e72e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-142328-a4c6b6c82200-0514b305e72e.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12227,12 +12227,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:23:28",
           "id": 11291,
           "tags": [],
-          "archive_path": "2019/06/26/14232826.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-142328-a4c6b6c82200-0514b305e72e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14272026.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14272026.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-27-20.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-142720-9af3e7bfb750-bdc735441f7f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-142720-9af3e7bfb750-bdc735441f7f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-142720-9af3e7bfb750-bdc735441f7f.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12242,13 +12242,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:27:20",
           "id": 11306,
           "tags": [],
-          "archive_path": "2019/06/26/14272026.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-142720-9af3e7bfb750-bdc735441f7f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14282526.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14282526.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-28-25.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-142825-568f7e5337ee-527fccd45bbd.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-142825-568f7e5337ee-527fccd45bbd.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-142825-568f7e5337ee-527fccd45bbd.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12257,13 +12257,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:28:25",
           "id": 11308,
           "tags": [],
-          "archive_path": "2019/06/26/14282526.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-142825-568f7e5337ee-527fccd45bbd.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14292726.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14292726.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-29-27.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-142927-a7783427aa4d-1bd45487943f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-142927-a7783427aa4d-1bd45487943f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-142927-a7783427aa4d-1bd45487943f.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12272,12 +12272,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:29:27",
           "id": 11312,
           "tags": [],
-          "archive_path": "2019/06/26/14292726.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-142927-a7783427aa4d-1bd45487943f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14370526.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14370526.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-37-05.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-143705-165317b6050f-98fbcd66a798.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-143705-165317b6050f-98fbcd66a798.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-143705-165317b6050f-98fbcd66a798.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12287,12 +12287,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:37:05",
           "id": 11335,
           "tags": [],
-          "archive_path": "2019/06/26/14370526.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-143705-165317b6050f-98fbcd66a798.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14392626.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14392626.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-39-26.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-143926-f442a747e54e-63da4898ef1b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-143926-f442a747e54e-63da4898ef1b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-143926-f442a747e54e-63da4898ef1b.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12302,12 +12302,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:39:26",
           "id": 11342,
           "tags": [],
-          "archive_path": "2019/06/26/14392626.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-143926-f442a747e54e-63da4898ef1b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14443626.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14443626.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-44-36.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-144436-05193a2e3bff-a9673896c791.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-144436-05193a2e3bff-a9673896c791.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-144436-05193a2e3bff-a9673896c791.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12317,12 +12317,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:44:36",
           "id": 11343,
           "tags": [],
-          "archive_path": "2019/06/26/14443626.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-144436-05193a2e3bff-a9673896c791.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14445226.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14445226.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-44-52.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-144452-586cea672408-9bf11df61912.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-144452-586cea672408-9bf11df61912.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-144452-586cea672408-9bf11df61912.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12332,13 +12332,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:44:52",
           "id": 11344,
           "tags": [],
-          "archive_path": "2019/06/26/14445226.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-144452-586cea672408-9bf11df61912.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14482926.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14482926.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-48-29.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-144829-4d09d01f1d3b-3cfd2e206d82.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-144829-4d09d01f1d3b-3cfd2e206d82.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-144829-4d09d01f1d3b-3cfd2e206d82.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12347,13 +12347,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:48:29",
           "id": 11355,
           "tags": [],
-          "archive_path": "2019/06/26/14482926.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-144829-4d09d01f1d3b-3cfd2e206d82.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14485326.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14485326.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-48-53.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-144853-3d008c5c3041-e645daed1a1f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-144853-3d008c5c3041-e645daed1a1f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-144853-3d008c5c3041-e645daed1a1f.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12362,12 +12362,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:48:53",
           "id": 11356,
           "tags": [],
-          "archive_path": "2019/06/26/14485326.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-144853-3d008c5c3041-e645daed1a1f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14503926.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14503926.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-50-39.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145039-86c258030884-8ef24c7d654d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145039-86c258030884-8ef24c7d654d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-145039-86c258030884-8ef24c7d654d.jpg",
           "width": 4015,
           "height": 3015,
           "caption": "",
@@ -12377,12 +12377,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:50:39",
           "id": 11362,
           "tags": [],
-          "archive_path": "2019/06/26/14503926.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-145039-86c258030884-8ef24c7d654d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14563926.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14563926.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-56-39.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145639-102107433fea-8550b0bc4e2f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145639-102107433fea-8550b0bc4e2f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-145639-102107433fea-8550b0bc4e2f.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12392,12 +12392,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:56:39",
           "id": 11369,
           "tags": [],
-          "archive_path": "2019/06/26/14563926.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-145639-102107433fea-8550b0bc4e2f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14564326.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14564326.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-56-43.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145643-1b0305c77c75-97f3cddee08c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145643-1b0305c77c75-97f3cddee08c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-145643-1b0305c77c75-97f3cddee08c.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12407,12 +12407,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:56:43",
           "id": 11373,
           "tags": [],
-          "archive_path": "2019/06/26/14564326.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-145643-1b0305c77c75-97f3cddee08c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14571426.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14571426.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-57-14.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145714-eefbe4d4a995-119b48b2ad58.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145714-eefbe4d4a995-119b48b2ad58.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-145714-eefbe4d4a995-119b48b2ad58.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12422,12 +12422,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:57:14",
           "id": 11375,
           "tags": [],
-          "archive_path": "2019/06/26/14571426.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-145714-eefbe4d4a995-119b48b2ad58.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14574326.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14574326.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-57-43.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145743-9b1aa38cd76d-fc4cc5417e74.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145743-9b1aa38cd76d-fc4cc5417e74.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-145743-9b1aa38cd76d-fc4cc5417e74.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12437,13 +12437,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:57:43",
           "id": 11380,
           "tags": [],
-          "archive_path": "2019/06/26/14574326.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-145743-9b1aa38cd76d-fc4cc5417e74.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14583326.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/26/14583326.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190626-14-58-33.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145833-e3c9a670298d-dda7ddbef12e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/26/20190626-145833-e3c9a670298d-dda7ddbef12e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/26/20190626-145833-e3c9a670298d-dda7ddbef12e.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12452,12 +12452,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-26T14:58:33",
           "id": 11388,
           "tags": [],
-          "archive_path": "2019/06/26/14583326.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/26/20190626-145833-e3c9a670298d-dda7ddbef12e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/11494827.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/11494827.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190627-11-49-48.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-114948-67c23fa8e7df-58580a9b892d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-114948-67c23fa8e7df-58580a9b892d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/27/20190627-114948-67c23fa8e7df-58580a9b892d.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12467,13 +12467,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-27T11:49:48",
           "id": 11422,
           "tags": [],
-          "archive_path": "2019/06/27/11494827.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/27/20190627-114948-67c23fa8e7df-58580a9b892d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/11575327.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/11575327.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190627-11-57-53.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-115753-b72ed5b528b9-1479513adcb0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-115753-b72ed5b528b9-1479513adcb0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/27/20190627-115753-b72ed5b528b9-1479513adcb0.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12482,12 +12482,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-27T11:57:53",
           "id": 11441,
           "tags": [],
-          "archive_path": "2019/06/27/11575327.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/27/20190627-115753-b72ed5b528b9-1479513adcb0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/14115227.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/14115227.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190627-14-11-52.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-141152-62798fefd392-97587e9a30c9.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-141152-62798fefd392-97587e9a30c9.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/27/20190627-141152-62798fefd392-97587e9a30c9.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12497,14 +12497,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-27T14:11:52",
           "id": 11494,
           "tags": [],
-          "archive_path": "2019/06/27/14115227.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/27/20190627-141152-62798fefd392-97587e9a30c9.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/14120827.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/14120827.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190627-14-12-08.jpg",
-          "width": 4015,
-          "height": 3015,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-141208-cd685e3b486e-351ede1c7ce7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-141208-cd685e3b486e-351ede1c7ce7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/27/20190627-141208-cd685e3b486e-351ede1c7ce7.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 130",
@@ -12512,12 +12512,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-27T14:12:08",
           "id": 11496,
           "tags": [],
-          "archive_path": "2019/06/27/14120827.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/27/20190627-141208-cd685e3b486e-351ede1c7ce7.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/14165527.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/14165527.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190627-14-16-55.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-141655-fa1f13baab70-b253665c6d94.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-141655-fa1f13baab70-b253665c6d94.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/27/20190627-141655-fa1f13baab70-b253665c6d94.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12527,12 +12527,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-27T14:16:55",
           "id": 11503,
           "tags": [],
-          "archive_path": "2019/06/27/14165527.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/27/20190627-141655-fa1f13baab70-b253665c6d94.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/14244127.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/14244127.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190627-14-24-41.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-142441-7e28fc7bb86e-3bdb9c65c560.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-142441-7e28fc7bb86e-3bdb9c65c560.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/27/20190627-142441-7e28fc7bb86e-3bdb9c65c560.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12542,13 +12542,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-27T14:24:41",
           "id": 11513,
           "tags": [],
-          "archive_path": "2019/06/27/14244127.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/27/20190627-142441-7e28fc7bb86e-3bdb9c65c560.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/14301727.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/27/14301727.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190627-14-30-17.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-143017-0ff72507912d-ad7306da26eb.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/27/20190627-143017-0ff72507912d-ad7306da26eb.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/27/20190627-143017-0ff72507912d-ad7306da26eb.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12557,14 +12557,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-27T14:30:17",
           "id": 11530,
           "tags": [],
-          "archive_path": "2019/06/27/14301727.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/27/20190627-143017-0ff72507912d-ad7306da26eb.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12374328.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12374328.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190628-12-37-43.jpg",
-          "width": 3016,
-          "height": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-123743-245b813d0a59-e7d1f916c44b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-123743-245b813d0a59-e7d1f916c44b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/28/20190628-123743-245b813d0a59-e7d1f916c44b.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 134",
@@ -12572,12 +12572,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-28T12:37:43",
           "id": 11562,
           "tags": [],
-          "archive_path": "2019/06/28/12374328.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/28/20190628-123743-245b813d0a59-e7d1f916c44b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12404428.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12404428.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190628-12-40-44.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124044-8d6559d63b71-fc73f1f7519a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124044-8d6559d63b71-fc73f1f7519a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/28/20190628-124044-8d6559d63b71-fc73f1f7519a.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12587,12 +12587,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-28T12:40:44",
           "id": 11569,
           "tags": [],
-          "archive_path": "2019/06/28/12404428.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/28/20190628-124044-8d6559d63b71-fc73f1f7519a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12405128.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12405128.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190628-12-40-51.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124051-da9c2f470171-8b24a99c15b3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124051-da9c2f470171-8b24a99c15b3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/28/20190628-124051-da9c2f470171-8b24a99c15b3.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12602,12 +12602,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-28T12:40:51",
           "id": 11570,
           "tags": [],
-          "archive_path": "2019/06/28/12405128.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/28/20190628-124051-da9c2f470171-8b24a99c15b3.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12421628.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12421628.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190628-12-42-16.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124216-5ef56a09d150-2a2626079c83.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124216-5ef56a09d150-2a2626079c83.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/28/20190628-124216-5ef56a09d150-2a2626079c83.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12617,12 +12617,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-28T12:42:16",
           "id": 11571,
           "tags": [],
-          "archive_path": "2019/06/28/12421628.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/28/20190628-124216-5ef56a09d150-2a2626079c83.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12422628.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12422628.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190628-12-42-26.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124226-7c1ae2323e20-a5c7d459c0ce.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124226-7c1ae2323e20-a5c7d459c0ce.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/28/20190628-124226-7c1ae2323e20-a5c7d459c0ce.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12632,13 +12632,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-28T12:42:26",
           "id": 11573,
           "tags": [],
-          "archive_path": "2019/06/28/12422628.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/28/20190628-124226-7c1ae2323e20-a5c7d459c0ce.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12480728.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12480728.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190628-12-48-07.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124807-dacf0b5b64e5-b62b83ab419f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124807-dacf0b5b64e5-b62b83ab419f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/28/20190628-124807-dacf0b5b64e5-b62b83ab419f.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12647,12 +12647,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-28T12:48:07",
           "id": 11579,
           "tags": [],
-          "archive_path": "2019/06/28/12480728.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/28/20190628-124807-dacf0b5b64e5-b62b83ab419f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12482328.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12482328.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190628-12-48-23.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124823-fa0e4f32d6de-7855c2f3a86b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-124823-fa0e4f32d6de-7855c2f3a86b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/28/20190628-124823-fa0e4f32d6de-7855c2f3a86b.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12662,13 +12662,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-28T12:48:23",
           "id": 11581,
           "tags": [],
-          "archive_path": "2019/06/28/12482328.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/28/20190628-124823-fa0e4f32d6de-7855c2f3a86b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12501628.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/12501628.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190628-12-50-16.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-125016-241589c08458-324ba7b6d74a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-125016-241589c08458-324ba7b6d74a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/28/20190628-125016-241589c08458-324ba7b6d74a.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12677,13 +12677,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-28T12:50:16",
           "id": 11589,
           "tags": [],
-          "archive_path": "2019/06/28/12501628.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/28/20190628-125016-241589c08458-324ba7b6d74a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/14224228.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/14224228.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190628-14-22-42.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-142242-a9407915bd18-303e79c68455.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-142242-a9407915bd18-303e79c68455.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/28/20190628-142242-a9407915bd18-303e79c68455.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12692,13 +12692,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-28T14:22:42",
           "id": 11598,
           "tags": [],
-          "archive_path": "2019/06/28/14224228.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/28/20190628-142242-a9407915bd18-303e79c68455.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/15024328.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/28/15024328.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190628-15-02-43.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-150243-24d218e4c1dd-7538633744e9.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/28/20190628-150243-24d218e4c1dd-7538633744e9.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/28/20190628-150243-24d218e4c1dd-7538633744e9.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12707,13 +12707,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-28T15:02:43",
           "id": 11610,
           "tags": [],
-          "archive_path": "2019/06/28/15024328.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/28/20190628-150243-24d218e4c1dd-7538633744e9.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/11174029.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/11174029.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-11-17-40.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-111740-83c09f3af49a-0a4d1d07e021.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-111740-83c09f3af49a-0a4d1d07e021.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-111740-83c09f3af49a-0a4d1d07e021.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12722,12 +12722,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T11:17:40",
           "id": 11630,
           "tags": [],
-          "archive_path": "2019/06/29/11174029.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-111740-83c09f3af49a-0a4d1d07e021.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/11525329.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/11525329.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-11-52-53.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-115253-736468fad5ff-0dd9589cf061.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-115253-736468fad5ff-0dd9589cf061.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-115253-736468fad5ff-0dd9589cf061.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12737,12 +12737,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T11:52:53",
           "id": 11662,
           "tags": [],
-          "archive_path": "2019/06/29/11525329.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-115253-736468fad5ff-0dd9589cf061.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/12034529.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/12034529.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-12-03-45-2.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-120345-af48dc7de605-000eabeb8dd5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-120345-af48dc7de605-000eabeb8dd5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-120345-af48dc7de605-000eabeb8dd5.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "",
@@ -12755,13 +12755,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Bahamas2019",
             "Web"
           ],
-          "archive_path": "2019/06/29/12034529.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-120345-af48dc7de605-000eabeb8dd5.jpg"
         },
         {
           "id": 11665,
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/12034529.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/12034529.jpg",
-          "thumb": "albums/bahamas/thumb/12034529.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-120345-af48dc7de605-000eabeb8dd5.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-120345-af48dc7de605-000eabeb8dd5.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-120345-af48dc7de605-000eabeb8dd5.jpg",
           "width": 4000,
           "height": 3000,
           "caption": "OLYMPUS DIGITAL CAMERA",
@@ -12773,13 +12773,13 @@ window.EARTH_HISTORY_GALLERIES = {
             "Bahamas2019",
             "Web"
           ],
-          "archive_path": "2019/06/29/12034529.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-120345-af48dc7de605-000eabeb8dd5.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/12472129.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/12472129.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-12-47-21.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-124721-215db3f3e746-5795242735d6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-124721-215db3f3e746-5795242735d6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-124721-215db3f3e746-5795242735d6.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12788,13 +12788,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T12:47:21",
           "id": 11674,
           "tags": [],
-          "archive_path": "2019/06/29/12472129.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-124721-215db3f3e746-5795242735d6.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13214329.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13214329.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-13-21-43.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-132143-64526be77de5-782177e39208.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-132143-64526be77de5-782177e39208.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-132143-64526be77de5-782177e39208.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12803,12 +12803,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T13:21:43",
           "id": 11688,
           "tags": [],
-          "archive_path": "2019/06/29/13214329.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-132143-64526be77de5-782177e39208.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13264829.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13264829.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-13-26-48.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-132648-952a1a6a0501-cad23c7e4120.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-132648-952a1a6a0501-cad23c7e4120.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-132648-952a1a6a0501-cad23c7e4120.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12818,13 +12818,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T13:26:48",
           "id": 11705,
           "tags": [],
-          "archive_path": "2019/06/29/13264829.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-132648-952a1a6a0501-cad23c7e4120.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13300129.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13300129.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-13-30-01.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-133001-8c0e1bb7a810-92f9a19e5fe6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-133001-8c0e1bb7a810-92f9a19e5fe6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-133001-8c0e1bb7a810-92f9a19e5fe6.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12833,12 +12833,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T13:30:01",
           "id": 11723,
           "tags": [],
-          "archive_path": "2019/06/29/13300129.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-133001-8c0e1bb7a810-92f9a19e5fe6.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13413629.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13413629.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-13-41-36.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-134136-87cd62bfb9da-0ad3ae5ddfca.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-134136-87cd62bfb9da-0ad3ae5ddfca.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-134136-87cd62bfb9da-0ad3ae5ddfca.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12848,13 +12848,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T13:41:36",
           "id": 11739,
           "tags": [],
-          "archive_path": "2019/06/29/13413629.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-134136-87cd62bfb9da-0ad3ae5ddfca.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13440729.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13440729.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-13-44-07.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-134407-c6c630d398e7-b78ef07920b0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-134407-c6c630d398e7-b78ef07920b0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-134407-c6c630d398e7-b78ef07920b0.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12863,13 +12863,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T13:44:07",
           "id": 11741,
           "tags": [],
-          "archive_path": "2019/06/29/13440729.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-134407-c6c630d398e7-b78ef07920b0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13544529.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13544529.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-13-54-45.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-135445-43c3a2b269b5-645a14bca909.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-135445-43c3a2b269b5-645a14bca909.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-135445-43c3a2b269b5-645a14bca909.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12878,13 +12878,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T13:54:45",
           "id": 11752,
           "tags": [],
-          "archive_path": "2019/06/29/13544529.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-135445-43c3a2b269b5-645a14bca909.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13552329.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13552329.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-13-55-23.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-135523-f9599aca9283-8c0e25136571.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-135523-f9599aca9283-8c0e25136571.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-135523-f9599aca9283-8c0e25136571.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12893,12 +12893,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T13:55:23",
           "id": 11755,
           "tags": [],
-          "archive_path": "2019/06/29/13552329.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-135523-f9599aca9283-8c0e25136571.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13570729.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13570729.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-13-57-07.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-135707-5b354db12e3a-79ea18f3a364.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-135707-5b354db12e3a-79ea18f3a364.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-135707-5b354db12e3a-79ea18f3a364.jpg",
           "width": 3016,
           "height": 4016,
           "caption": "",
@@ -12908,13 +12908,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T13:57:07",
           "id": 11760,
           "tags": [],
-          "archive_path": "2019/06/29/13570729.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-135707-5b354db12e3a-79ea18f3a364.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13574929.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/13574929.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-13-57-49.jpg",
-          "width": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-135749-efdf81c1150c-7e03ae1cc682.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-135749-efdf81c1150c-7e03ae1cc682.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-135749-efdf81c1150c-7e03ae1cc682.jpg",
+          "width": 4040,
           "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
@@ -12923,14 +12923,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T13:57:49",
           "id": 11765,
           "tags": [],
-          "archive_path": "2019/06/29/13574929.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-135749-efdf81c1150c-7e03ae1cc682.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/14051829.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/14051829.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-14-05-18.jpg",
-          "width": 3016,
-          "height": 4016,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-140518-4aea08da40d8-9fd6806958e4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-140518-4aea08da40d8-9fd6806958e4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-140518-4aea08da40d8-9fd6806958e4.jpg",
+          "width": 4040,
+          "height": 3016,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 157",
@@ -12938,12 +12938,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T14:05:18",
           "id": 11778,
           "tags": [],
-          "archive_path": "2019/06/29/14051829.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-140518-4aea08da40d8-9fd6806958e4.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/14062529.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/14062529.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-14-06-25.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-140625-f55c0e9cca60-d057574ce264.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-140625-f55c0e9cca60-d057574ce264.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-140625-f55c0e9cca60-d057574ce264.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12953,12 +12953,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T14:06:25",
           "id": 11781,
           "tags": [],
-          "archive_path": "2019/06/29/14062529.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-140625-f55c0e9cca60-d057574ce264.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/14081829.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/29/14081829.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190629-14-08-18.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-140818-b4f94b781906-745722a0cc39.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/29/20190629-140818-b4f94b781906-745722a0cc39.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/29/20190629-140818-b4f94b781906-745722a0cc39.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12968,12 +12968,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-29T14:08:18",
           "id": 11784,
           "tags": [],
-          "archive_path": "2019/06/29/14081829.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/29/20190629-140818-b4f94b781906-745722a0cc39.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/30/11482330.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2019/06/30/11482330.jpg",
-          "thumb": "Gallery/thumb_bahamas/20190630-11-48-23.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/30/20190630-114823-9941b91edc07-03016a3e212f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2019/06/30/20190630-114823-9941b91edc07-03016a3e212f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2019/06/30/20190630-114823-9941b91edc07-03016a3e212f.jpg",
           "width": 4016,
           "height": 3016,
           "caption": "",
@@ -12983,7 +12983,7 @@ window.EARTH_HISTORY_GALLERIES = {
           "captured_at": "2019-06-30T11:48:23",
           "id": 11817,
           "tags": [],
-          "archive_path": "2019/06/30/11482330.jpg"
+          "archive_path": "web/photo-system/v1/full/2019/06/30/20190630-114823-9941b91edc07-03016a3e212f.jpg"
         }
       ]
     },
@@ -12997,14 +12997,14 @@ window.EARTH_HISTORY_GALLERIES = {
       ],
       "meta": "November 2008 - January 2009 \u00b7 22 photos",
       "dateRange": "November 2008 - January 2009",
-      "heroImage": "Gallery/thumb_sa/20081109-02-40-51.jpg",
+      "heroImage": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/11/09/20081109-024051-badfed9487cb-255861525432.jpg",
       "filename": "south_australia.html",
       "photos": [
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/11/09/02405109.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/11/09/02405109.jpg",
-          "thumb": "Gallery/thumb_sa/20081109-02-40-51.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/11/09/20081109-024051-badfed9487cb-255861525432.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/11/09/20081109-024051-badfed9487cb-255861525432.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/11/09/20081109-024051-badfed9487cb-255861525432.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "",
           "author": "Blake Dyer",
@@ -13015,13 +13015,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/11/09/02405109.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/11/09/20081109-024051-badfed9487cb-255861525432.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/11/12/10510912.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/11/12/10510912.jpg",
-          "thumb": "Gallery/thumb_sa/20081112-10-51-09.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/11/12/20081112-105109-c9ecfc80b899-507f25d11599.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/11/12/20081112-105109-c9ecfc80b899-507f25d11599.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/11/12/20081112-105109-c9ecfc80b899-507f25d11599.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "",
           "author": "Blake Dyer",
@@ -13032,13 +13032,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/11/12/10510912.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/11/12/20081112-105109-c9ecfc80b899-507f25d11599.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/11/20/11332120.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/11/20/11332120.jpg",
-          "thumb": "Gallery/thumb_sa/20081120-11-33-21.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/11/20/20081120-113321-bb0ace4f3cc5-db004f67b874.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/11/20/20081120-113321-bb0ace4f3cc5-db004f67b874.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/11/20/20081120-113321-bb0ace4f3cc5-db004f67b874.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "",
           "author": "Blake Dyer",
@@ -13049,14 +13049,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/11/20/11332120.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/11/20/20081120-113321-bb0ace4f3cc5-db004f67b874.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/11/20/11342320.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/11/20/11342320.jpg",
-          "thumb": "Gallery/thumb_sa/20081120-11-34-23.jpg",
-          "width": 2868,
-          "height": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/11/20/20081120-113423-42b12cdae2a6-b2fc7d79c3df.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/11/20/20081120-113423-42b12cdae2a6-b2fc7d79c3df.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/11/20/20081120-113423-42b12cdae2a6-b2fc7d79c3df.jpg",
+          "width": 4352,
+          "height": 2868,
           "caption": "Jon and Catherine starting on a morning traverse",
           "author": "Blake Dyer",
           "alt": "Jon and Catherine starting on a morning traverse",
@@ -13066,13 +13066,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/11/20/11342320.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/11/20/20081120-113423-42b12cdae2a6-b2fc7d79c3df.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/11/20/11423020.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/11/20/11423020.jpg",
-          "thumb": "Gallery/thumb_sa/20081120-11-42-30.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/11/20/20081120-114230-9ea6b94b78b2-2b5fcbf510dd.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/11/20/20081120-114230-9ea6b94b78b2-2b5fcbf510dd.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/11/20/20081120-114230-9ea6b94b78b2-2b5fcbf510dd.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "",
           "author": "Blake Dyer",
@@ -13083,13 +13083,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/11/20/11423020.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/11/20/20081120-114230-9ea6b94b78b2-2b5fcbf510dd.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/07/03413207.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/07/03413207.jpg",
-          "thumb": "Gallery/thumb_sa/20081207-03-41-32.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/07/20081207-034132-ab7fd201eabb-bc0a6115c842.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/07/20081207-034132-ab7fd201eabb-bc0a6115c842.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/12/07/20081207-034132-ab7fd201eabb-bc0a6115c842.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "The Pound Quartzite often forms spectacular cliffs in South Australia",
           "author": "Blake Dyer",
@@ -13100,13 +13100,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/12/07/03413207.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/12/07/20081207-034132-ab7fd201eabb-bc0a6115c842.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/07/03560707.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/07/03560707.jpg",
-          "thumb": "Gallery/thumb_sa/20081207-03-56-07.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/07/20081207-035607-d324cea108a9-40167438b478.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/07/20081207-035607-d324cea108a9-40167438b478.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/12/07/20081207-035607-d324cea108a9-40167438b478.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "The Nuccaleena Formation (the Marinoan cap carbonate) in front of the Pound Quartzite",
           "author": "Blake Dyer",
@@ -13117,13 +13117,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/12/07/03560707.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/12/07/20081207-035607-d324cea108a9-40167438b478.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/07/04122207.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/07/04122207.jpg",
-          "thumb": "Gallery/thumb_sa/20081207-04-12-22-2.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/07/20081207-041222-55c9643dc9a2-bb798301691f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/07/20081207-041222-55c9643dc9a2-bb798301691f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/12/07/20081207-041222-55c9643dc9a2-bb798301691f.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "The dolomitic Nuccaleena Formation capping the glacially derived Elatina Formation (Marinoan Snowball Earth)",
           "author": "Blake Dyer",
@@ -13134,13 +13134,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/12/07/04122207.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/12/07/20081207-041222-55c9643dc9a2-bb798301691f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/08/08125608.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/08/08125608.jpg",
-          "thumb": "Gallery/thumb_sa/20081208-08-12-56.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/08/20081208-081256-c929537b0953-e0536133e293.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/08/20081208-081256-c929537b0953-e0536133e293.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/12/08/20081208-081256-c929537b0953-e0536133e293.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "Impressive stromatolites from the Trezona Formation",
           "author": "Blake Dyer",
@@ -13151,13 +13151,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/12/08/08125608.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/12/08/20081208-081256-c929537b0953-e0536133e293.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/08/10244408.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/08/10244408.jpg",
-          "thumb": "Gallery/thumb_sa/20081208-10-24-44-2.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/08/20081208-102444-95c04e319916-c6961e347221.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/08/20081208-102444-95c04e319916-c6961e347221.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/12/08/20081208-102444-95c04e319916-c6961e347221.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "The Trezona Formation",
           "author": "Blake Dyer",
@@ -13168,14 +13168,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/12/08/10244408.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/12/08/20081208-102444-95c04e319916-c6961e347221.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/14/05201914.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2008/12/14/05201914.jpg",
-          "thumb": "Gallery/thumb_sa/20081214-05-20-19.jpg",
-          "width": 2868,
-          "height": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/14/20081214-052019-e59fcfdb775c-b3d3e271b76d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2008/12/14/20081214-052019-e59fcfdb775c-b3d3e271b76d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2008/12/14/20081214-052019-e59fcfdb775c-b3d3e271b76d.jpg",
+          "width": 4352,
+          "height": 2868,
           "caption": "Glacial erratics sitting in carbonate at the top of the Trezona formation",
           "author": "Blake Dyer",
           "alt": "Glacial erratics sitting in carbonate at the top of the Trezona formation",
@@ -13185,13 +13185,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2008/12/14/05201914.jpg"
+          "archive_path": "web/photo-system/v1/full/2008/12/14/20081214-052019-e59fcfdb775c-b3d3e271b76d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/07/07270207.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/07/07270207.jpg",
-          "thumb": "Gallery/thumb_sa/20090107-07-27-02-2.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/07/20090107-072702-5423a511a2c7-07ceddd5149e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/07/20090107-072702-5423a511a2c7-07ceddd5149e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/07/20090107-072702-5423a511a2c7-07ceddd5149e.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "The rain comes to chase us away",
           "author": "Blake Dyer",
@@ -13202,13 +13202,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/07/07270207.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/07/20090107-072702-5423a511a2c7-07ceddd5149e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/07/07502207.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/07/07502207.jpg",
-          "thumb": "Gallery/thumb_sa/20090107-07-50-22.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/07/20090107-075022-7df242ca526d-91774aaa2671.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/07/20090107-075022-7df242ca526d-91774aaa2671.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/07/20090107-075022-7df242ca526d-91774aaa2671.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "",
           "author": "Blake Dyer",
@@ -13219,13 +13219,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/07/07502207.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/07/20090107-075022-7df242ca526d-91774aaa2671.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/07/08324407.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/07/08324407.jpg",
-          "thumb": "Gallery/thumb_sa/20090107-08-32-44-3.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/07/20090107-083244-0f5a7fb9b4bc-cd15ed8f8e18.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/07/20090107-083244-0f5a7fb9b4bc-cd15ed8f8e18.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/07/20090107-083244-0f5a7fb9b4bc-cd15ed8f8e18.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "Small scale faulting",
           "author": "Blake Dyer",
@@ -13236,13 +13236,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/07/08324407.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/07/20090107-083244-0f5a7fb9b4bc-cd15ed8f8e18.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/07/08363207.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/07/08363207.jpg",
-          "thumb": "Gallery/thumb_sa/20090107-08-36-32.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/07/20090107-083632-de5440eba682-b371cf4b33db.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/07/20090107-083632-de5440eba682-b371cf4b33db.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/07/20090107-083632-de5440eba682-b371cf4b33db.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "Flute casts",
           "author": "Blake Dyer",
@@ -13253,13 +13253,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/07/08363207.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/07/20090107-083632-de5440eba682-b371cf4b33db.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/08/08143008.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/08/08143008.jpg",
-          "thumb": "Gallery/thumb_sa/20090108-08-14-30.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/08/20090108-081430-318dc6ed3c57-c228e75f0e6a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/08/20090108-081430-318dc6ed3c57-c228e75f0e6a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/08/20090108-081430-318dc6ed3c57-c228e75f0e6a.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "",
           "author": "Blake Dyer",
@@ -13270,13 +13270,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/08/08143008.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/08/20090108-081430-318dc6ed3c57-c228e75f0e6a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/13/05591313.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/13/05591313.jpg",
-          "thumb": "Gallery/thumb_sa/20090113-05-59-13.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/13/20090113-055913-d6a2c5c4efd7-5d77d7c7f7fb.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/13/20090113-055913-d6a2c5c4efd7-5d77d7c7f7fb.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/13/20090113-055913-d6a2c5c4efd7-5d77d7c7f7fb.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "",
           "author": "Blake Dyer",
@@ -13287,13 +13287,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/13/05591313.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/13/20090113-055913-d6a2c5c4efd7-5d77d7c7f7fb.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/13/08120413.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/13/08120413.jpg",
-          "thumb": "Gallery/thumb_sa/20090113-08-12-04.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/13/20090113-081204-d15b948bca87-2f39d56d9b8b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/13/20090113-081204-d15b948bca87-2f39d56d9b8b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/13/20090113-081204-d15b948bca87-2f39d56d9b8b.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "The layers in this fine grain sandstone have been interpreted as tidal cycles",
           "author": "Blake Dyer",
@@ -13304,13 +13304,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/13/08120413.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/13/20090113-081204-d15b948bca87-2f39d56d9b8b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/13/08385313.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/13/08385313.jpg",
-          "thumb": "Gallery/thumb_sa/20090113-08-38-53-2.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/13/20090113-083853-51108fb6f8d1-9f1101c353aa.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/13/20090113-083853-51108fb6f8d1-9f1101c353aa.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/13/20090113-083853-51108fb6f8d1-9f1101c353aa.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "",
           "author": "Blake Dyer",
@@ -13321,13 +13321,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/13/08385313.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/13/20090113-083853-51108fb6f8d1-9f1101c353aa.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/13/10260613.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/13/10260613.jpg",
-          "thumb": "Gallery/thumb_sa/20090113-10-26-06.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/13/20090113-102606-b49926ea8bb5-8fbaf2a8ff71.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/13/20090113-102606-b49926ea8bb5-8fbaf2a8ff71.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/13/20090113-102606-b49926ea8bb5-8fbaf2a8ff71.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "",
           "author": "Blake Dyer",
@@ -13338,14 +13338,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/13/10260613.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/13/20090113-102606-b49926ea8bb5-8fbaf2a8ff71.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/17/10280317.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/17/10280317.jpg",
-          "thumb": "Gallery/thumb_sa/20090117-10-28-03.jpg",
-          "width": 2868,
-          "height": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/17/20090117-102803-2f3260660a16-393ce1f4afab.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/17/20090117-102803-2f3260660a16-393ce1f4afab.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/17/20090117-102803-2f3260660a16-393ce1f4afab.jpg",
+          "width": 4352,
+          "height": 2868,
           "caption": "Glacial striations on Precambrian rocks caused by late Paleozoic ice sheets",
           "author": "Blake Dyer",
           "alt": "Glacial striations on Precambrian rocks caused by late Paleozoic ice sheets",
@@ -13355,13 +13355,13 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/17/10280317.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/17/20090117-102803-2f3260660a16-393ce1f4afab.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/17/10313017.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2009/01/17/10313017.jpg",
-          "thumb": "Gallery/thumb_sa/20090117-10-31-30.jpg",
-          "width": 4310,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/17/20090117-103130-8bd1f8be5e4f-cb896ba5b354.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2009/01/17/20090117-103130-8bd1f8be5e4f-cb896ba5b354.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2009/01/17/20090117-103130-8bd1f8be5e4f-cb896ba5b354.jpg",
+          "width": 4352,
           "height": 2868,
           "caption": "",
           "author": "Blake Dyer",
@@ -13372,7 +13372,7 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "South Australia"
           ],
-          "archive_path": "2009/01/17/10313017.jpg"
+          "archive_path": "web/photo-system/v1/full/2009/01/17/20090117-103130-8bd1f8be5e4f-cb896ba5b354.jpg"
         }
       ]
     },
@@ -13384,17 +13384,17 @@ window.EARTH_HISTORY_GALLERIES = {
         "Indonesia adds a different tectonic and environmental setting to the archive, linking tropical carbonates with volcanic and coastal landscapes.",
         "The photographs preserve broad field context together with the textures and relationships observed at individual stops."
       ],
-      "meta": "August 2012 - September 2012 \u00b7 45 photos",
+      "meta": "August 2012 - September 2012 \u00b7 41 photos",
       "dateRange": "August 2012 - September 2012",
-      "heroImage": "Gallery/Indonesia/thumb/2012_08_10_18_13_03.jpg",
+      "heroImage": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/10/20120810-181303-ed324048cf11-5ec38f0a29a7.jpg",
       "filename": "Indonesia.html",
       "photos": [
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/18130310.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/18130310.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_10_18_13_03.jpg",
-          "width": 3648,
-          "height": 2736,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/10/20120810-181303-ed324048cf11-5ec38f0a29a7.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/10/20120810-181303-ed324048cf11-5ec38f0a29a7.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/10/20120810-181303-ed324048cf11-5ec38f0a29a7.jpg",
+          "width": 3744,
+          "height": 2784,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 1",
@@ -13404,14 +13404,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/10/18130310.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/10/20120810-181303-ed324048cf11-5ec38f0a29a7.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/18363410.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/18363410.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_10_18_36_34.jpg",
-          "width": 4928,
-          "height": 3264,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/10/20120810-183634-fbf60409661c-f9ef578ffb9b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/10/20120810-183634-fbf60409661c-f9ef578ffb9b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/10/20120810-183634-fbf60409661c-f9ef578ffb9b.jpg",
+          "width": 4948,
+          "height": 3280,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 2",
@@ -13421,14 +13421,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/10/18363410.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/10/20120810-183634-fbf60409661c-f9ef578ffb9b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/18510710.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/18510710.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_10_18_51_07.jpg",
-          "width": 4928,
-          "height": 3264,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/10/20120810-185107-376ef15b6751-c46a82a06f21.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/10/20120810-185107-376ef15b6751-c46a82a06f21.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/10/20120810-185107-376ef15b6751-c46a82a06f21.jpg",
+          "width": 4948,
+          "height": 3280,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 3",
@@ -13438,14 +13438,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/10/18510710.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/10/20120810-185107-376ef15b6751-c46a82a06f21.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/21152110.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/21152110.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_10_21_15_21.jpg",
-          "width": 3648,
-          "height": 2736,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/10/20120810-211521-4a17e9128299-ce854c611cd0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/10/20120810-211521-4a17e9128299-ce854c611cd0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/10/20120810-211521-4a17e9128299-ce854c611cd0.jpg",
+          "width": 3744,
+          "height": 2784,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 4",
@@ -13455,27 +13455,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/10/21152110.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/10/20120810-211521-4a17e9128299-ce854c611cd0.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/23233410.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/23233410.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_10_23_23_34.jpg",
-          "width": 2400,
-          "height": 1590,
-          "caption": "",
-          "author": "Blake Dyer",
-          "alt": "Field photograph 5",
-          "file": "23233410.jpg",
-          "captured_at": "2012-08-10T23:23:34",
-          "archive_path": "2012/08/10/23233410.jpg"
-        },
-        {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/23262610.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/10/23262610.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_10_23_26_26.jpg",
-          "width": 4928,
-          "height": 3264,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/10/20120810-232626-121ec221899e-a82bc57ee78d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/10/20120810-232626-121ec221899e-a82bc57ee78d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/10/20120810-232626-121ec221899e-a82bc57ee78d.jpg",
+          "width": 4948,
+          "height": 3280,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 6",
@@ -13485,12 +13472,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/10/23262610.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/10/20120810-232626-121ec221899e-a82bc57ee78d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/11/22032911.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/11/22032911.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_11_22_03_29.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/11/20120811-220329-1296c10bc5fc-5b429fe56d10.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/11/20120811-220329-1296c10bc5fc-5b429fe56d10.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/11/20120811-220329-1296c10bc5fc-5b429fe56d10.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13502,12 +13489,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/11/22032911.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/11/20120811-220329-1296c10bc5fc-5b429fe56d10.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/12/19134712.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/12/19134712.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_12_19_13_47.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/12/20120812-191347-355e936afb1e-3068ec6da355.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/12/20120812-191347-355e936afb1e-3068ec6da355.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/12/20120812-191347-355e936afb1e-3068ec6da355.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "",
@@ -13519,12 +13506,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/12/19134712.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/12/20120812-191347-355e936afb1e-3068ec6da355.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/00581813.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/00581813.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_13_00_58_18.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-005818-931b6db23edf-401e7d4ffad9.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-005818-931b6db23edf-401e7d4ffad9.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/13/20120813-005818-931b6db23edf-401e7d4ffad9.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "",
@@ -13536,25 +13523,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/13/00581813.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/13/20120813-005818-931b6db23edf-401e7d4ffad9.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/03365213.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/03365213.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_13_03_36_52.jpg",
-          "width": 2400,
-          "height": 1590,
-          "caption": "",
-          "author": "Blake Dyer",
-          "alt": "Field photograph 10",
-          "file": "03365213.jpg",
-          "captured_at": "2012-08-13T03:36:52",
-          "archive_path": "2012/08/13/03365213.jpg"
-        },
-        {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/03571213.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/03571213.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_13_03_57_12.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-035712-efc1d9739237-5ace119b689a.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-035712-efc1d9739237-5ace119b689a.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/13/20120813-035712-efc1d9739237-5ace119b689a.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13566,12 +13540,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/13/03571213.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/13/20120813-035712-efc1d9739237-5ace119b689a.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/03591713.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/03591713.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_13_03_59_17.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-035917-f9bc322eea00-f761b1e54f47.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-035917-f9bc322eea00-f761b1e54f47.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/13/20120813-035917-f9bc322eea00-f761b1e54f47.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13583,12 +13557,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/13/03591713.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/13/20120813-035917-f9bc322eea00-f761b1e54f47.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/04251213.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/04251213.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_13_04_25_12.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-042512-33af7411a5ef-372289b5711b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-042512-33af7411a5ef-372289b5711b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/13/20120813-042512-33af7411a5ef-372289b5711b.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13600,14 +13574,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/13/04251213.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/13/20120813-042512-33af7411a5ef-372289b5711b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/05030413.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/05030413.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_13_05_03_04.jpg",
-          "width": 4928,
-          "height": 3264,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-050304-c0d710096a64-75b805a2fe0e.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-050304-c0d710096a64-75b805a2fe0e.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/13/20120813-050304-c0d710096a64-75b805a2fe0e.jpg",
+          "width": 4948,
+          "height": 3280,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 14",
@@ -13617,12 +13591,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/13/05030413.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/13/20120813-050304-c0d710096a64-75b805a2fe0e.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/05061713.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/05061713.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_13_05_06_17.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-050617-106dc35622d9-f2058b148768.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-050617-106dc35622d9-f2058b148768.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/13/20120813-050617-106dc35622d9-f2058b148768.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13634,12 +13608,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/13/05061713.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/13/20120813-050617-106dc35622d9-f2058b148768.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/05092813.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/05092813.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_13_05_09_28.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-050928-db895f2baf1a-a7d4ea509fc2.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-050928-db895f2baf1a-a7d4ea509fc2.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/13/20120813-050928-db895f2baf1a-a7d4ea509fc2.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13651,12 +13625,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/13/05092813.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/13/20120813-050928-db895f2baf1a-a7d4ea509fc2.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/05325813.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/05325813.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_13_05_32_46.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-053258-73599fce8beb-a993a4b4e10f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-053258-73599fce8beb-a993a4b4e10f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/13/20120813-053258-73599fce8beb-a993a4b4e10f.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13668,12 +13642,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/13/05325813.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/13/20120813-053258-73599fce8beb-a993a4b4e10f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/16560713.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/13/16560713.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_13_16_56_07.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-165607-d95ba7efb900-4fabea811b72.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/13/20120813-165607-d95ba7efb900-4fabea811b72.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/13/20120813-165607-d95ba7efb900-4fabea811b72.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "",
@@ -13685,12 +13659,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/13/16560713.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/13/20120813-165607-d95ba7efb900-4fabea811b72.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/08584114.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/08584114.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_14_08_58_41.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-085841-9e85be61aa65-291b6724a004.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-085841-9e85be61aa65-291b6724a004.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/14/20120814-085841-9e85be61aa65-291b6724a004.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13702,12 +13676,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/14/08584114.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/14/20120814-085841-9e85be61aa65-291b6724a004.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/08591014.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/08591014.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_14_08_59_10.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-085910-a6c08580b4c1-f8b5bf720ac3.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-085910-a6c08580b4c1-f8b5bf720ac3.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/14/20120814-085910-a6c08580b4c1-f8b5bf720ac3.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13719,12 +13693,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/14/08591014.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/14/20120814-085910-a6c08580b4c1-f8b5bf720ac3.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/08592414.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/08592414.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_14_08_59_24.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-085924-aaf2b69e2c3d-42540f8d69fa.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-085924-aaf2b69e2c3d-42540f8d69fa.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/14/20120814-085924-aaf2b69e2c3d-42540f8d69fa.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13736,12 +13710,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/14/08592414.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/14/20120814-085924-aaf2b69e2c3d-42540f8d69fa.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/09001314.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/09001314.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_14_09_00_13.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-090013-997b91b4d07f-1d795e6ff7fc.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-090013-997b91b4d07f-1d795e6ff7fc.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/14/20120814-090013-997b91b4d07f-1d795e6ff7fc.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13753,12 +13727,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/14/09001314.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/14/20120814-090013-997b91b4d07f-1d795e6ff7fc.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/09121514.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/09121514.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_14_09_12_15.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-091215-27d14b1d20f8-3d5ff55dbd1b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-091215-27d14b1d20f8-3d5ff55dbd1b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/14/20120814-091215-27d14b1d20f8-3d5ff55dbd1b.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13770,12 +13744,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/14/09121514.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/14/20120814-091215-27d14b1d20f8-3d5ff55dbd1b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/17470514.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/14/17470514.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_14_17_47_05.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-174705-ec8501bc3863-5be2d54511be.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/14/20120814-174705-ec8501bc3863-5be2d54511be.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/14/20120814-174705-ec8501bc3863-5be2d54511be.jpg",
           "width": 2736,
           "height": 3648,
           "caption": "",
@@ -13787,12 +13761,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/14/17470514.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/14/20120814-174705-ec8501bc3863-5be2d54511be.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/16/16473316.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/16/16473316.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_16_16_47_33.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/16/20120816-164733-67f7756f8820-dffea07d4b6d.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/16/20120816-164733-67f7756f8820-dffea07d4b6d.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/16/20120816-164733-67f7756f8820-dffea07d4b6d.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13804,12 +13778,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/16/16473316.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/16/20120816-164733-67f7756f8820-dffea07d4b6d.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/17/08191417.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/17/08191417.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_17_08_19_14.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/17/20120817-081914-2c38d8d940d0-4cb63710fd90.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/17/20120817-081914-2c38d8d940d0-4cb63710fd90.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/17/20120817-081914-2c38d8d940d0-4cb63710fd90.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13821,12 +13795,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/17/08191417.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/17/20120817-081914-2c38d8d940d0-4cb63710fd90.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/17/08322517.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/17/08322517.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_17_08_32_25.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/17/20120817-083225-0fed09ab1784-9c1087286903.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/17/20120817-083225-0fed09ab1784-9c1087286903.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/17/20120817-083225-0fed09ab1784-9c1087286903.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13838,12 +13812,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/17/08322517.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/17/20120817-083225-0fed09ab1784-9c1087286903.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/17/09131617.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/17/09131617.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_17_09_13_16.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/17/20120817-091316-ca2cbd1f3ba4-0ac3bb6f97d2.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/17/20120817-091316-ca2cbd1f3ba4-0ac3bb6f97d2.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/17/20120817-091316-ca2cbd1f3ba4-0ac3bb6f97d2.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13855,12 +13829,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/17/09131617.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/17/20120817-091316-ca2cbd1f3ba4-0ac3bb6f97d2.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/17/10142317.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/17/10142317.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_17_10_14_23.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/17/20120817-101423-2b53582bd804-7b1ed4d6bfc8.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/17/20120817-101423-2b53582bd804-7b1ed4d6bfc8.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/17/20120817-101423-2b53582bd804-7b1ed4d6bfc8.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13872,12 +13846,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/17/10142317.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/17/20120817-101423-2b53582bd804-7b1ed4d6bfc8.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/17/18002517.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/17/18002517.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_17_18_00_25.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/17/20120817-180025-08bdc62a8e41-c91e07fb356c.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/17/20120817-180025-08bdc62a8e41-c91e07fb356c.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/17/20120817-180025-08bdc62a8e41-c91e07fb356c.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "Babirusa",
@@ -13889,12 +13863,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/17/18002517.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/17/20120817-180025-08bdc62a8e41-c91e07fb356c.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/18/06245618.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/18/06245618.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_18_06_24_56.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/18/20120818-062456-34f3789b462e-284560b77f89.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/18/20120818-062456-34f3789b462e-284560b77f89.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/18/20120818-062456-34f3789b462e-284560b77f89.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13906,12 +13880,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/18/06245618.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/18/20120818-062456-34f3789b462e-284560b77f89.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/18/16281418.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/18/16281418.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_18_16_28_14.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/18/20120818-162814-45bdb738a021-73f919ecccf1.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/18/20120818-162814-45bdb738a021-73f919ecccf1.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/18/20120818-162814-45bdb738a021-73f919ecccf1.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13923,25 +13897,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/18/16281418.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/18/20120818-162814-45bdb738a021-73f919ecccf1.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/20/08325020.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/20/08325020.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_20_08_32_50.jpg",
-          "width": 2400,
-          "height": 1590,
-          "caption": "",
-          "author": "Blake Dyer",
-          "alt": "Field photograph 33",
-          "file": "08325020.jpg",
-          "captured_at": "2012-08-20T08:32:50",
-          "archive_path": "2012/08/20/08325020.jpg"
-        },
-        {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/20/17310020.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/20/17310020.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_20_17_31_00.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/20/20120820-173100-14d590db4669-f758e3dcb113.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/20/20120820-173100-14d590db4669-f758e3dcb113.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/20/20120820-173100-14d590db4669-f758e3dcb113.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -13953,14 +13914,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/20/17310020.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/20/20120820-173100-14d590db4669-f758e3dcb113.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/23/16044923.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/23/16044923.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_23_16_04_39.jpg",
-          "width": 4928,
-          "height": 3264,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/23/20120823-160449-c606e4da9041-4ec1919fb161.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/23/20120823-160449-c606e4da9041-4ec1919fb161.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/23/20120823-160449-c606e4da9041-4ec1919fb161.jpg",
+          "width": 4948,
+          "height": 3280,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 35",
@@ -13970,27 +13931,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/23/16044923.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/23/20120823-160449-c606e4da9041-4ec1919fb161.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/25/08002325.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/25/08002325.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_25_08_00_23.jpg",
-          "width": 2400,
-          "height": 1590,
-          "caption": "",
-          "author": "Blake Dyer",
-          "alt": "Field photograph 36",
-          "file": "08002325.jpg",
-          "captured_at": "2012-08-25T08:00:23",
-          "archive_path": "2012/08/25/08002325.jpg"
-        },
-        {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/25/08130825.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/25/08130825.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_25_08_13_07.jpg",
-          "width": 4928,
-          "height": 3264,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/25/20120825-081308-948c4d48db46-36b0108f5f6f.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/25/20120825-081308-948c4d48db46-36b0108f5f6f.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/25/20120825-081308-948c4d48db46-36b0108f5f6f.jpg",
+          "width": 4948,
+          "height": 3280,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 37",
@@ -14000,12 +13948,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/25/08130825.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/25/20120825-081308-948c4d48db46-36b0108f5f6f.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/25/16251925.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/25/16251925.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_25_16_25_19.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/25/20120825-162519-fc2d7a175f88-746d21b45ee2.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/25/20120825-162519-fc2d7a175f88-746d21b45ee2.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/25/20120825-162519-fc2d7a175f88-746d21b45ee2.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "",
@@ -14017,14 +13965,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/25/16251925.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/25/20120825-162519-fc2d7a175f88-746d21b45ee2.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/25/16511825.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/08/25/16511825.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_08_25_16_51_18.jpg",
-          "width": 4928,
-          "height": 3264,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/25/20120825-165118-ad16d868f203-a681066b24b6.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/08/25/20120825-165118-ad16d868f203-a681066b24b6.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/08/25/20120825-165118-ad16d868f203-a681066b24b6.jpg",
+          "width": 4948,
+          "height": 3280,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 39",
@@ -14034,14 +13982,14 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/08/25/16511825.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/08/25/20120825-165118-ad16d868f203-a681066b24b6.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/02/07120302.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/02/07120302.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_09_02_07_12_03.jpg",
-          "width": 4928,
-          "height": 3264,
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/02/20120902-071203-899f605d15ed-94968bddc768.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/02/20120902-071203-899f605d15ed-94968bddc768.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/09/02/20120902-071203-899f605d15ed-94968bddc768.jpg",
+          "width": 4948,
+          "height": 3280,
           "caption": "",
           "author": "Blake Dyer",
           "alt": "Field photograph 40",
@@ -14051,12 +13999,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/09/02/07120302.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/09/02/20120902-071203-899f605d15ed-94968bddc768.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/02/10373502.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/02/10373502.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_09_02_10_37_35.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/02/20120902-103735-52e5e42f1170-8ede6d141e9b.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/02/20120902-103735-52e5e42f1170-8ede6d141e9b.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/09/02/20120902-103735-52e5e42f1170-8ede6d141e9b.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -14068,12 +14016,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/09/02/10373502.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/09/02/20120902-103735-52e5e42f1170-8ede6d141e9b.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/02/16430402.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/02/16430402.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_09_02_16_43_04.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/02/20120902-164304-08522cc665dc-4a2a5b071b96.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/02/20120902-164304-08522cc665dc-4a2a5b071b96.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/09/02/20120902-164304-08522cc665dc-4a2a5b071b96.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -14085,12 +14033,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/09/02/16430402.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/09/02/20120902-164304-08522cc665dc-4a2a5b071b96.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/03/08434403.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/03/08434403.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_09_03_08_43_44.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/03/20120903-084344-e71c024b3601-2e77548682e4.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/03/20120903-084344-e71c024b3601-2e77548682e4.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/09/03/20120903-084344-e71c024b3601-2e77548682e4.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "Ivory Breasted Pitta",
@@ -14102,12 +14050,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/09/03/08434403.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/09/03/20120903-084344-e71c024b3601-2e77548682e4.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/06/15214606.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/06/15214606.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_09_06_15_21_46.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/06/20120906-152146-db12a0b48913-4a096157b217.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/06/20120906-152146-db12a0b48913-4a096157b217.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/09/06/20120906-152146-db12a0b48913-4a096157b217.jpg",
           "width": 4928,
           "height": 3264,
           "caption": "",
@@ -14119,12 +14067,12 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/09/06/15214606.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/09/06/20120906-152146-db12a0b48913-4a096157b217.jpg"
         },
         {
-          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/06/16203306.jpg",
-          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/2012/09/06/16203306.jpg",
-          "thumb": "Gallery/Indonesia/thumb/2012_09_06_16_20_33.jpg",
+          "src": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/06/20120906-162033-e3d82e61feb5-ed9361c681b0.jpg",
+          "display": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/full/2012/09/06/20120906-162033-e3d82e61feb5-ed9361c681b0.jpg",
+          "thumb": "https://earth-history-uvic.s3.us-west-004.backblazeb2.com/web/photo-system/v1/thumb/2012/09/06/20120906-162033-e3d82e61feb5-ed9361c681b0.jpg",
           "width": 3648,
           "height": 2736,
           "caption": "",
@@ -14136,7 +14084,7 @@ window.EARTH_HISTORY_GALLERIES = {
           "tags": [
             "Indonesia"
           ],
-          "archive_path": "2012/09/06/16203306.jpg"
+          "archive_path": "web/photo-system/v1/full/2012/09/06/20120906-162033-e3d82e61feb5-ed9361c681b0.jpg"
         }
       ]
     }
